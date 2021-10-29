@@ -296,7 +296,7 @@ Any player or coach who physically assaults an umpire will be permanently banish
 All players in the C.M.B.A. are expected to pay their team fees. Players will not be allowed to switch teams within the association unless or until any and all debts are paid in full.
 
 ## Section 14 
-A player must inform the League President and his manager no later than February 15th of the upcoming season if he wishes to leave his team and become a free agent. After this he is free to play for another team in the CMBA.
+A player must inform the League President and his manager no later than February 5 of the upcoming season if he wishes to leave his team and become a free agent. After this he is free to play for another team in the CMBA.
 
   A.  If the player fails to notify as specified above, that player shall be disqualified from playing on another C.M.B.A. team for that season.
       1. A manager may waive this deadline for an individual player at the managers discretion.
@@ -323,7 +323,7 @@ All games shall be seven (7) innings or:
   A.  The umpire calls the game for just cause under the rules.
   A.  Rain or other inclement weather precludes safe conditions.
   A.  A tie score extends the game into extra innings.
-  A.  SlaughterRule: If after 4 complete innings the visiting team is ahead in the score by 15 or more runs OR if after 3½ innings the home team is ahead by the same, the game will be ended and the leading team declared the winner.
+  A.  Slaughter Rule: If after 4 complete innings the visiting team is ahead in the score by 15 or more runs OR if after 3½ innings the home team is ahead by the same, the game will be ended and the leading team declared the winner.
       1. If after 5 or more complete innings the visiting team is ahead in the score by 12 or more runs OR if after 4½ innings or more the home team is ahead by the same, the game will be ended and the leading team declared the winner.
   A.  Individual games as part of a doubleheader have a 2½ hour time limit for the start of the last inning.
       1. This rule shall not apply in playoff or championship games.
@@ -334,7 +334,7 @@ The starting time for all weeknight games shall be 5:50 p.m.. Starting times for
   A.  Only games played at lighted fields can legally begin after 6:30PM..
 
 ## Section 4 
-Teams may begin a game with eight (8) players up to two (2) times in one season. The game must begin as soon as a team has 8 players present, a team cannot wait until forfeit time. If the 9th player does not arrive, or arrives after forfeit time the game is declared a technical forfeit.
+Teams may begin a game with eight (8) players up to two (2) times in one season. The game must begin as soon as a team has 8 players present, a team cannot wait until forfeit time. If the ninth player does not arrive, or arrives after forfeit time the game is declared a technical forfeit.
 
   A.  In the event a team starts a game with eight (8) players, the ninth spot in the batting order shall be considered an out recorded to the pitcher.
       1. A team may insert a ninth player in the vacant ninth spot after the start of play.
@@ -357,7 +357,7 @@ In the event that a game does not go the necessary seven (7) innings, it shall b
 No inning can start after 8:00 p.m. unless the following circumstances exist:
 
   A.  The game is played at a lighted field.
-  A.  The umpire may stop a game prior to the completion of seven (7) innings if he determines that rain or darkness prohibits the safe continuation of the game. In this event, the team with the lead at the end of the last completed full inning shall be declared the winner, unless the home team has assumed the lead in the incompleted inning; then the home team is declared the winner.
+  A.  The umpire may stop a game prior to the completion of seven (7) innings if he determines that rain or darkness prohibits the safe continuation of the game. In this event, the team with the lead at the end of the last completed full inning shall be declared the winner, unless the home team has assumed the lead in the incomplete inning; then the home team is declared the winner.
 
 ## Section 8 
 All teams are expected to have a set of bases, a home plate, and a pitching rubber. The home team shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. Should the home team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team can lend the equipment, although they are not required to do so.
@@ -435,7 +435,7 @@ On any close play at ANY base, it is the base runners responsibility to slide OR
       1. A flagrant collision is defined as an intentional act to forcibly collide with a fielder.
 
 ## Section 27 
-Discussion of a disputed umpires call shall be limited to the managers, base coaches and the "injured" player. No player or coach (ie third party) shall be allowed to leave the dugout or his defensive position to join in. The penalty for violating this rule shall be the immediate ejection from the game for the perpetrator.
+Discussion of a disputed umpires call shall be limited to the managers, base coaches and the "injured" player. No player or coach (i.e. third party) shall be allowed to leave the dugout or his defensive position to join in. The penalty for violating this rule shall be the immediate ejection from the game for the perpetrator.
 
 ## Section 28 
 All bats bust be wood or BBCOR certified.
