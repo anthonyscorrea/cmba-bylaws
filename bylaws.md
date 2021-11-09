@@ -298,7 +298,7 @@ Any player or coach who physically assaults an umpire will be permanently banish
 All players in the C.M.B.A. are expected to pay their team fees. Players will not be allowed to switch teams within the association unless or until any and all debts are paid in full.
 
 ## Section 14
-A player must inform the League President and his manager no later than February 5 of the upcoming season if he wishes to leave his team and become a free agent. After this he is free to play for another team in the CMBA.
+A player must inform the League President and his manager no later than February 15th of the upcoming season if he wishes to leave his team and become a free agent. After this he is free to play for another team in the CMBA.
 
   A. If the player fails to notify as specified above, that player shall be disqualified from playing on another C.M.B.A. team for that season.
       1. A manager may waive this deadline for an individual player at the managers discretion.
@@ -356,7 +356,7 @@ In the event that a game does not go the necessary seven (7) innings, it shall b
   A. The only exception to any of above shall be if one team is ahead by 10 or more runs at the end of three (3) complete innings and the game cannot be completed on account of darkness, rain or other circumstances that will permit the safe conclusion of the game. The team ahead at this time shall be declared the winner of the game.
 
 ## Section 7
-No inning can start after 8:00 p.m. unless the following circumstances exist:
+No inning can start after 8:15 p.m. unless the following circumstances exist:
 
   A. The game is played at a lighted field.
   A. The umpire may stop a game prior to the completion of seven (7) innings if he determines that rain or darkness prohibits the safe continuation of the game. In this event, the team with the lead at the end of the last completed full inning shall be declared the winner, unless the home team has assumed the lead in the incomplete inning; then the home team is declared the winner.
