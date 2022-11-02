@@ -1,7 +1,10 @@
-# CMBA Constitution and Bylaws
-![CMBA Logo](cmba-logo.svg|width=100)
+<p align="center">
+<img src="https://github.com/anthonyscorrea/silver-memory/blob/a712bca2516c3e860f2c61ea383a3132ead0614b/cmba-logo.svg" width="200">
+</p>
 
-The Constitution and Bylaws for the baseball league known as the [Chicago Metropolitan Baseball Association (CMBA)](http://cmbabaseball.com).
+# CMBA Constitution and Bylaws
+
+The Constitution and Bylaws for the baseball league known as the [Chicago Metropolitan Baseball Association (CMBA)](#about-the-cmba).
 
 The compiled, published text can be found in the following formats:
 - [PDF](build/cmba-bylaws.pdf)
@@ -31,7 +34,7 @@ cd cmba-bylaws-master
 ```
 make {format}
 ```
-were format is one of the below:
+were `{format}` is one of the below:
    - All [default]: `make all` or `make`
    - PDF: `make pdf`
    - html: `make html`
@@ -40,7 +43,8 @@ were format is one of the below:
 
 ## Markdown formatting
 
-- `#` or `h1` is used for either "Consitution" or "Bylaws". They are not numbered, necessitating an `{.unnumbered}` class. Note: to get the numbering to match existing convention, a [Lua filter](https://github.com/jgm/pandoc/issues/5071#issuecomment-856918980) was required, see [jgm/pandoc#5701](https://github.com/jgm/pandoc/issues/5071)
+- `#` or `h1` is used for either "Consitution" or "Bylaws". They are not numbered, necessitating an `{.unnumbered}` class. 
+   - Note: to get the numbering to match existing convention, a [Lua filter](https://github.com/jgm/pandoc/issues/5071#issuecomment-856918980) was required, see [jgm/pandoc#5701](https://github.com/jgm/pandoc/issues/5071)
 - `##` or `h2` is used for sections
 - `###` or `h3` is used for subsections
 
@@ -48,13 +52,14 @@ were format is one of the below:
 
 Metadata is stored in the `metadata.yml` file.
 
-## About the CMBA
-This baseball league known as the Chicago Metropolitan Baseball Association (CMBA) has been formed for the purpose of providing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the Association.
-
 ## Project history
 
-The constitution and bylaws were modernized in 2021, using Google Docs. This project brings that effort into Git and Github. Previous commits show a generated plaintext history (thanks to [gitdriver](https://github.com/larsks/gitdriver)) of the changes prior to this project, with the first being from 2016.
+The constitution and bylaws were modernized in 2021, using Google Docs. This project brings that effort into Git and Github. Previous commits show a generated plaintext history of the changes prior to this project (thanks to [gitdriver](https://github.com/larsks/gitdriver)), with the first being the version from 2016.
 
 ## To-Do
 - [ ] Spell Checking 
 - [ ] Remove dependence on make, verify Windows support
+
+## About the CMBA
+This baseball league known as the [Chicago Metropolitan Baseball Association (CMBA)](http://cmbabaseball.com) has been formed for the purpose of providing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the Association.
+
