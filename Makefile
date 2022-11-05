@@ -44,6 +44,10 @@ html: $(SOURCEDIR)/$(SOURCEFILENAME).md
 epub: $(SOURCEDIR)/$(SOURCEFILENAME).md
 	$(PANDOC) $(PANDOC_OPTIONS) $(PANDOC_EPUB_OPTIONS) '$<' -o $(BUILDDIR)/$(BUILDFILENAME).$@
 
+github:
+	@make html
+	@cp -a $(BUILDDIR)/$(BUILDFILENAME).html ./index.html
+
 # Targets and dependencies
 .PHONY: all clean
 
