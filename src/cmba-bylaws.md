@@ -261,7 +261,17 @@ A player must inform the League President and his manager no later than February
 ## General Play
 
 ### Playing Rules
-The CMBA shall follow the playing rules of the American League with the inclusion and possible exclusion of other rules as found in this document.
+Except where specified in this document, the CMBA shall follow the Official Baseball Rules of Major League Baseball.
+
+The CMBA shall not incorporate the following rules of Major League Baseball:
+
+- Rule 4.03(c)(4) specifying limitations on when a position player can pitch.
+- Rule 5.02(c) specifying limitations on infielder placement.
+- Rule 7.01(b) incorporating the parameters of the Extra Innings Rule, which includes starting each half-inning following the last regu lation inning with a runner on second base.
+- Rule 5.10(m)(1) limiting the number of mound visits.
+- Rule 5.10(g) requiring that pitchers must face at least three batters.
+- Rules 5.07(c) specifying time limits on pitchers and batters. Limitations on pitcher disengagments (i.e. pick-offs) shall also not be incorporated.
+
 
 ### Regulation Games
 Games played under the auspices of both recognized Managers of the participating teams shall count as official. A regulation game is defined as follows
@@ -302,13 +312,17 @@ A team may finish the game a player short, that is one (1) player less than they
 1. Should a team fall below the minimum, the game is terminated and the team loses by forfeit.
 
 ### Player Injuries
-Should a player suffer a debilitating injury during the game and cannot continue, and a team has no more eligible players on it’s bench, a team can use a player that was removed from the game to replace him. This replacement player must be the first player removed from the game, and if this player is unavailable the next player is used (and so on).
+Should a player suffer a debilitating injury during the game and cannot continue, and a team has no more eligible players on its bench, a team can use a player that was removed from the game to replace him. This replacement player must be the first player removed from the game, and if this player is unavailable the next player is used (and so on). If no reserve is present, the vacated spot in the lineup is skipped and all batters move up accordingly, with no penalty to the affected team.
+
+1. If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, a protest by the opposing team may retroactively be ruled as a forfeit.
 
 ### Equipment
 
 1. Baseballs: Only Major League regulation balls will be allowed for game play. Accepted brands and ball types include, but are not limited to, the Rawlings RO series, Wilson A1000 series, and Diamond D-1 series. The home team must supply two (2) and the visitors one (1) ball at the start of each game. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls shall forfeit the game.
 1. Bats: All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject to the Major League rules that govern this area.
-1. Bases, home plate, and pitching rubber:  All teams are expected to have a set of bases, a home plate, and a pitching rubber. The home team shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. Should the home team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team can lend the equipment, although they are not required to do so.
+1. Bases, home plate, and pitching rubber:  All teams are expected to have a set of bases, a home plate, and a pitching rubber. These items shall conform to Major League Baseball specifications. Items conforming to 2022 specifications shall also be considered legal.
+
+The home team shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. Should the home team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team can lend the equipment, although they are not required to do so.
 
 ### Field Maintenance
 All teams are responsible for the maintenance and cleanup of the field and dugout areas after a game. Both teams must fill in all infield, batter’s box, and pitching mound holes. Additionally, both teams must have adequate equipment on hand for field maintenance. Teams who repeatedly fail to do proper post-game maintenance shall be fined.
@@ -317,10 +331,15 @@ All teams are responsible for the maintenance and cleanup of the field and dugou
 Umpires are to be paid on the field promptly upon request.
 
 ### Designated Hitter
-The Association shall follow the American League designated hitter rule at all times, however a team may D.H. for any position on the field. Teams are not obligated to play a DH.
+The Association shall follow the Major League designated hitter rule at all times, with the exception that a team may designate a D.H. for any position on the field.
 
 ### Designated Runner
-A team may designate one player to run the bases in place of any one player in the lineup, similar to a designated hitter. The designated runner must take the place of that player whenever that player reaches base. Designated runners are subject to the same substitution limitations as a designated hitter.
+The Association shall elect to use a designated runner rule, similar to the designated hitter rule.
+
+1. A runner may be designated to run for a specified player in any game without otherwise affecting the status of the player(s) in the game.
+1. The designated runner must take the place of the specified player whenever that player reaches base or the designated runner. 
+1. If the specified player is substituted, this substitute player may inherit the designated runner.
+1. Designated runners are subject to the same substitution rules as the designated hitter as defined in [Designated Hitter](#designated-hitter)
 
 ### Extra Hitter
 Prior to the start of the game a team may choose to play an extra hitter (EH). If the team uses this option, the following conditions apply:
@@ -335,8 +354,27 @@ Teams may use courtesy runners for pitchers and catchers at any time. It is not 
 1. Courtesy runners for pitchers and catchers cannot be, or have been, in the game at any time other than as a courtesy runner. Teams with no eligible players remaining on the bench must use the first player taken out of the game or the player that made the last out.
 1. The pitcher or catcher must play at least one (1) defensive out to be eligible for a courtesy runner unless they reach base in the first inning as a member of the visiting team.
 
+### Batting Lineup
+The batting lineup shall consist of at minimum 9 slots (or 8 adhering to section [Minimum Number of Players](#minimum-number-of-players)). Additional slots may be used without limit (see [Extra Hitter](#extra-hitter)). Any player may be substituted in their batting lineup slot by using a pinch-hitter or pinch-runner for that player. The original player may not re-enter the game as a hitter.
+
+### A/B Batting Lineup Slots
+In regular season play, any batting lineup slot may be optionally designated as an "A/B" batting slot, meaning it is shared between two players adhering to the following rules:
+
+1. The batter designated "A" shall bat the first time through the lineup and the batter designated "B" batting the second time through the lineup, continuing in alternating fashion for the remainder of the game. 
+2. Rules for the substitutions of either "A" or "B" batter are the same as any other batting lineup slot.
+3. In the event of injury of either player when there are no reserve players available, the uninjured player shall bat in place of the injured player without penalty.
+
+In postseason play, the A/B batting slot rule defined above shall not be applicable.
+
+### Defensive Lineup
+In regular season play, the defensive line-up is independent of the batting lineup and substitutions shall be allowed as follows:
+
+1. Any player may be freely substituted in the defensive line-up at any time, without affecting the players’ in the batting line-up. Players may enter, exit, and re-enter the game in the defensive line-up without limitation.
+
+In postseason play, the free defensive substitution rule defined above shall not be applicable and substitutions shall be made in accordance to applicable CMBA and MLB rules.
+
 ### Field Status
-The home team shall be responsible for checking the status of the field in the event of rain. The home team must report to the President on the status of the field no later than 2:00 pm for a weeknight game, and at least 2 hrs. before a weekend game. The visiting manager is encouraged to contact the President for information regarding the status of the field.
+The home team shall be responsible for checking the status of the field in the event of rain. The home team must report the status of the field to the President and the assigned umpire no later than 2:00 pm for a weeknight game, and at least 2 hrs. before a weekend game. As a courtesy, the home team should also notify the visiting manager, but the visiting manager may also contact the President for information regarding the status of the field.
 
 1. Any manager who knowingly falsifies information regarding the status of the field to avoid playing the game will be fined and the team will forfeit the game.
 
@@ -366,7 +404,7 @@ Discussion of a disputed umpires call shall be limited to the managers, base coa
 All protests must be filed with the President within 48 hours of the alleged infraction and on the League supplied form. All requested information must be accurately reported. Any manager who knowingly falsifies information on the protest form will be fined and suspended as determined by the President, and that manager’s team will forfeit the game.
 
 ### Ground for Protest
-Protests may only be made on the grounds of a violation of a rule stated in this Constitution and its By-Laws or in violation of a stated American League rule. Protests may not, under any circumstances, be based on the judgment of an umpire’s call. The protesting team’s manager must notify the umpire of the protest at the time the violation occurred. Managers shall notify the league president at the earliest possible time after the game and provide umpire signature as proof of notification.
+Protests may only be made on the grounds of a violation of a rule stated in this Constitution and its By-Laws or in violation of a stated Major League Baseball rule. Protests may not, under any circumstances, be based on the judgment of an umpire’s call. The protesting team’s manager must notify the umpire of the protest at the time the violation occurred. Managers shall notify the league president at the earliest possible time after the game and provide umpire signature as proof of notification.
 
 ### Ruling
 Upon the filing of a protest with the President, the President shall call a meeting of the Rules and Competition Committee at the earliest possible date. Judgment regarding the merit of the protest shall be made after deliberation.
