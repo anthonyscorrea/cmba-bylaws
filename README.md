@@ -70,6 +70,22 @@ Should you want to bypass the pre-commit hook (though not recommended), you can 
 git commit --no-verify".
 ```
 
+## GitHub Pages
+
+The html output can be hosted on GitHub Pages. Currently the site is hosted at the branch [gh-pages](https://github.com/anthonyscorrea/cmba-bylaws/tree/gh-pages). To update this page, you should:
+
+1. First build from the main branch and build html
+```console
+git clone https://github.com/anthonyscorrea/cmba-bylaws.git
+make html
+```
+2. Then clone the gh-pages branch and replace `index.html` with the updated page.
+```console
+git clone https://github.com/anthonyscorrea/cmba-bylaws.git --branch gh-pages cmba-bylaws-gh-pages
+cp ../cmba-bylaws/build/cmba-bylaws.html ./cmba-bylaws-gh-pages/index.html
+git push origin
+```
+
 ## To-Do
 - [X] Spell Checking 
 - [ ] Remove dependence on make, verify Windows support
