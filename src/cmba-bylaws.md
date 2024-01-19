@@ -293,7 +293,7 @@ Games played under the auspices of both recognized Managers of the participating
 
    Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
 
-1. If a game is postponed or otherwise called before it has become a regulation game, the umpire-in-chief shall declare it “No Game,” meaning the game must be restarted at a later date. If a game is postponed or otherwise called due to extraordinary circumstances, in the discretion of the Office of the Commissioner, it shall be a suspended game.
+1. If a game is postponed or otherwise called before it has become a regulation game, the umpire-in-chief shall declare it “No Game,” meaning the game must be restarted (not resumed) at a later date.
 
    Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
 
