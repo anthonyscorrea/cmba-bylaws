@@ -41,7 +41,7 @@ The following shall be considered Officers of the League: President; Treasurer; 
 1. All Officers other than President are subject to yearly review and reelection by League vote.
 
 ### Umpires
-Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility Uniforms](#team-rosters-players-and-eligibility-uniforms) of the By-Laws, except where specified.
+Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the By-Laws, except where specified.
 
 ## Meetings
 
@@ -204,6 +204,14 @@ Teams shall be formally recognized as existing as an entity from April 1 through
 ### Team Name
 Teams new to the Association, regardless of the makeup of the roster, shall not be allowed to use the name of any existing Association team. Teams from other recognized Associations or Leagues entering the CMBA shall be allowed to use any team name provided it was the recognized existing name of the team prior to its membership in the Association. Changes in team names shall not affect a team’s status in the Association in any way provided the original recognized Manager is the entrant of the team.
 
+### Uniform
+All players must be in uniform (bearing the team’s name as represented to the league) by the team’s first regular season game in order to be eligible to participate in games. Players may not obtain the jersey of another team member in order to obtain eligibility.
+
+1. This deadline may be extended by the President at his discretion following a written petition by the team that shows a just and reasonable cause for extension, and evidence of a good faith effort to meet the deadline.
+1. This rule applies to any players legally added to the roster after the stated deadline.
+1. Uniforms shall consist of, but are not limited to, matching team caps and jerseys with assigned team uniform numbers. 
+1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the Association encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
+
 ### Manager
 The Manager is that person who has been officially recognized as the entrant of a team into the Association. The Manager has the ultimate responsibility for the team’s compliance with all by-laws as set forth in this Constitution. The manager of a franchise is responsible for all actions of his players and coaches and may be fined up to fifty dollars ($50.00) for any violations of codes of conduct and league rules as set forth in this document, or any other actions deemed detrimental to the objectives and standards of the Association.
 
@@ -218,15 +226,7 @@ Management of the team may officially change from one person to another during t
 1. Teams with management conflicts of this nature may not play league games until the completion of this hearing and resolution of the conflict.
 Management changes outside of the dates that a team is formally recognized as an entity as specified in [Recognition](#recognition) are beyond the control of the Association and President and are not subject to any formal mechanisms of change as outlined in this Constitution. Resolution of any outstanding conflicts associated with such management changes are the sole responsibility of the parties involved.
 
-### Uniform
-All players must be in uniform (bearing the team’s name as represented to the league) by the team’s first regular season game in order to be eligible to participate in games. Players may not obtain the jersey of another team member in order to obtain eligibility.
-
-1. This deadline may be extended by the President at his discretion following a written petition by the team that shows a just and reasonable cause for extension, and evidence of a good faith effort to meet the deadline.
-1. This rule applies to any players legally added to the roster after the stated deadline.
-1. Uniforms shall consist of, but are not limited to, matching team caps and jerseys with assigned team uniform numbers. 
-1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the Association encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
-
-## Team Rosters; Players and Eligibility; Uniforms
+## Team Rosters; Players and Eligibility
 
 ### Roster Deadline; Roster Size
 Prior to June 1, each team has an “open roster.”  Association teams must submit a roster of their players to the President no later than June 1 of each year. Any team that does not submit its roster to the President by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-managers).  
@@ -247,7 +247,7 @@ If a team would otherwise be required to forfeit or technically forfeit a game a
 
 ### Eligible Players
 Eligible players must be of at least eighteen (18) years of age by the date of the teams first +game. No player may play for more than one team in a season (either before or after June 1).
-A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility Uniforms](#team-rosters-players-and-eligibility-uniforms), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
+A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
 
 ### Postseason Player Eligibility
 Players must appear in at least five (5) games during the regular season in order to be eligible for postseason play. Upon request to the Rules and Competition Committee, exceptions may be made for players with long term injuries.
@@ -299,6 +299,9 @@ An umpire, in their discretion, may declare a game called if
 
 ### Game Time
 The starting time for all weeknight games shall be 5:50 p.m. for fields without lights. Starting times for games played at lighted fields and on the weekends shall be determined by the League and may legally begin after 6:30PM. Forfeit time shall be 20 minutes after the scheduled starting time.
+
+### Player Uniforms
+All players must be in proper uniform in order to be eligible to participate in games, as specified in [Uniform](#uniform).
 
 ### Minimum Number of Players
 Teams must start the game at the scheduled starting time if they have at least eight (8) players present. A team may not wait until forfeit time for players to arrive, the game must begin as soon as a team has 8 players present. If a ninth player does not arrive or arrives after forfeit time, the team shall be in technical forfeit, as defined in [Forfeits](#forfeits).
