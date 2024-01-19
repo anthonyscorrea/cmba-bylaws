@@ -391,6 +391,7 @@ The home team shall be responsible for checking the status of the field in the e
 1. Any manager who knowingly falsifies information regarding the status of the field to avoid playing the game will be fined and the team will forfeit the game.
 
 ### Rescheduling
+In the discretion of the president, a game may be postponed due to extraordinary circumstances. In the event a game is to be postponed, the president shall alert the managers in an expedient manner.
 Managers from both teams must contact the President to confirm any changes that they wish to make to the official schedule. Teams may not change times, places, or dates of games without the consent of the President. Any such games played shall be considered unofficial.
 Any postponed or suspended games must be rescheduled in a timely fashion by the managers of that game for the next possible date. If managers cannot come to an agreement in a timely fashion, the President may reschedule the game.
 
