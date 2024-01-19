@@ -1,0 +1,10 @@
+#!/bin/bash
+set -e
+
+extension_files_to_check=md
+
+function spell_check(){
+  find . -type f -name "*.${extension_files_to_check}" -exec aspell check {} --mode=markdown --home-dir=./.spell-check \;
+}
+
+spell_check

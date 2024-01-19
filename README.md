@@ -43,7 +43,7 @@ were `{format}` is one of the below:
 
 ## Markdown formatting
 
-- `#` or `h1` is used for either "Consitution" or "Bylaws". They are not numbered, necessitating an `{.unnumbered}` class. 
+- `#` or `h1` is used for either "Constitution" or "Bylaws". They are not numbered, necessitating an `{.unnumbered}` class. 
    - Note: to get the numbering to match existing convention, a [Lua filter](https://github.com/jgm/pandoc/issues/5071#issuecomment-856918980) was required, see [jgm/pandoc#5701](https://github.com/jgm/pandoc/issues/5071)
 - `##` or `h2` is used for sections
 - `###` or `h3` is used for subsections
@@ -54,10 +54,24 @@ Metadata is stored in the `metadata.yml` file.
 
 ## Project history
 
-The constitution and bylaws were modernized in 2021, using Google Docs. This project brings that effort into Git and Github. Previous commits show a generated plaintext history of the changes prior to this project (thanks to [gitdriver](https://github.com/larsks/gitdriver)), with the first being the version from 2016.
+The constitution and bylaws were modernized in 2021, using Google Docs. This project brings that effort into Git and Github. Previous commits show a generated plain-text history of the changes prior to this project (thanks to [gitdriver](https://github.com/larsks/gitdriver)), with the first being the version from 2016.
+
+## Spell-checking
+Spell-checking is performed on the pre-commit via [.spell-check/git-spell-check](.spell-check/git-spell-check) (courtesy of [mprpic/git-spell-check](https://github.com/mprpic/git-spell-check))
+
+You can manually run spell-checking of all markdown files by running the script (requires [aspell](http://aspell.net)):
+
+```console
+./.spell-check/spell-check
+```
+
+Should you want to bypass the pre-commit hook (though not recommended), you can commit with 
+```console
+git commit --no-verify".
+```
 
 ## To-Do
-- [ ] Spell Checking 
+- [X] Spell Checking 
 - [ ] Remove dependence on make, verify Windows support
 
 ## About the CMBA

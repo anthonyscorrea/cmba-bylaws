@@ -267,10 +267,10 @@ The CMBA shall not incorporate the following rules of Major League Baseball:
 
 - Rule 4.03(c)(4) specifying limitations on when a position player can pitch.
 - Rule 5.02(c) specifying limitations on infielder placement.
-- Rule 7.01(b) incorporating the parameters of the Extra Innings Rule, which includes starting each half-inning following the last regu lation inning with a runner on second base.
+- Rule 7.01(b) incorporating the parameters of the Extra Innings Rule, which includes starting each half-inning following the last regulation inning with a runner on second base.
 - Rule 5.10(m)(1) limiting the number of mound visits.
 - Rule 5.10(g) requiring that pitchers must face at least three batters.
-- Rules 5.07(c) specifying time limits on pitchers and batters. Limitations on pitcher disengagments (i.e. pick-offs) shall also not be incorporated.
+- Rules 5.07(c) specifying time limits on pitchers and batters. Limitations on pitcher disengagements (i.e. pick-offs) shall also not be incorporated.
 
 
 ### Regulation Games

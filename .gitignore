@@ -8,3 +8,11 @@
 /dataSources.local.xml
 
 .idea/
+*.bbprojectd
+
+# Backups created by aspell
+*.md.bak*
+
+# Tempfiles created by git-spell-check
+docs-dictionary-*
+temp_file-*
