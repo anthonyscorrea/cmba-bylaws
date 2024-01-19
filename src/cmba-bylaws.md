@@ -282,11 +282,20 @@ Games played under the auspices of both recognized Managers of the participating
    1. If four innings have been completed;
    1. If the home team has scored more runs in four or three and a fraction half-innings than the visiting team has scored in four completed half-innings;
    1. If the home team scores one or more runs in its half of the fourth inning to tie the score.
-Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
-1. If after 4 complete innings the visiting team is ahead in the score by 15 or more runs, or if after 3½ innings the home team is ahead by the same, the game will be ended and the leading team declared the winner. (commonly referred to as the “slaughter rule”)
-1. If after 5 or more complete innings the visiting team is ahead in the score by 12 or more runs, or if after 4½ innings or more the home team is ahead by the same, the game will be ended and the leading team declared the winner. (commonly referred to as the “slaughter rule”)
+   
+   Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
+1. Slaughter Rule: The game shall be ended and the leading team declared the winner:
+   1. If after 4 complete innings the visiting team is ahead in the score by 15 or more runs, or if after 3½ innings the home team is ahead by the same, the game will be ended and the leading team declared the winner. 
+   1. If after 5 or more complete innings the visiting team is ahead in the score by 12 or more runs, or if after 4½ innings or more the home team is ahead by the same, the game will be ended and the leading team declared the winner.
+
+   The Slaughter Rule is applicable for the playoffs as specified in [Completion of Playoff Games](#completion-of-playoff-games).
 1. If a game is called after 3 complete innings and one team is ahead by 10 or more runs, the game will be ended and the leading team declared the winner. 
-Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
+
+   Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
+
+1. If a game is postponed or otherwise called before it has become a regulation game, the umpire-in-chief shall declare it “No Game,” meaning the game must be restarted at a later date. If a game is postponed or otherwise called due to extraordinary circumstances, in the discretion of the Office of the Commissioner, it shall be a suspended game.
+
+   Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
 
 ### Reasons for a Game to be Called
 An umpire, in their discretion, may declare a game called if
