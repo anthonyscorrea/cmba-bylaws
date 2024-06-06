@@ -41,7 +41,7 @@ The following shall be considered Officers of the League: President; Treasurer; 
 1. All Officers other than President are subject to yearly review and reelection by League vote.
 
 ### Umpires
-Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility Uniforms](#team-rosters-players-and-eligibility-uniforms) of the By-Laws, except where specified.
+Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the By-Laws, except where specified.
 
 ## Meetings
 
@@ -204,6 +204,14 @@ Teams shall be formally recognized as existing as an entity from April 1 through
 ### Team Name
 Teams new to the Association, regardless of the makeup of the roster, shall not be allowed to use the name of any existing Association team. Teams from other recognized Associations or Leagues entering the CMBA shall be allowed to use any team name provided it was the recognized existing name of the team prior to its membership in the Association. Changes in team names shall not affect a team’s status in the Association in any way provided the original recognized Manager is the entrant of the team.
 
+### Uniform
+All players must be in uniform (bearing the team’s name as represented to the league) by the team’s first regular season game in order to be eligible to participate in games. Players may not obtain the jersey of another team member in order to obtain eligibility.
+
+1. This deadline may be extended by the President at his discretion following a written petition by the team that shows a just and reasonable cause for extension, and evidence of a good faith effort to meet the deadline.
+1. This rule applies to any players legally added to the roster after the stated deadline.
+1. Uniforms shall consist of, but are not limited to, matching team caps and jerseys with assigned team uniform numbers. 
+1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the Association encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
+
 ### Manager
 The Manager is that person who has been officially recognized as the entrant of a team into the Association. The Manager has the ultimate responsibility for the team’s compliance with all by-laws as set forth in this Constitution. The manager of a franchise is responsible for all actions of his players and coaches and may be fined up to fifty dollars ($50.00) for any violations of codes of conduct and league rules as set forth in this document, or any other actions deemed detrimental to the objectives and standards of the Association.
 
@@ -218,15 +226,7 @@ Management of the team may officially change from one person to another during t
 1. Teams with management conflicts of this nature may not play league games until the completion of this hearing and resolution of the conflict.
 Management changes outside of the dates that a team is formally recognized as an entity as specified in [Recognition](#recognition) are beyond the control of the Association and President and are not subject to any formal mechanisms of change as outlined in this Constitution. Resolution of any outstanding conflicts associated with such management changes are the sole responsibility of the parties involved.
 
-### Uniform
-All players must be in uniform (bearing the team’s name as represented to the league) by the team’s first regular season game in order to be eligible to participate in games. Players may not obtain the jersey of another team member in order to obtain eligibility.
-
-1. This deadline may be extended by the President at his discretion following a written petition by the team that shows a just and reasonable cause for extension, and evidence of a good faith effort to meet the deadline.
-1. This rule applies to any players legally added to the roster after the stated deadline.
-1. Uniforms shall consist of, but are not limited to, matching team caps and jerseys with assigned team uniform numbers. 
-1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the Association encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
-
-## Team Rosters; Players and Eligibility; Uniforms
+## Team Rosters; Players and Eligibility
 
 ### Roster Deadline; Roster Size
 Prior to June 1, each team has an “open roster.”  Association teams must submit a roster of their players to the President no later than June 1 of each year. Any team that does not submit its roster to the President by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-managers).  
@@ -247,7 +247,7 @@ If a team would otherwise be required to forfeit or technically forfeit a game a
 
 ### Eligible Players
 Eligible players must be of at least eighteen (18) years of age by the date of the teams first +game. No player may play for more than one team in a season (either before or after June 1).
-A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility Uniforms](#team-rosters-players-and-eligibility-uniforms), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
+A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
 
 ### Postseason Player Eligibility
 Players must appear in at least five (5) games during the regular season in order to be eligible for postseason play. Upon request to the Rules and Competition Committee, exceptions may be made for players with long term injuries.
@@ -282,11 +282,20 @@ Games played under the auspices of both recognized Managers of the participating
    1. If four innings have been completed;
    1. If the home team has scored more runs in four or three and a fraction half-innings than the visiting team has scored in four completed half-innings;
    1. If the home team scores one or more runs in its half of the fourth inning to tie the score.
-Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
-1. If after 4 complete innings the visiting team is ahead in the score by 15 or more runs, or if after 3½ innings the home team is ahead by the same, the game will be ended and the leading team declared the winner. (commonly referred to as the “slaughter rule”)
-1. If after 5 or more complete innings the visiting team is ahead in the score by 12 or more runs, or if after 4½ innings or more the home team is ahead by the same, the game will be ended and the leading team declared the winner. (commonly referred to as the “slaughter rule”)
+   
+   Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
+1. Slaughter Rule: The game shall be ended and the leading team declared the winner:
+   1. If after 4 complete innings the visiting team is ahead in the score by 15 or more runs, or if after 3½ innings the home team is ahead by the same, the game will be ended and the leading team declared the winner. 
+   1. If after 5 or more complete innings the visiting team is ahead in the score by 12 or more runs, or if after 4½ innings or more the home team is ahead by the same, the game will be ended and the leading team declared the winner.
+
+   The Slaughter Rule is applicable for the playoffs as specified in [Completion of Playoff Games](#completion-of-playoff-games).
 1. If a game is called after 3 complete innings and one team is ahead by 10 or more runs, the game will be ended and the leading team declared the winner. 
-Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
+
+   Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
+
+1. If a game is postponed or otherwise called before it has become a regulation game, the umpire-in-chief shall declare it “No Game,” meaning the game must be restarted (not resumed) at a later date.
+
+   Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
 
 ### Reasons for a Game to be Called
 An umpire, in their discretion, may declare a game called if
@@ -299,6 +308,9 @@ An umpire, in their discretion, may declare a game called if
 
 ### Game Time
 The starting time for all weeknight games shall be 5:50 p.m. for fields without lights. Starting times for games played at lighted fields and on the weekends shall be determined by the League and may legally begin after 6:30PM. Forfeit time shall be 20 minutes after the scheduled starting time.
+
+### Player Uniforms
+All players must be in proper uniform in order to be eligible to participate in games, as specified in [Uniform](#uniform).
 
 ### Minimum Number of Players
 Teams must start the game at the scheduled starting time if they have at least eight (8) players present. A team may not wait until forfeit time for players to arrive, the game must begin as soon as a team has 8 players present. If a ninth player does not arrive or arrives after forfeit time, the team shall be in technical forfeit, as defined in [Forfeits](#forfeits).
@@ -340,6 +352,7 @@ The Association shall elect to use a designated runner rule, similar to the desi
 1. The designated runner must take the place of the specified player whenever that player reaches base or the designated runner. 
 1. If the specified player is substituted, this substitute player may inherit the designated runner.
 1. Designated runners are subject to the same substitution rules as the designated hitter as defined in [Designated Hitter](#designated-hitter)
+1. Teams with no eligible players remaining on the bench (i.e. all players are in the batting lineup) may elect to use the player that made the last out as the designated runner.
 
 ### Extra Hitter
 Prior to the start of the game a team may choose to play an extra hitter (EH). If the team uses this option, the following conditions apply:
@@ -379,6 +392,7 @@ The home team shall be responsible for checking the status of the field in the e
 1. Any manager who knowingly falsifies information regarding the status of the field to avoid playing the game will be fined and the team will forfeit the game.
 
 ### Rescheduling
+In the discretion of the president, a game may be postponed due to extraordinary circumstances. In the event a game is to be postponed, the president shall alert the managers in an expedient manner.
 Managers from both teams must contact the President to confirm any changes that they wish to make to the official schedule. Teams may not change times, places, or dates of games without the consent of the President. Any such games played shall be considered unofficial.
 Any postponed or suspended games must be rescheduled in a timely fashion by the managers of that game for the next possible date. If managers cannot come to an agreement in a timely fashion, the President may reschedule the game.
 
