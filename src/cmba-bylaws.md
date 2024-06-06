@@ -352,6 +352,7 @@ The Association shall elect to use a designated runner rule, similar to the desi
 1. The designated runner must take the place of the specified player whenever that player reaches base or the designated runner. 
 1. If the specified player is substituted, this substitute player may inherit the designated runner.
 1. Designated runners are subject to the same substitution rules as the designated hitter as defined in [Designated Hitter](#designated-hitter)
+1. Teams with no eligible players remaining on the bench (i.e. all players are in the batting lineup) may elect to use the player that made the last out as the designated runner.
 
 ### Extra Hitter
 Prior to the start of the game a team may choose to play an extra hitter (EH). If the team uses this option, the following conditions apply:
