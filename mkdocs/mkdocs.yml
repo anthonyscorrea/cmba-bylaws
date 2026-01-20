@@ -26,9 +26,8 @@ markdown_extensions:
   # - tables
 nav:
   - Home: index.md
-  - 01-consitution.md
-  - 02-bylaws.md
-  - 03-playing-rules.md
+  - 01-consitution-and-bylaws.md
+  - 02-playing-rules.md
 
 plugins:
   - search
