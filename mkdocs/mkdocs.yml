@@ -1,0 +1,39 @@
+site_name: CMBA Constitution and By-Laws
+docs_dir: ../docs
+
+# Prevent accidental publishing of repo/CI/dev clutter
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: blue
+    accent: red
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+  logo: assets/cmba-logo.svg
+  favicon: assets/cmba-favicon.png
+extra_css:
+  - styles/extra.css
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition:
+  # - tables
+nav:
+  - Home: index.md
+  - 01-consitution.md
+  - 02-bylaws.md
+  - 03-playing-rules.md
+
+plugins:
+  - search
+  - offline
+  - enumerate-headings:
+      toc_depth: 2
+      exclude:
+        - index.md
