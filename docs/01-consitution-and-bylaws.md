@@ -1,9 +1,10 @@
 # Constitution
 
-## Name; Objective
+## Name
+This baseball league shall be known as the Chicago Metropolitan Baseball Association (CMBA). 
 
-### Name
-This baseball league shall be known as the Chicago Metropolitan Baseball Association (CMBA). The CMBA has been formed for the purpose of providing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the Association.
+## Purpose
+The CMBA has been formed for the purpose of providing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the Association.
 
 ### Ethics
 All Association members, including officers, managers, umpires, and players shall strive to be ethical, honorable, and truthful in all dealings concerning the League thereby promoting the Association as a first class league of impeccable integrity.
