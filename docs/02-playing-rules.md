@@ -127,14 +127,14 @@ In regular season play, the defensive line-up is independent of the batting line
 In postseason play, the free defensive substitution rule defined above shall not be applicable and substitutions shall be made in accordance to applicable League and MLB rules.
 
 ## Field Status
-The home team shall be responsible for checking the status of the field in the event of rain. The home team must report the status of the field to the President and the assigned umpire no later than 2:00 pm for a weeknight game, and at least 2 hrs. before a weekend game. As a courtesy, the home team should also notify the visiting manager, but the visiting manager may also contact the President for information regarding the status of the field.
+The home team shall be responsible for checking the status of the field in the event of rain. The home team must report the status of the field to the President and the assigned umpire no later than 2:00 pm for a weeknight game, and at least 2 hrs. before a weekend game. As a courtesy, the home team should also notify the visiting Manager, but the visiting Manager may also contact the President for information regarding the status of the field.
 
-1. Any manager who knowingly falsifies information regarding the status of the field to avoid playing the game will be fined and the team will forfeit the game.
+1. Any Manager who knowingly falsifies information regarding the status of the field to avoid playing the game will be fined and the team will forfeit the game.
 
 ## Rescheduling
-In the discretion of the president, a game may be postponed due to extraordinary circumstances. In the event a game is to be postponed, the president shall alert the managers in an expedient manner.
+In the discretion of the president, a game may be postponed due to extraordinary circumstances. In the event a game is to be postponed, the president shall alert the Managers in an expedient manner.
 Managers from both teams must contact the President to confirm any changes that they wish to make to the official schedule. Teams may not change times, places, or dates of games without the consent of the President. Any such games played shall be considered unofficial.
-Any postponed or suspended games must be rescheduled in a timely fashion by the managers of that game for the next possible date. If managers cannot come to an agreement in a timely fashion, the President may reschedule the game.
+Any postponed or suspended games must be rescheduled in a timely fashion by the Managers of that game for the next possible date. If Managers cannot come to an agreement in a timely fashion, the President may reschedule the game.
 
 ## Notification of Results
 The winning team shall be responsible for notifying the President of the score of the game no later than 10:00 AM the day after the game was played via text message, email, or telephone call.
@@ -150,5 +150,5 @@ NO COLLISIONS ARE ALLOWED, UNLESS THE CONTACT RESULTS FROM A SLIDE. It is the ba
 Unless the umpire rules that the contact was incidental or the result of Obstruction by the fielder, the runner shall be called out, the ball declared dead and the runner automatically ejected from the game. Per [Flagrant Collisions](#flagrant-collisions). if the collision is determined by the umpire to be flagrant the player may be subject to the further penalty as defined in that section.
 
 ## Umpire Disputes
-Discussion of a disputed umpires call shall be limited to the managers, base coaches and the “aggrieved  player. No player or other coach (third party) shall be allowed to leave the dugout or his defensive position to join in. The penalty for violating this rule shall be the immediate ejection from the game.
+Discussion of a disputed umpires call shall be limited to the Managers, base coaches and the “aggrieved  player. No player or other coach (third party) shall be allowed to leave the dugout or his defensive position to join in. The penalty for violating this rule shall be the immediate ejection from the game.
 
