@@ -1,21 +1,21 @@
 # Constitution
 
 ## Name
-This baseball league shall be known as the Chicago Metropolitan Baseball Association (CMBA). 
+The name of the corporation as incorporated and existing under and by virtue of the Illinois General Not for Profit Corporation Act of 1986, as amended ("the Act") shall be The Chicago Metropolitan Baseball League (League) (the "League"). The League shall have powers as are now or as may hereafter be granted by the Act.
 
 ## Purpose
-The CMBA has been formed for the purpose of providing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the Association.
+This League has been formed for the purpose of providing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the League.
 
 ### Ethics
-All Association members, including officers, managers, umpires, and players shall strive to be ethical, honorable, and truthful in all dealings concerning the League thereby promoting the Association as a first class league of impeccable integrity.
+All League members, including officers, managers, umpires, and players shall strive to be ethical, honorable, and truthful in all dealings concerning the League thereby promoting the League as a first class league of impeccable integrity.
 
 ### Sportsmanship
-All Association members, including officers, managers, umpires, and players are expected to behave in a sportsmanlike manner, promoting fair competitive play in a respectful atmosphere.
+All League members, including officers, managers, umpires, and players are expected to behave in a sportsmanlike manner, promoting fair competitive play in a respectful atmosphere.
 
 ## Membership
 
 ### Eligibility
-Membership in the CMBA is open to any amateur baseball franchise in the Greater Chicagoland area that qualifies under the rules and requirements for admission as set forth in this Constitution.
+Membership in the League is open to any amateur baseball franchise in the Greater Chicagoland area that qualifies under the rules and requirements for admission as set forth in this Constitution.
 
 ### Classification; Standing
 Membership shall be divided into the following four (4) classes:
@@ -31,7 +31,7 @@ Membership shall be divided into the following four (4) classes:
    1. May attend league meetings by special invitation of the President.
 
 ### Subjectivity
-All Association members shall abide by and are subject to all rules and regulations as outlined in this Constitution and By-Laws, and are subject to the authority of the President, other Officers, the umpires and any other ruling officials so authorized. These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the managers. This section nullifies the “If both managers agree” concept.
+All League members shall abide by and are subject to all rules and regulations as outlined in this Constitution and By-Laws, and are subject to the authority of the President, other Officers, the umpires and any other ruling officials so authorized. These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the managers. This section nullifies the “If both managers agree” concept.
 
 ## Officers
 The following shall be considered Officers of the League: President; Treasurer; and Rules and Competition Committee Members. Other Officers may be created by the President at his discretion or by vote of League members upon the request of a League Member. All offices shall be filled by an affirmative vote of League members.
@@ -47,7 +47,7 @@ Umpires shall have the sole responsibility for the enforcement of all sections i
 ## Meetings
 
 ### Annual Meeting
-The Association shall hold its annual preseason meeting after January 1 at a time and place set by the President. This meeting must be held in person, except in extenuating circumstances.
+The League shall hold its annual preseason meeting after January 1 at a time and place set by the President. This meeting must be held in person, except in extenuating circumstances.
 
 ### Additional Meetings
 Additional meetings shall be called by the President for reasons at his discretion.
@@ -63,21 +63,21 @@ This constitution may be amended, removed, or added by an affirmative vote of tw
 The complete proposed written text of any amendment(s) to this constitution must be submitted to the representatives of the teams before the amendment(s) can be voted on.
 
 ## Finances
-The President shall determine the franchise and annual entry fees. All other fees will be levied at the discretion of the League President. Fees shall be levied with the understanding that the Association is a not for profit organization.
+The President shall determine the franchise and annual entry fees. All other fees will be levied at the discretion of the League President. Fees shall be levied with the understanding that the League is a not for profit organization.
 
 # By-Laws
 
 ## Definition; Amendments
-These By-Laws shall stand as the official rules of the CMBA.
-All Association members shall abide by and are subject to, without exception, all rules and regulations as outlined in the Constitution and By-Laws as well as the authority of the Association President, in accordance with [Subjectivity](#subjectivity)
+These By-Laws shall stand as the official rules of the League.
+All League members shall abide by and are subject to, without exception, all rules and regulations as outlined in the Constitution and By-Laws as well as the authority of the League President, in accordance with [Subjectivity](#subjectivity)
 
 ### Amending the By-Laws
-By-Laws may be amended, removed, or added by an affirmative vote of two-thirds of the Association members present at the time of the vote.
+By-Laws may be amended, removed, or added by an affirmative vote of two-thirds of the League members present at the time of the vote.
 
 ## League Membership and Fees
 
 ### Standards
-The following standards shall apply for consideration for membership by franchises in the CMBA.
+The following standards shall apply for consideration for membership by franchises in the League.
 
 1. Quality of leadership within the franchise.
 1. Good record of past performance in the following:
@@ -87,18 +87,18 @@ The following standards shall apply for consideration for membership by franchis
    1. Ability of its players.
 
 ### New franchises
-The Association President shall present, upon acceptable review of its qualifications, a new franchise to the members at large for consideration. New franchises are allowed to present a positive case for inclusion.
+The League President shall present, upon acceptable review of its qualifications, a new franchise to the members at large for consideration. New franchises are allowed to present a positive case for inclusion.
 
 1. Acceptance shall be affirmed with a simple majority vote of members in attendance.
 
 ### Acceptance Fee
-A franchise fee of fifty dollars ($50.00) shall be paid to the Association Treasurer upon acceptance into the Association.
+A franchise fee of fifty dollars ($50.00) shall be paid to the League Treasurer upon acceptance into the League.
 
 ### Annual Fee
-All Association members shall pay an annual fee. Per [Finances](#finances), this fee shall be determined by the Association President.
+All League members shall pay an annual fee. Per [Finances](#finances), this fee shall be determined by the League President.
 
 ### Payment of Fees
-All Association members must have all fees paid by a date set by the President.
+All League members must have all fees paid by a date set by the President.
 
 1. Penalty for late payment shall be ten dollars ($10.00) per week for no longer than five (5) weeks.
 1. Members in violation of the above shall be placed on temporary suspension for a period of two (2) weeks.
@@ -108,7 +108,7 @@ All Association members must have all fees paid by a date set by the President.
 The annual League fee shall consist of, but are not limited to the following: Forfeit fee; Performance bond; Field fees; Prize Money Fund; Tournament fees; and any other costs incurred by the League.
 
 ### Fines
-Any Association franchise or player may be susceptible to a fine by the President or Rules Committee as applicable for conduct unbecoming of a representative of the League and for any violation of this Constitution and its By-Laws.
+Any League franchise or player may be susceptible to a fine by the President or Rules Committee as applicable for conduct unbecoming of a representative of the League and for any violation of this Constitution and its By-Laws.
 
 1. Fines shall be determined by the President or committee as applicable and may not exceed fifty dollars ($50.00).
 1. Fines must be paid in full by a date specified by the President. Teams with outstanding fines will be considered not in good standing as defined in Subsection.
@@ -119,16 +119,16 @@ Members in good standing may be granted a leave of absence and are entitled to a
 1. Members in good standing on leave for more than two (2) years must reapply for membership.
 
 ### Temporary Suspension
-An Association franchise may be placed on temporary suspension by the President and are subject to rules set forth in [Classification; Standing](#classification-standing).
+An League franchise may be placed on temporary suspension by the President and are subject to rules set forth in [Classification; Standing](#classification-standing).
 
 ### Indefinite Suspension
-An Association franchise may be placed on indefinite suspension by the President and subject to rules set forth in [Classification; Standing](#classification-standing). Violations that may result in indefinite suspension are as follows:
+An League franchise may be placed on indefinite suspension by the President and subject to rules set forth in [Classification; Standing](#classification-standing). Violations that may result in indefinite suspension are as follows:
 
-1. Conduct detrimental to the objectives of the Association.
-1. Two (2) forfeits of a game in one season. A team that is indefinitely suspended two consecutive seasons for violation of this subsection shall not be permitted to reapply for reinstatement unless a change in management is presented to the league. The new management must be approved by the Association President and ratified by a majority of the association members.
-1. Tampering with players on the roster of another member franchise. Tampering shall be defined as the deliberate solicitation, without consent, by one Association member of a player who has made at least an oral commitment to play for another Association franchise.
+1. Conduct detrimental to the objectives of the League.
+1. Two (2) forfeits of a game in one season. A team that is indefinitely suspended two consecutive seasons for violation of this subsection shall not be permitted to reapply for reinstatement unless a change in management is presented to the league. The new management must be approved by the League President and ratified by a majority of the League members.
+1. Tampering with players on the roster of another member franchise. Tampering shall be defined as the deliberate solicitation, without consent, by one League member of a player who has made at least an oral commitment to play for another League franchise.
 1. Consumption of alcoholic beverages on or in close proximity to the playing fields as detailed in [League Standings](#league-standings)
-1. Violation of any written policies set forth by the issuer of any permits for field use by the Association.
+1. Violation of any written policies set forth by the issuer of any permits for field use by the League.
 1. Failure to comply with any of the stated codes of conduct as set forth in this document.
 
 ### Reinstatement
@@ -141,21 +141,21 @@ The President may request additional fees to cover any costs that exceed the amo
 In the event the President is a franchise holder, the Rules and Competition Committee may levy any and all appropriate fines for infractions of this Constitution and By-Laws by his franchise.
 
 ### Outside Leagues
-Teams may not play in leagues outside of the CMBA, unless that league has a formal agreement with the CMBA that its playing schedule does not conflict with regularly scheduled CMBA games or playoffs.
+Teams may not play in leagues outside of the League, unless that league has a formal agreement with the League that its playing schedule does not conflict with regularly scheduled League games or playoffs.
 
 ## Officer Duties
-As defined in [Officers](#officers), the officers of the Association are the President, Treasurer, Rules and Competition Committee member.
+As defined in [Officers](#officers), the officers of the League are the President, Treasurer, Rules and Competition Committee member.
 
 ### President
 The duties and powers of the President are as follows:
 
 1. Shall serve a life term or until voluntary relinquishment of the office.
 1. Preside over all League meetings.
-1. Official spokesman to news media and others whenever the Association’s point of view is needed.
+1. Official spokesman to news media and others whenever the League’s point of view is needed.
 1. Call all regular and Rules and Competition Committee meetings and assign the date and place thereof.
 1. Appoint persons to positions as he deems necessary or until elections are held.
 1. Assess fines and punishments as he deems necessary with just cause.
-1. Calculate the Association’s budget.
+1. Calculate the League’s budget.
 1. Gather all information regarding protests.
 1. Maintain a league website to keep managers and players apprised of the state of the league.
 1. Judge and take action on all circumstances not covered in the Constitution and By-Laws in good faith and furtherance of the stated goals and principles of the league.
@@ -176,7 +176,7 @@ The Rules and Competition Committee, to be made up of the President and two (2) 
 All officers other than the Rules Committee members, shall be granted compensation for time and expenses.
 
 ## Meetings and Voting
-Per [Annual Meeting](#annual-meeting), the Association shall hold an annual meeting. In addition, per 4.2, the President may call additional meetings.
+Per [Annual Meeting](#annual-meeting), the League shall hold an annual meeting. In addition, per 4.2, the President may call additional meetings.
 
 ### Voting Privileges
 Each franchise with voting privileges as specified in [Classification; Standing](#classification-standing) shall have one (1) vote at league meetings, regardless of the number of representatives the franchise has sent to the meeting.
@@ -203,7 +203,7 @@ All franchise members are expected to attend all league meetings. Failure of a f
 Teams shall be formally recognized as existing as an entity from April 1 through August 31 of the current season. These dates shall serve as time periods as they pertain to all rules regarding rosters and team management.
 
 ### Team Name
-Teams new to the Association, regardless of the makeup of the roster, shall not be allowed to use the name of any existing Association team. Teams from other recognized Associations or Leagues entering the CMBA shall be allowed to use any team name provided it was the recognized existing name of the team prior to its membership in the Association. Changes in team names shall not affect a team’s status in the Association in any way provided the original recognized Manager is the entrant of the team.
+Teams new to the League, regardless of the makeup of the roster, shall not be allowed to use the name of any existing League team. Teams from other recognized leagues or leagues entering the League shall be allowed to use any team name provided it was the recognized existing name of the team prior to its membership in the League. Changes in team names shall not affect a team’s status in the League in any way provided the original recognized Manager is the entrant of the team.
 
 ### Uniform
 All players must be in uniform (bearing the team’s name as represented to the league) by the team’s first regular season game in order to be eligible to participate in games. Players may not obtain the jersey of another team member in order to obtain eligibility.
@@ -211,26 +211,26 @@ All players must be in uniform (bearing the team’s name as represented to the 
 1. This deadline may be extended by the President at his discretion following a written petition by the team that shows a just and reasonable cause for extension, and evidence of a good faith effort to meet the deadline.
 1. This rule applies to any players legally added to the roster after the stated deadline.
 1. Uniforms shall consist of, but are not limited to, matching team caps and jerseys with assigned team uniform numbers. 
-1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the Association encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
+1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the League encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
 
 ### Manager
-The Manager is that person who has been officially recognized as the entrant of a team into the Association. The Manager has the ultimate responsibility for the team’s compliance with all by-laws as set forth in this Constitution. The manager of a franchise is responsible for all actions of his players and coaches and may be fined up to fifty dollars ($50.00) for any violations of codes of conduct and league rules as set forth in this document, or any other actions deemed detrimental to the objectives and standards of the Association.
+The Manager is that person who has been officially recognized as the entrant of a team into the League. The Manager has the ultimate responsibility for the team’s compliance with all by-laws as set forth in this Constitution. The manager of a franchise is responsible for all actions of his players and coaches and may be fined up to fifty dollars ($50.00) for any violations of codes of conduct and league rules as set forth in this document, or any other actions deemed detrimental to the objectives and standards of the League.
 
 1. Severe violations of league rules and codes of conduct may result in the suspension of the offending player or manager for the balance of the season or possible permanent banishment from the league, if so ruled by the President.
 
 ### Manager Changes
 Management of the team may officially change from one person to another during the dates that team is formally recognized as an entity as specified in [Recognition](#recognition) only with the written consent of the outgoing manager, or rostered members of the team can show that the Manager has not been faithfully and/or competently fulfilling his requirements as outlined in this Constitution.
 
-1. Management changes under this Section may only take place pending the outcome of a hearing, which shall take place at the earliest possible date between the Association President, the Manager in question, and the parties seeking a change in management.
+1. Management changes under this Section may only take place pending the outcome of a hearing, which shall take place at the earliest possible date between the League President, the Manager in question, and the parties seeking a change in management.
 1. The President may ask other managers to attend this hearing to serve in an advisory role.
 1. Failure to appear at this hearing by either party involved shall automatically result in an outcome favorable to the party in attendance.
 1. Teams with management conflicts of this nature may not play league games until the completion of this hearing and resolution of the conflict.
-Management changes outside of the dates that a team is formally recognized as an entity as specified in [Recognition](#recognition) are beyond the control of the Association and President and are not subject to any formal mechanisms of change as outlined in this Constitution. Resolution of any outstanding conflicts associated with such management changes are the sole responsibility of the parties involved.
+Management changes outside of the dates that a team is formally recognized as an entity as specified in [Recognition](#recognition) are beyond the control of the League and President and are not subject to any formal mechanisms of change as outlined in this Constitution. Resolution of any outstanding conflicts associated with such management changes are the sole responsibility of the parties involved.
 
 ## Team Rosters; Players and Eligibility
 
 ### Roster Deadline; Roster Size
-Prior to June 1, each team has an “open roster.”  Association teams must submit a roster of their players to the President no later than June 1 of each year. Any team that does not submit its roster to the President by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-managers).  
+Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the President no later than June 1 of each year. Any team that does not submit its roster to the President by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-managers).  
 Each team’s roster must contain a minimum of sixteen (16) players and shall not exceed twenty-six (26) players, in each case, excluding non-playing managers and coaches. 
 
 ### Roster Information Requirements
@@ -254,10 +254,10 @@ A team that uses an ineligible player, per the rules in this [Team Rosters Playe
 Players must appear in at least five (5) games during the regular season in order to be eligible for postseason play. Upon request to the Rules and Competition Committee, exceptions may be made for players with long term injuries.
 
 ### Player Responsibility for Team Fees
-All players in the CMBA are expected to pay their team fees. Players will not be allowed to switch teams within the association unless or until any and all debts are paid in full.
+All players in the League are expected to pay their team fees. Players will not be allowed to switch teams within the League unless or until any and all debts are paid in full.
 
 ### Free Agents
-A player must inform the League President and his manager no later than February 15 of the upcoming season if he wishes to leave his team and become a free agent. After this he is free to play for another team in the CMBA. A manager may waive this deadline for an individual player at the manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another CMBA team for that season.
+A player must inform the League President and his manager no later than February 15 of the upcoming season if he wishes to leave his team and become a free agent. After this he is free to play for another team in the League. A manager may waive this deadline for an individual player at the manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
 
 ## Protest and Forfeits
 
@@ -293,7 +293,7 @@ A team subject to technical forfeit shall be awarded only one point for a victor
 The President shall maintain a league website that includes all official scores and league standings. Additional pertinent information will be provided.
 
 ### League Standings
-The Association shall use a point system to determine the standings. A team is awarded:
+The League shall use a point system to determine the standings. A team is awarded:
 
 1. Two (2) points for a win (including a win against a team in technical forfeit)
 1. One (1) point for a win while in technical forfeit (see [Forfeits](#forfeits))
@@ -322,10 +322,10 @@ For the playoffs, each team will be granted the ability to exclude one (1) parti
 All playoff games must be played to completion. If a playoff game is suspended for any reason, the game must be finished at a later date declared by the president. This game is declared suspended, and regardless of what inning or circumstance, the game will be continued from the point in the game when it was suspended. The “Slaughter Rule” is applicable for the playoffs (see [Regulation Games](#regulation-games)).
 
 ## Sportsmanship and Prohibited Conduct
-All association members are expected to engage in a sportsmanlike and mutually respectful behavior. Any manager or the chief umpire may request that the rules and competition committee review the specific actions of another player, coach, manager or team. The rules and competition committee shall review, and in its discretion, determine the appropriate disciplinary action to be taken, if any. Disciplinary actions include a written warning, fines, temporary suspension, and banishment from the association. The committee should take under consideration repeat offenses. The president shall enforce any discipline determined by the committee.
+All League members are expected to engage in a sportsmanlike and mutually respectful behavior. Any manager or the chief umpire may request that the rules and competition committee review the specific actions of another player, coach, manager or team. The rules and competition committee shall review, and in its discretion, determine the appropriate disciplinary action to be taken, if any. Disciplinary actions include a written warning, fines, temporary suspension, and banishment from the League. The committee should take under consideration repeat offenses. The president shall enforce any discipline determined by the committee.
 
 ### Fighting
-Fighting or any physical altercation shall not be tolerated in the CMBA. Players cannot leave the bench or their positions during a fight for any reason; the managers, the on-the-field coaches and umpire(s) shall be responsible for restoring order. Specific penalties for violations are listed below.
+Fighting or any physical altercation shall not be tolerated in the League. Players cannot leave the bench or their positions during a fight for any reason; the managers, the on-the-field coaches and umpire(s) shall be responsible for restoring order. Specific penalties for violations are listed below.
 
 1. Any player who instigates or initiates an on-field fight shall be fined and suspended from league play for no less than one season
 1. Any player or coach who participates in a fight shall be suspended for three games and fined $50.00.
@@ -336,7 +336,7 @@ Any player or coach who physically assaults an umpire will be permanently banish
 ### Substances
 
 1. Smoking: Smoking shall be prohibited in the dugout and on the playing field during the game.
-1. Alcohol: Alcoholic beverages are prohibited on or in the close proximity of a team’s bench. Teams in violation of this rule will forfeit the game and be automatically fined and temporarily suspended. Offending players will be fined and suspended for two (2) weeks from the date of the infraction. A second violation of this rule shall result in the automatic expulsion of the team from the Association. Managers are responsible for the enforcement of this rule and are accountable for any violations. 
+1. Alcohol: Alcoholic beverages are prohibited on or in the close proximity of a team’s bench. Teams in violation of this rule will forfeit the game and be automatically fined and temporarily suspended. Offending players will be fined and suspended for two (2) weeks from the date of the infraction. A second violation of this rule shall result in the automatic expulsion of the team from the League. Managers are responsible for the enforcement of this rule and are accountable for any violations. 
 1. Additionally, all teams and players are subject to any and all additional laws, rules, or regulations regarding substances as stated by locality or the issuer of the field permit
 
 ### Flagrant Collisions

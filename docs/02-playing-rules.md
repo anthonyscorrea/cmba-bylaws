@@ -1,9 +1,9 @@
 # Playing Rules
 
 ## Playing Rules
-Except where specified in this document, the CMBA shall follow the Official Baseball Rules of Major League Baseball.
+Except where specified in this document, the League shall follow the Official Baseball Rules of Major League Baseball.
 
-The CMBA shall not incorporate the following rules of Major League Baseball:
+The League shall not incorporate the following rules of Major League Baseball:
 
 - Rule 4.03(c)(4) specifying limitations on when a position player can pitch.
 - Rule 5.02(c) specifying limitations on infielder placement.
@@ -83,10 +83,10 @@ All teams are responsible for the maintenance and cleanup of the field and dugou
 Umpires are to be paid on the field promptly upon request.
 
 ## Designated Hitter
-The Association shall follow the Major League designated hitter rule at all times, with the exception that a team may designate a D.H. for any position on the field.
+The League shall follow the Major League designated hitter rule at all times, with the exception that a team may designate a D.H. for any position on the field.
 
 ## Designated Runner
-The Association shall elect to use a designated runner rule, similar to the designated hitter rule.
+The League shall elect to use a designated runner rule, similar to the designated hitter rule.
 
 1. A runner may be designated to run for a specified player in any game without otherwise affecting the status of the player(s) in the game.
 1. The designated runner must take the place of the specified player whenever that player reaches base or the designated runner. 
@@ -124,7 +124,7 @@ In regular season play, the defensive line-up is independent of the batting line
 
 1. Any player may be freely substituted in the defensive line-up at any time, without affecting the players’ in the batting line-up. Players may enter, exit, and re-enter the game in the defensive line-up without limitation.
 
-In postseason play, the free defensive substitution rule defined above shall not be applicable and substitutions shall be made in accordance to applicable CMBA and MLB rules.
+In postseason play, the free defensive substitution rule defined above shall not be applicable and substitutions shall be made in accordance to applicable League and MLB rules.
 
 ## Field Status
 The home team shall be responsible for checking the status of the field in the event of rain. The home team must report the status of the field to the President and the assigned umpire no later than 2:00 pm for a weeknight game, and at least 2 hrs. before a weekend game. As a courtesy, the home team should also notify the visiting manager, but the visiting manager may also contact the President for information regarding the status of the field.
