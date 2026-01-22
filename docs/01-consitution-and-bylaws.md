@@ -15,18 +15,16 @@ All League members, including officers, Managers, umpires, and players are expec
 ## Members
 A Member of the League shall be recognized as the participating franchise as represented by its Manager. Membership in the League is open to any amateur baseball franchise in the Greater Chicagoland area that qualifies under the rules and requirements for admission as set forth in this Constitution.
 
-### Classification; Standing
-Membership shall be divided into the following four (4) classes:
+### Classification
+Membership shall be divided into the following classes:
 
-1. In good standing with active franchises.
-   1. These members shall have full playing and voting privileges.
-1. In good standing that have been granted a leave of absence.
-   1. These members shall not have voting privileges but may attend League meetings.
-1. Not in good standing (temporary suspension for League rules violations) with active franchises. These members shall have full voting and game playing privileges.
-   1. These members shall have full voting and game playing privileges. However, any games played by members not in good standing shall be deemed technical forfeit.
-1. Not in good standing (indefinite suspension).
-   1. These members shall have no game playing or voting privileges.
-   1. May attend league meetings by special invitation of the President.
+1. Active and in good-standing
+1. Active and not in good-standing.
+1. Suspended
+1. Inactive and granted a leave of absence.
+
+### Voting
+All active Members shall have full voting rights. Suspended members shall not have voting rights until reinstated by the League.
 
 ### Subjectivity
 All League members shall abide by and are subject to all rules and regulations as outlined in this Constitution and By-Laws, and are subject to the authority of the President, other Officers, the umpires and any other ruling officials so authorized. These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
