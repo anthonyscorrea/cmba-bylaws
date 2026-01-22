@@ -29,6 +29,21 @@ All active Members shall have full voting rights. Suspended members shall not ha
 ### Subjectivity
 All League members shall abide by and are subject to all rules and regulations as outlined in this Constitution and By-Laws, and are subject to the authority of the President, other Officers, the umpires and any other ruling officials so authorized. These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
 
+## Directors
+### General Powers 
+Except as otherwise expressly herein provided or as otherwise provided by law, the property and affairs of the League shall be managed by or under the direction of its Board of Directors (the "Board of Directors"), which shall be the governing body of the League. The Board of Directors may exercise all the powers, rights, and privileges of the League, whether expressed or implied in the Articles of Incorporation or conferred by the Act or otherwise, and may do all acts and things which may be done by the League. Each director shall be entitled to one full vote on each matter.
+
+### Number and Qualifications 
+The League's Board of Directors shall be composed of three (3) directors to thirteen (13) directors. No decrease in the number of directors shall have the effect of shortening the term of an incumbent director. An individual need not be a Manager of a member franchise.
+
+### Election and Term of Office
+Directors shall be elected at the annual meeting of the League. The term of office of each director shall be until the next annual meeting. Directors shall hold office until the expiration of the term for which he or she is elected and until his or her successor has been elected or until his or her death, resignation, or removal.
+
+Directors may serve successive terms.
+
+### Resignation and Removal
+Any director may resign by written notice delivered to the Board of Directors or to the Commissioner or Secretary of the League. A resignation is effective when the notice is delivered, unless the notice specifies a future date. The pending vacancy may be filled pursuant to [Election and Term of Office](#election-and–term–of-office) before the effective date. Any director may be removed, with or without cause, by the affirmative vote of a majority of the directors then in office.
+
 ## Officers
 The following shall be considered Officers of the League: President; Treasurer; and Rules and Competition Committee Members. Other Officers may be created by the President at his discretion or by vote of League members upon the request of a League Member. All offices shall be filled by an affirmative vote of League members.
 
