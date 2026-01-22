@@ -76,8 +76,8 @@ Only meetings called for and attended by the Commissioner will be considered val
 This constitution may be amended, removed, or added by an affirmative vote of two-thirds of members with voting privileges.
 The complete proposed written text of any amendment(s) to this constitution must be submitted to the representatives of the teams before the amendment(s) can be voted on.
 
-## Finances
-The Commissioner shall determine the franchise and annual entry fees. All other fees will be levied at the discretion of the League Commissioner. Fees shall be levied with the understanding that the League is a not for profit organization.
+## Budget
+A budget for the next fiscal year shall be prepared by the Commissioner for presentation and approval of the Board. The budget shall conssit the annual Member dues, other income, and expected expenditures for the operating year. The board shall present the approved budget for information to league Members.
 
 # By-Laws
 
@@ -88,7 +88,7 @@ All League members shall abide by and are subject to, without exception, all rul
 ### Amending the By-Laws
 By-Laws may be amended, removed, or added by an affirmative vote of two-thirds of the League members present at the time of the vote.
 
-## League Membership and Fees
+## League Membership and Dues
 
 ### Standards
 The following standards shall apply for consideration for membership by franchises in the League.
@@ -108,18 +108,18 @@ The League Commissioner shall present, upon acceptable review of its qualificati
 ### Acceptance Fee
 A franchise fee of fifty dollars ($50.00) shall be paid to the League Treasurer upon acceptance into the League.
 
-### Annual Fee
-All League members shall pay an annual fee. Per [Finances](#finances), this fee shall be determined by the League Commissioner.
+### Annual Membership Dues
+All League members shall pay annual membership dues, as determined by League [budget](#budget).
 
-### Payment of Fees
-All League members must have all fees paid by a date set by the Commissioner.
+### Payment of Membership Dues
+All League members must have all membership dues paid by a date set by the Commissioner.
 
 1. Penalty for late payment shall be ten dollars ($10.00) per week for no longer than five (5) weeks.
 1. Members in violation of the above shall be placed on temporary suspension for a period of two (2) weeks.
-1. Members who have not paid outstanding fees by the end of the two week suspension shall be placed on indefinite suspension until all fees are paid.
+1. Members who have not paid outstanding dues by the end of the two week suspension shall be placed on indefinite suspension until all dues are paid.
 
 ### List of Fees
-The annual League fee shall consist of, but are not limited to the following: Forfeit fee; Performance bond; Field fees; Prize Money Fund; Tournament fees; and any other costs incurred by the League.
+League fees may consist of, but are not limited to the following: Forfeit fee; Performance bond; Field fees; Prize Money Fund; Tournament fees; and any other costs incurred by the League.
 
 ### Fines
 Any League franchise or player may be susceptible to a fine by the Commissioner or Rules Committee as applicable for conduct unbecoming of a representative of the League and for any violation of this Constitution and its By-Laws.
