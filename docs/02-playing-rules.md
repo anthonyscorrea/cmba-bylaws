@@ -127,23 +127,23 @@ In regular season play, the defensive line-up is independent of the batting line
 In postseason play, the free defensive substitution rule defined above shall not be applicable and substitutions shall be made in accordance to applicable League and MLB rules.
 
 ## Field Status
-The home team shall be responsible for checking the status of the field in the event of rain. The home team must report the status of the field to the President and the assigned umpire no later than 2:00 pm for a weeknight game, and at least 2 hrs. before a weekend game. As a courtesy, the home team should also notify the visiting Manager, but the visiting Manager may also contact the President for information regarding the status of the field.
+The home team shall be responsible for checking the status of the field in the event of rain. The home team must report the status of the field to the Commissioner and the assigned umpire no later than 2:00 pm for a weeknight game, and at least 2 hrs. before a weekend game. As a courtesy, the home team should also notify the visiting Manager, but the visiting Manager may also contact the Commissioner for information regarding the status of the field.
 
 1. Any Manager who knowingly falsifies information regarding the status of the field to avoid playing the game will be fined and the team will forfeit the game.
 
 ## Rescheduling
-In the discretion of the president, a game may be postponed due to extraordinary circumstances. In the event a game is to be postponed, the president shall alert the Managers in an expedient manner.
-Managers from both teams must contact the President to confirm any changes that they wish to make to the official schedule. Teams may not change times, places, or dates of games without the consent of the President. Any such games played shall be considered unofficial.
-Any postponed or suspended games must be rescheduled in a timely fashion by the Managers of that game for the next possible date. If Managers cannot come to an agreement in a timely fashion, the President may reschedule the game.
+In the discretion of the Commissioner, a game may be postponed due to extraordinary circumstances. In the event a game is to be postponed, the Commissioner shall alert the Managers in an expedient manner.
+Managers from both teams must contact the Commissioner to confirm any changes that they wish to make to the official schedule. Teams may not change times, places, or dates of games without the consent of the Commissioner. Any such games played shall be considered unofficial.
+Any postponed or suspended games must be rescheduled in a timely fashion by the Managers of that game for the next possible date. If Managers cannot come to an agreement in a timely fashion, the Commissioner may reschedule the game.
 
 ## Notification of Results
-The winning team shall be responsible for notifying the President of the score of the game no later than 10:00 AM the day after the game was played via text message, email, or telephone call.
+The winning team shall be responsible for notifying the Commissioner of the score of the game no later than 10:00 AM the day after the game was played via text message, email, or telephone call.
 
 ## Uncompleted Games
-All games not completed by the end of the regular season shall count as losses for both teams unless a team deliberately attempts to avoid playing a sanctioned game. The team that was willing to play the game will be judged the forfeit winner if so ruled by the President.
+All games not completed by the end of the regular season shall count as losses for both teams unless a team deliberately attempts to avoid playing a sanctioned game. The team that was willing to play the game will be judged the forfeit winner if so ruled by the Commissioner.
 
 ## Substitution of an Umpire
-Should a league sanctioned umpire fail to appear at game time, the teams can choose to play the game with an umpire(s) of mutual choosing. The President needs to be informed by both teams prior to the start of the game to make it official.
+Should a league sanctioned umpire fail to appear at game time, the teams can choose to play the game with an umpire(s) of mutual choosing. The Commissioner needs to be informed by both teams prior to the start of the game to make it official.
 
 ## Collisions
 NO COLLISIONS ARE ALLOWED, UNLESS THE CONTACT RESULTS FROM A SLIDE. It is the base runners responsibility to slide or avoid contact. Fielders and runners must abide by Official Baseball Rules regarding Interference, Obstruction, and Catcher Collisions.. 

@@ -27,7 +27,7 @@ Membership shall be divided into the following classes:
 All active Members shall have full voting rights. Suspended members shall not have voting rights until reinstated by the League.
 
 ### Subjectivity
-All League members shall abide by and are subject to all rules and regulations as outlined in this Constitution and By-Laws, and are subject to the authority of the President, other Officers, the umpires and any other ruling officials so authorized. These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
+All League members shall abide by and are subject to all rules and regulations as outlined in this Constitution and By-Laws, and are subject to the authority of the Commissioner, other Officers, the umpires and any other ruling officials so authorized. These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
 
 ## Directors
 ### General Powers 
@@ -45,12 +45,15 @@ Directors may serve successive terms.
 Any director may resign by written notice delivered to the Board of Directors or to the Commissioner or Secretary of the League. A resignation is effective when the notice is delivered, unless the notice specifies a future date. The pending vacancy may be filled pursuant to [Election and Term of Office](#election-and–term–of-office) before the effective date. Any director may be removed, with or without cause, by the affirmative vote of a majority of the directors then in office.
 
 ## Officers
-The following shall be considered Officers of the League: President; Treasurer; and Rules and Competition Committee Members. Other Officers may be created by the President at his discretion or by vote of League members upon the request of a League Member. All offices shall be filled by an affirmative vote of League members.
+
+### Designation
+The officers of the League shall be a Commissioner, a Treasurer, and a Secretary. 
+
+All offices shall be filled by an affirmative vote of the Board. Other Officers may be created by the Directors at their discretion.
 
 ### Terms of Office
 
-1. The President shall serve a life term unless he chooses to voluntarily relinquish the office. The new President shall be chosen by a majority vote of the League membership.
-1. All Officers other than President are subject to yearly review and reelection by League vote.
+All Officers are subject to annual reelection by the Directors. Directors may serve successive terms.
 
 ### Umpires
 Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the By-Laws, except where specified.
@@ -58,29 +61,29 @@ Umpires shall have the sole responsibility for the enforcement of all sections i
 ## Meetings
 
 ### Annual Meeting
-The League shall hold its annual preseason meeting after January 1 at a time and place set by the President. This meeting must be held in person, except in extenuating circumstances.
+The League shall hold its annual preseason meeting after January 1 at a time and place set by the Commissioner. This meeting must be held in person, except in extenuating circumstances.
 
 ### Additional Meetings
-Additional meetings shall be called by the President for reasons at his discretion.
+Additional meetings shall be called by the Commissioner for reasons at his discretion.
 
 ### Rules and Competition Committee Meetings
-The Rules and Competition Committee shall meet at the discretion of the President. These meetings must be held in person, except in extenuating circumstances by agreement between the President and the Committee.
+The Rules and Competition Committee shall meet at the discretion of the Commissioner. These meetings must be held in person, except in extenuating circumstances by agreement between the Commissioner and the Committee.
 
 ### Meeting and Voting Validity
-Only meetings called for and attended by the President will be considered valid and no votes held in the absence of the President will be considered binding.
+Only meetings called for and attended by the Commissioner will be considered valid and no votes held in the absence of the Commissioner will be considered binding.
 
 ### Amending the Constitution
 This constitution may be amended, removed, or added by an affirmative vote of two-thirds of members with voting privileges.
 The complete proposed written text of any amendment(s) to this constitution must be submitted to the representatives of the teams before the amendment(s) can be voted on.
 
 ## Finances
-The President shall determine the franchise and annual entry fees. All other fees will be levied at the discretion of the League President. Fees shall be levied with the understanding that the League is a not for profit organization.
+The Commissioner shall determine the franchise and annual entry fees. All other fees will be levied at the discretion of the League Commissioner. Fees shall be levied with the understanding that the League is a not for profit organization.
 
 # By-Laws
 
 ## Definition; Amendments
 These By-Laws shall stand as the official rules of the League.
-All League members shall abide by and are subject to, without exception, all rules and regulations as outlined in the Constitution and By-Laws as well as the authority of the League President, in accordance with [Subjectivity](#subjectivity)
+All League members shall abide by and are subject to, without exception, all rules and regulations as outlined in the Constitution and By-Laws as well as the authority of the League Commissioner, in accordance with [Subjectivity](#subjectivity)
 
 ### Amending the By-Laws
 By-Laws may be amended, removed, or added by an affirmative vote of two-thirds of the League members present at the time of the vote.
@@ -98,7 +101,7 @@ The following standards shall apply for consideration for membership by franchis
    1. Ability of its players.
 
 ### New franchises
-The League President shall present, upon acceptable review of its qualifications, a new franchise to the members at large for consideration. New franchises are allowed to present a positive case for inclusion.
+The League Commissioner shall present, upon acceptable review of its qualifications, a new franchise to the members at large for consideration. New franchises are allowed to present a positive case for inclusion.
 
 1. Acceptance shall be affirmed with a simple majority vote of members in attendance.
 
@@ -106,10 +109,10 @@ The League President shall present, upon acceptable review of its qualifications
 A franchise fee of fifty dollars ($50.00) shall be paid to the League Treasurer upon acceptance into the League.
 
 ### Annual Fee
-All League members shall pay an annual fee. Per [Finances](#finances), this fee shall be determined by the League President.
+All League members shall pay an annual fee. Per [Finances](#finances), this fee shall be determined by the League Commissioner.
 
 ### Payment of Fees
-All League members must have all fees paid by a date set by the President.
+All League members must have all fees paid by a date set by the Commissioner.
 
 1. Penalty for late payment shall be ten dollars ($10.00) per week for no longer than five (5) weeks.
 1. Members in violation of the above shall be placed on temporary suspension for a period of two (2) weeks.
@@ -119,10 +122,10 @@ All League members must have all fees paid by a date set by the President.
 The annual League fee shall consist of, but are not limited to the following: Forfeit fee; Performance bond; Field fees; Prize Money Fund; Tournament fees; and any other costs incurred by the League.
 
 ### Fines
-Any League franchise or player may be susceptible to a fine by the President or Rules Committee as applicable for conduct unbecoming of a representative of the League and for any violation of this Constitution and its By-Laws.
+Any League franchise or player may be susceptible to a fine by the Commissioner or Rules Committee as applicable for conduct unbecoming of a representative of the League and for any violation of this Constitution and its By-Laws.
 
-1. Fines shall be determined by the President or committee as applicable and may not exceed fifty dollars ($50.00).
-1. Fines must be paid in full by a date specified by the President. Teams with outstanding fines will be considered not in good standing as defined in Subsection.
+1. Fines shall be determined by the Commissioner or committee as applicable and may not exceed fifty dollars ($50.00).
+1. Fines must be paid in full by a date specified by the Commissioner. Teams with outstanding fines will be considered not in good standing as defined in Subsection.
 
 ### Leave of Absence
 Members in good standing may be granted a leave of absence and are entitled to all privileges as outlined in [Classification; Standing](#classification-standing)  of the Constitution.
@@ -130,35 +133,35 @@ Members in good standing may be granted a leave of absence and are entitled to a
 1. Members in good standing on leave for more than two (2) years must reapply for membership.
 
 ### Temporary Suspension
-An League franchise may be placed on temporary suspension by the President and are subject to rules set forth in [Classification; Standing](#classification-standing).
+An League franchise may be placed on temporary suspension by the Commissioner and are subject to rules set forth in [Classification; Standing](#classification-standing).
 
 ### Indefinite Suspension
-An League franchise may be placed on indefinite suspension by the President and subject to rules set forth in [Classification; Standing](#classification-standing). Violations that may result in indefinite suspension are as follows:
+An League franchise may be placed on indefinite suspension by the Commissioner and subject to rules set forth in [Classification; Standing](#classification-standing). Violations that may result in indefinite suspension are as follows:
 
 1. Conduct detrimental to the objectives of the League.
-1. Two (2) forfeits of a game in one season. A team that is indefinitely suspended two consecutive seasons for violation of this subsection shall not be permitted to reapply for reinstatement unless a change in management is presented to the league. The new management must be approved by the League President and ratified by a majority of the League members.
+1. Two (2) forfeits of a game in one season. A team that is indefinitely suspended two consecutive seasons for violation of this subsection shall not be permitted to reapply for reinstatement unless a change in management is presented to the league. The new management must be approved by the League Commissioner and ratified by a majority of the League members.
 1. Tampering with players on the roster of another member franchise. Tampering shall be defined as the deliberate solicitation, without consent, by one League member of a player who has made at least an oral commitment to play for another League franchise.
 1. Consumption of alcoholic beverages on or in close proximity to the playing fields as detailed in [League Standings](#league-standings)
 1. Violation of any written policies set forth by the issuer of any permits for field use by the League.
 1. Failure to comply with any of the stated codes of conduct as set forth in this document.
 
 ### Reinstatement
-An indefinitely suspended franchise may be reinstated by the President upon the resolution of any outstanding violations and the satisfactory guarantee of no further violations.
+An indefinitely suspended franchise may be reinstated by the Commissioner upon the resolution of any outstanding violations and the satisfactory guarantee of no further violations.
 
 ### Additional Fees
-The President may request additional fees to cover any costs that exceed the amounts originally budgeted for by the League.
+The Commissioner may request additional fees to cover any costs that exceed the amounts originally budgeted for by the League.
 
-### Fees to the President
-In the event the President is a franchise holder, the Rules and Competition Committee may levy any and all appropriate fines for infractions of this Constitution and By-Laws by his franchise.
+### Fees to the Commissioner
+In the event the Commissioner is a franchise holder, the Rules and Competition Committee may levy any and all appropriate fines for infractions of this Constitution and By-Laws by his franchise.
 
 ### Outside Leagues
 Teams may not play in leagues outside of the League, unless that league has a formal agreement with the League that its playing schedule does not conflict with regularly scheduled League games or playoffs.
 
 ## Officer Duties
-As defined in [Officers](#officers), the officers of the League are the President, Treasurer, Rules and Competition Committee member.
+As defined in [Officers](#officers), the officers of the League are the Commissioner, Treasurer, Rules and Competition Committee member.
 
-### President
-The duties and powers of the President are as follows:
+### Commissioner
+The duties and powers of the Commissioner are as follows:
 
 1. Shall serve a life term or until voluntary relinquishment of the office.
 1. Preside over all League meetings.
@@ -171,29 +174,29 @@ The duties and powers of the President are as follows:
 1. Maintain a league website to keep Managers and players apprised of the state of the league.
 1. Judge and take action on all circumstances not covered in the Constitution and By-Laws in good faith and furtherance of the stated goals and principles of the league.
 1. Interpret the rules and by-laws of this Constitution and make appropriate decisions thereof.
-   1. Decisions of the President may be appealed to the Rules and Competition Committee. Appeals must be presented in writing and must contain specific grounds for the appeal.
+   1. Decisions of the Commissioner may be appealed to the Rules and Competition Committee. Appeals must be presented in writing and must contain specific grounds for the appeal.
 
 ### Treasurer
-The Treasurer shall be responsible for the League’s monetary assets and its proper handling and distribution as ordered by the league and its President.
+The Treasurer shall be responsible for the League’s monetary assets and its proper handling and distribution as ordered by the league and its Commissioner.
 
 ### Rules and Competition Committee
-The Rules and Competition Committee, to be made up of the President and two (2) appointed franchise holders. An alternate member shall be appointed by the president if a committee member is unavailable or conflicted (i.e. the matter under consideration involves a player of the committee member’s team or the committee member), shall meet and take action concerning:
+The Rules and Competition Committee, to be made up of the Commissioner and two (2) appointed franchise holders. An alternate member shall be appointed by the Commissioner if a committee member is unavailable or conflicted (i.e. the matter under consideration involves a player of the committee member’s team or the committee member), shall meet and take action concerning:
 
 1. Official protests
 1. Disciplinary matters referred to the committee pursuant to [Standings And Postseason](#standings-and-postseason)
-1. Any decision of the President that has been officially appealed.
+1. Any decision of the Commissioner that has been officially appealed.
 
 ### Compensation
 All officers other than the Rules Committee members, shall be granted compensation for time and expenses.
 
 ## Meetings and Voting
-Per [Annual Meeting](#annual-meeting), the League shall hold an annual meeting. In addition, per 4.2, the President may call additional meetings.
+Per [Annual Meeting](#annual-meeting), the League shall hold an annual meeting. In addition, per 4.2, the Commissioner may call additional meetings.
 
 ### Voting Privileges
 Each franchise with voting privileges as specified in [Classification; Standing](#classification-standing) shall have one (1) vote at league meetings, regardless of the number of representatives the franchise has sent to the meeting.
 
-### President’s Role
-The President shall chair the meeting. If the President is also a franchise holder, he must designate another person from his franchise to represent the team at league meetings. The President can only vote in the event of a tie vote among the members present at the meeting.
+### Commissioner’s Role
+The Commissioner shall chair the meeting. If the Commissioner is also a franchise holder, he must designate another person from his franchise to represent the team at league meetings. The Commissioner can only vote in the event of a tie vote among the members present at the meeting.
 
 ### Voting Decisions
 A 2/3 vote is necessary to:
@@ -219,7 +222,7 @@ Teams new to the League, regardless of the makeup of the roster, shall not be al
 ### Uniform
 All players must be in uniform (bearing the team’s name as represented to the league) by the team’s first regular season game in order to be eligible to participate in games. Players may not obtain the jersey of another team member in order to obtain eligibility.
 
-1. This deadline may be extended by the President at his discretion following a written petition by the team that shows a just and reasonable cause for extension, and evidence of a good faith effort to meet the deadline.
+1. This deadline may be extended by the Commissioner at his discretion following a written petition by the team that shows a just and reasonable cause for extension, and evidence of a good faith effort to meet the deadline.
 1. This rule applies to any players legally added to the roster after the stated deadline.
 1. Uniforms shall consist of, but are not limited to, matching team caps and jerseys with assigned team uniform numbers. 
 1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the League encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
@@ -227,35 +230,35 @@ All players must be in uniform (bearing the team’s name as represented to the 
 ### Manager
 The Manager is that person who has been officially recognized as the entrant of a team into the League. The Manager has the ultimate responsibility for the team’s compliance with all by-laws as set forth in this Constitution. The  of a franchise is responsible for all actions of his players and coaches and may be fined up to fifty dollars ($50.00) for any violations of codes of conduct and league rules as set forth in this document, or any other actions deemed detrimental to the objectives and standards of the League.
 
-1. Severe violations of league rules and codes of conduct may result in the suspension of the offending player or Manager for the balance of the season or possible permanent banishment from the league, if so ruled by the President.
+1. Severe violations of league rules and codes of conduct may result in the suspension of the offending player or Manager for the balance of the season or possible permanent banishment from the league, if so ruled by the Commissioner.
 
 ### Manager Changes
 Management of the team may officially change from one person to another during the dates that team is formally recognized as an entity as specified in [Recognition](#recognition) only with the written consent of the outgoing Manager, or rostered members of the team can show that the Manager has not been faithfully and/or competently fulfilling his requirements as outlined in this Constitution.
 
-1. Management changes under this Section may only take place pending the outcome of a hearing, which shall take place at the earliest possible date between the League President, the Manager in question, and the parties seeking a change in management.
-1. The President may ask other Managers to attend this hearing to serve in an advisory role.
+1. Management changes under this Section may only take place pending the outcome of a hearing, which shall take place at the earliest possible date between the League Commissioner, the Manager in question, and the parties seeking a change in management.
+1. The Commissioner may ask other Managers to attend this hearing to serve in an advisory role.
 1. Failure to appear at this hearing by either party involved shall automatically result in an outcome favorable to the party in attendance.
 1. Teams with management conflicts of this nature may not play league games until the completion of this hearing and resolution of the conflict.
-Management changes outside of the dates that a team is formally recognized as an entity as specified in [Recognition](#recognition) are beyond the control of the League and President and are not subject to any formal mechanisms of change as outlined in this Constitution. Resolution of any outstanding conflicts associated with such management changes are the sole responsibility of the parties involved.
+Management changes outside of the dates that a team is formally recognized as an entity as specified in [Recognition](#recognition) are beyond the control of the League and Commissioner and are not subject to any formal mechanisms of change as outlined in this Constitution. Resolution of any outstanding conflicts associated with such management changes are the sole responsibility of the parties involved.
 
 ## Team Rosters; Players and Eligibility
 
 ### Roster Deadline; Roster Size
-Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the President no later than June 1 of each year. Any team that does not submit its roster to the President by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-Managers).  
+Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the Commissioner no later than June 1 of each year. Any team that does not submit its roster to the Commissioner by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-Managers).  
 Each team’s roster must contain a minimum of sixteen (16) players and shall not exceed twenty-six (26) players, in each case, excluding non-playing Managers and coaches. 
 
 ### Roster Information Requirements
-A team’s rosters as submitted to the President on or before June 1 shall contain the following information for each rostered player: name, age, bats/throws, position(s),uniform number, and face photo. Rosters shall be submitted in Excel or via Google sheets (or similar editable spreadsheet.)
+A team’s rosters as submitted to the Commissioner on or before June 1 shall contain the following information for each rostered player: name, age, bats/throws, position(s),uniform number, and face photo. Rosters shall be submitted in Excel or via Google sheets (or similar editable spreadsheet.)
 
 ### Roster Transactions
 Teams may add a total of five (5) players to the roster after the June 1 roster submission deadline. The total number of players on a team still may not exceed twenty-six (26). In order to add players between June 1 and July 1 but not exceed the 26 player limit, a team may drop players who were rostered on June 1.  No players may be added after July 1, except as set forth below.
 After July 1, upon request to the Rules and Competition Committee, a team may add a player if (i) the team’s roster has fallen (or, upon the removal of players “missing in action” as described below, will fall) below the 16 player minimum and (ii) doing so will, in the good faith determination of the Rules and Competition Committee, prevent the team from forfeiting games. 
 In order for a team to declare a player “missing in action” after July 1, (i) the player shall have (a) failed to appear at all of the team’s games occurring prior to such request or (b) suffered a season-ending injury after June 1 and (ii) the team must drop the player from its roster.
 A team may drop players at any time as long as the team’s roster does not fall below the 16 player minimum.
-Any and all roster changes shall be submitted to the President and satisfy the information requirements in [Roster Information Requirements](#roster-information-requirements).  Roster changes shall be effective as of the first pitch of the team’s first regularly scheduled game after the updated roster is submitted.
+Any and all roster changes shall be submitted to the Commissioner and satisfy the information requirements in [Roster Information Requirements](#roster-information-requirements).  Roster changes shall be effective as of the first pitch of the team’s first regularly scheduled game after the updated roster is submitted.
 
 ### Alumni
-If a team would otherwise be required to forfeit or technically forfeit a game after June 1 due to a lack of eligible players in attendance, the team can use one (but not more than one) of its former players (“alumni”) in that game. The team’s Manager shall inform the opposing team’s Manager and the President as soon as possible (and in no event later than the first pitch) of his team’s use of an alumni player and will provide to the opposing team’s Manager and the President with the alumni player’s name, age, bats/throws, position and uniform number. Alumni players are not eligible to play in the playoffs.
+If a team would otherwise be required to forfeit or technically forfeit a game after June 1 due to a lack of eligible players in attendance, the team can use one (but not more than one) of its former players (“alumni”) in that game. The team’s Manager shall inform the opposing team’s Manager and the Commissioner as soon as possible (and in no event later than the first pitch) of his team’s use of an alumni player and will provide to the opposing team’s Manager and the Commissioner with the alumni player’s name, age, bats/throws, position and uniform number. Alumni players are not eligible to play in the playoffs.
 
 ### Eligible Players
 Eligible players must be of at least eighteen (18) years of age by the date of the teams first +game. No player may play for more than one team in a season (either before or after June 1).
@@ -268,21 +271,21 @@ Players must appear in at least five (5) games during the regular season in orde
 All players in the League are expected to pay their team fees. Players will not be allowed to switch teams within the League unless or until any and all debts are paid in full.
 
 ### Free Agents
-A player must inform the League President and his Manager no later than February 15 of the upcoming season if he wishes to leave his team and become a free agent. After this he is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
+A player must inform the League Commissioner and his Manager no later than February 15 of the upcoming season if he wishes to leave his team and become a free agent. After this he is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
 
 ## Protest and Forfeits
 
 ### Timeframe and Reporting
-All protests must be filed with the President within 48 hours of the alleged infraction and on the League supplied form. All requested information must be accurately reported. Any Manager who knowingly falsifies information on the protest form will be fined and suspended as determined by the President, and that Manager’s team will forfeit the game.
+All protests must be filed with the Commissioner within 48 hours of the alleged infraction and on the League supplied form. All requested information must be accurately reported. Any Manager who knowingly falsifies information on the protest form will be fined and suspended as determined by the Commissioner, and that Manager’s team will forfeit the game.
 
 ### Ground for Protest
-Protests may only be made on the grounds of a violation of a rule stated in this Constitution and its By-Laws or in violation of a stated Major League Baseball rule. Protests may not, under any circumstances, be based on the judgment of an umpire’s call. The protesting team’s Manager must notify the umpire of the protest at the time the violation occurred. Managers shall notify the league president at the earliest possible time after the game and provide umpire signature as proof of notification.
+Protests may only be made on the grounds of a violation of a rule stated in this Constitution and its By-Laws or in violation of a stated Major League Baseball rule. Protests may not, under any circumstances, be based on the judgment of an umpire’s call. The protesting team’s Manager must notify the umpire of the protest at the time the violation occurred. Managers shall notify the league Commissioner at the earliest possible time after the game and provide umpire signature as proof of notification.
 
 ### Ruling
-Upon the filing of a protest with the President, the President shall call a meeting of the Rules and Competition Committee at the earliest possible date. Judgment regarding the merit of the protest shall be made after deliberation.
+Upon the filing of a protest with the Commissioner, the Commissioner shall call a meeting of the Rules and Competition Committee at the earliest possible date. Judgment regarding the merit of the protest shall be made after deliberation.
 
 ### Notification
-Teams that win games by forfeit must notify the President that very day.
+Teams that win games by forfeit must notify the Commissioner that very day.
 
 ### Umpire Payment
 Forfeiting teams must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in good standing as defined in [Classification; Standing](#classification-standing). Teams will be considered not in good standing until payment is made. In the event a team is unable to pay the umpire at the proper time, the team’s forfeit fee will be used to cover initial forfeits. The cost of additional forfeits will be paid by the team.
@@ -301,7 +304,7 @@ A team subject to technical forfeit shall be awarded only one point for a victor
 ## Standings and Postseason
 
 ### Website
-The President shall maintain a league website that includes all official scores and league standings. Additional pertinent information will be provided.
+The Commissioner shall maintain a league website that includes all official scores and league standings. Additional pertinent information will be provided.
 
 ### League Standings
 The League shall use a point system to determine the standings. A team is awarded:
@@ -318,7 +321,7 @@ In the event two teams finish the regular season in a tie for a position, the fo
 1. Record in head-to-head competition.
 1. Record within the division (if applicable).
 1. Least runs allowed for the season.
-1. Coin toss, performed by the president with a witness.
+1. Coin toss, performed by the Commissioner with a witness.
 
 ### Postseason Format
 The postseason format shall be determined by annual vote. 
@@ -330,10 +333,10 @@ Playoff prizes and awards, if any, shall be determined by the membership of the 
 For the playoffs, each team will be granted the ability to exclude one (1) particular umpire from participating in said teams series. The name of this umpire shall be submitted to the chief umpire as soon as possible prior to the series. This umpire “veto” will be binding UNLESS the chief umpire cannot find any other umpire who can work any game in this series.
 
 ### Completion of Playoff Games
-All playoff games must be played to completion. If a playoff game is suspended for any reason, the game must be finished at a later date declared by the president. This game is declared suspended, and regardless of what inning or circumstance, the game will be continued from the point in the game when it was suspended. The “Slaughter Rule” is applicable for the playoffs (see [Regulation Games](#regulation-games)).
+All playoff games must be played to completion. If a playoff game is suspended for any reason, the game must be finished at a later date declared by the Commissioner. This game is declared suspended, and regardless of what inning or circumstance, the game will be continued from the point in the game when it was suspended. The “Slaughter Rule” is applicable for the playoffs (see [Regulation Games](#regulation-games)).
 
 ## Sportsmanship and Prohibited Conduct
-All League members are expected to engage in a sportsmanlike and mutually respectful behavior. Any Manager or the chief umpire may request that the rules and competition committee review the specific actions of another player, coach, Manager or team. The rules and competition committee shall review, and in its discretion, determine the appropriate disciplinary action to be taken, if any. Disciplinary actions include a written warning, fines, temporary suspension, and banishment from the League. The committee should take under consideration repeat offenses. The president shall enforce any discipline determined by the committee.
+All League members are expected to engage in a sportsmanlike and mutually respectful behavior. Any Manager or the chief umpire may request that the rules and competition committee review the specific actions of another player, coach, Manager or team. The rules and competition committee shall review, and in its discretion, determine the appropriate disciplinary action to be taken, if any. Disciplinary actions include a written warning, fines, temporary suspension, and banishment from the League. The committee should take under consideration repeat offenses. The Commissioner shall enforce any discipline determined by the committee.
 
 ### Fighting
 Fighting or any physical altercation shall not be tolerated in the League. Players cannot leave the bench or their positions during a fight for any reason; the Managers, the on-the-field coaches and umpire(s) shall be responsible for restoring order. Specific penalties for violations are listed below.
