@@ -29,7 +29,7 @@ Membership shall be divided into the following four (4) classes:
    1. May attend league meetings by special invitation of the President.
 
 ### Subjectivity
-All League members shall abide by and are subject to all rules and regulations as outlined in this Constitution and By-Laws, and are subject to the authority of the President, other Officers, the umpires and any other ruling officials so authorized. These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This section nullifies the “If both managers agree” concept.
+All League members shall abide by and are subject to all rules and regulations as outlined in this Constitution and By-Laws, and are subject to the authority of the President, other Officers, the umpires and any other ruling officials so authorized. These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
 
 ## Officers
 The following shall be considered Officers of the League: President; Treasurer; and Rules and Competition Committee Members. Other Officers may be created by the President at his discretion or by vote of League members upon the request of a League Member. All offices shall be filled by an affirmative vote of League members.
