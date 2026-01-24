@@ -1,9 +1,9 @@
 # Playing Rules
 
 ## Playing Rules
-Except where specified in this document, the League shall follow the Official Baseball Rules of Major League Baseball.
+Except where specified in this document, games shall follow the Official Baseball Rules of Major League Baseball.
 
-The League shall not incorporate the following rules of Major League Baseball:
+These rules shall not incorporate the following rules of Major League Baseball:
 
 - Rule 4.03(c)(4) specifying limitations on when a position player can pitch.
 - Rule 5.02(c) specifying limitations on infielder placement.

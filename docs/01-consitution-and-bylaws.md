@@ -88,7 +88,7 @@ All League members shall abide by and are subject to, without exception, all rul
 ### Amending the By-Laws
 By-Laws may be amended, removed, or added by an affirmative vote of two-thirds of the League members present at the time of the vote.
 
-## League Membership and Dues
+## Membership
 
 ### Standards
 The following standards shall apply for consideration for membership by franchises in the League.
@@ -109,26 +109,22 @@ The League Commissioner shall present, upon acceptable review of its qualificati
 A franchise fee of fifty dollars ($50.00) shall be paid to the League Treasurer upon acceptance into the League.
 
 ### Annual Membership Dues
-All League members shall pay annual membership dues, as determined by League [budget](#budget).
-
-### Payment of Membership Dues
-All League members must have all membership dues paid by a date set by the Commissioner.
+All League members shall pay annual membership dues, as determined by League [budget](#budget). All League members must have all membership dues paid by a schedule set by the Commissioner and approved by the Board.
 
 1. Penalty for late payment shall be ten dollars ($10.00) per week for no longer than five (5) weeks.
 1. Members in violation of the above shall be placed on temporary suspension for a period of two (2) weeks.
 1. Members who have not paid outstanding dues by the end of the two week suspension shall be placed on indefinite suspension until all dues are paid.
 
-### List of Fees
+### Fees and Fines
+
+### Fees
 League fees may consist of, but are not limited to the following: Forfeit fee; Performance bond; Field fees; Prize Money Fund; Tournament fees; and any other costs incurred by the League.
 
 ### Fines
-Any League franchise or player may be susceptible to a fine by the Commissioner or Rules Committee as applicable for conduct unbecoming of a representative of the League and for any violation of this Constitution and its By-Laws.
-
-1. Fines shall be determined by the Commissioner or committee as applicable and may not exceed fifty dollars ($50.00).
-1. Fines must be paid in full by a date specified by the Commissioner. Teams with outstanding fines will be considered not in good standing as defined in Subsection.
+The Commissioner may levy fines to any League Member franchise or player subject to Board oversight. Fines may be levied for violation of this Constitution and its By-Laws or conduct unbecoming of a representative of the League. Fines may not exceed fifty dollars ($50.00) for a single incident Fines must be paid in full by a date specified by the Commissioner. Member franchises or Member franchises consisting of rostered players with outstanding fines will be considered not in good standing as defined in [classification](#classification).
 
 ### Leave of Absence
-Members in good standing may be granted a leave of absence and are entitled to all privileges as outlined in [Classification; Standing](#classification-standing)  of the Constitution.
+Members in good standing may be granted a leave of absence and are entitled to all privileges as outlined in [Classification](#classification)  of the Constitution.
 
 1. Members in good standing on leave for more than two (2) years must reapply for membership.
 
@@ -228,7 +224,7 @@ All players must be in uniform (bearing the team’s name as represented to the 
 1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the League encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
 
 ### Manager
-The Manager is that person who has been officially recognized as the entrant of a team into the League. The Manager has the ultimate responsibility for the team’s compliance with all by-laws as set forth in this Constitution. The  of a franchise is responsible for all actions of his players and coaches and may be fined up to fifty dollars ($50.00) for any violations of codes of conduct and league rules as set forth in this document, or any other actions deemed detrimental to the objectives and standards of the League.
+The Manager is that person who has been officially recognized as the entrant of a team into the League. The Manager has the ultimate responsibility for the team’s compliance with all by-laws as set forth in this Constitution. The Manager of a franchise is responsible for all actions of his players and coaches and may be fined up to fifty dollars ($50.00) for any violations of codes of conduct and league rules as set forth in this document, or any other actions deemed detrimental to the objectives and standards of the League.
 
 1. Severe violations of league rules and codes of conduct may result in the suspension of the offending player or Manager for the balance of the season or possible permanent banishment from the league, if so ruled by the Commissioner.
 
