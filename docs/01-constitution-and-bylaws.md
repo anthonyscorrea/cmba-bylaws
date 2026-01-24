@@ -1,11 +1,28 @@
 # Constitution and Bylaws
-(the "Bylaws")
 
 ## Name
-The name of the corporation as incorporated and existing under and by virtue of the Illinois General Not for Profit Corporation Act of 1986, as amended ("the Act") shall be The Chicago Metropolitan Baseball League (League) (the "League"). The League shall have powers as are now or as may hereafter be granted by the Act.
+The name of the corporation as incorporated and existing under and by virtue of the Illinois General Not for Profit Corporation Act of 1986, as amended ("the Act") shall be the Chicago Metropolitan Baseball League (the "League"). The League shall have powers as are now or as may hereafter be granted by the Act.
 
 ## Purpose
 This League is organized exclusively for such social and athletic purposes as will qualify under Illinois statue for a non-profit corporation. It has been formed with the objective of providing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the League.
+
+## Powers
+The League shall have and exercise all rights and powers conferred on corporations under the Act, provided, however, that the League is not empowered to engage in any activity which in itself is not in furtherance of its purposes and limitations as set forth in these Constitutions and Bylaws.
+
+## Limitations
+Notwithstanding any other provisions of this Constitution and Bylaws (the "Bylaws"), the following rules shall conclusively bind the League and all persons acting for or on behalf of it:
+
+1. No part of the net earnings of the League shall inure to the benefit of, or be distributable to, any director of the League, officer of the League, or any other private individual (except that reasonable compensation may be paid for services rendered to or for the League affecting one or more of its purposes). No director, officer, member, or any private individual shall be entitled to share in the distribution of any of the corporate assets upon dissolution of the League.
+
+1. No substantial part of the activities of the League shall be the carrying on of propaganda, or otherwise attempting to influence legislation, and the League shall not participate in, or intervene in (including the publication or distribution of statements) any political campaign on behalf of or in opposition to any candidate for public office.
+
+1. The League shall not conduct or carry on any activities not permitted to be conducted or carried on by an organization exempt from taxation under Section 501(c)(3) of the Code and its regulations as they now exist or as they may hereafter be amended, or by an organization, contributions to which are deductible under Section 170(c)(2) of the Code and regulations as they now exist or as they may hereafter be amended.
+
+## Principal Office. 
+The League shall have and continuously maintain a principal office at such location in the State of Illinois as may be determined by the League's Board of Directors.
+
+## Registered Office and Agent. 
+The League shall have and maintain a registered office and agent in the State of Illinois in accordance with the requirements of the act. 
 
 ## Directors
 ### General Powers 
