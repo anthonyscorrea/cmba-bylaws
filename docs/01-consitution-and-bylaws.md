@@ -6,80 +6,115 @@ The name of the corporation as incorporated and existing under and by virtue of 
 ## Purpose
 This League is organized exclusively for such social and athletic purposes as will qualify under Illinois statue for a non-profit corporation. It has been formed with the objective of providing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the League.
 
+## Directors
+### General Powers 
+Except as otherwise expressly herein provided or as otherwise provided by law, the property and affairs of the League shall be managed by or under the direction of its Board of Directors (the "Board of Directors"), which shall be the governing body of the League. The Board of Directors may exercise all the powers, rights, and privileges of the League, whether expressed or implied in the Articles of Incorporation or conferred by the Act or otherwise, and may do all acts and things which may be done by the League. Each Director shall be entitled to one full vote on each matter.
+
+### Number and Qualifications 
+The League's Board of Directors shall be composed of at least three (3) Directors ("Director") or such other greater number of Directors established by the Board of Directors from time to time. An individual need not be a Manager of a Member franchise in order to be a Director.
+
+### Election and Term of Office
+Directors shall be elected at the annual meeting of the League. The term of office of each Director shall be until the next annual meeting. Directors shall hold office until the expiration of the term for which he or she is elected and until his or her successor has been elected or until his or her death, resignation, or removal. Directors may serve successive terms.
+
+### Resignation and Removal
+Any Director may resign by written notice delivered to the Board of Directors or to the Commissioner or Secretary of the League. Any Director may be removed, with or without cause, by the affirmative vote of a majority of the Directors then in office. Any vacancy may be filled by the Board of Directors.
+
+### Compensation
+The Directors shall serve without compensation.
+
+## Officers
+
+### Designation
+The officers of the League shall be a Commissioner, a Treasurer, and a Secretary. All offices shall be filled by an affirmative vote of the Board on an annual basis. Other Officers may be created by the Directors at their discretion. Officers may serve successive terms.
+
+### Resignation and Removal
+
+Any Officer may resign by written notice delivered to the Board of Directors or to the Commissioner or Secretary of the League. Any Officer may be removed, with or without cause, by the affirmative vote of a majority of the Directors then in office. Any vacancy may be filled by the Board of Directors.
+
+## Officer Duties
+
+### Commissioner
+The duties and powers of the Commissioner are as follows:
+
+1. execute contracts, with approval of the board or in accordance with the budget approved by the board
+1. Shall serve a life term or until voluntary relinquishment of the office.
+1. Preside over all League meetings.
+1. Official spokesman to news media and others whenever the League’s point of view is needed.
+1. Call all regular and Rules and Competition Committee meetings and assign the date and place thereof.
+1. Appoint persons to positions as he deems necessary or until elections are held.
+1. Assess fines and punishments as he deems necessary with just cause.
+1. Prepare and propose the League’s budget for approval by the Board.
+1. Gather all information regarding protests.
+1. Maintain a league website to keep Managers and players apprised of the state of the league.
+1. Judge and take action on all circumstances not covered in the Constitution and By-Laws in good faith and furtherance of the stated goals and principles of the league.
+1. Interpret the rules and by-laws of this Constitution and make appropriate decisions thereof.
+   1. Decisions of the Commissioner may be appealed to the Rules and Competition Committee. Appeals must be presented in writing and must contain specific grounds for the appeal.
+
+### Treasurer
+The Treasurer shall be responsible for the League’s monetary assets and its proper handling and distribution as ordered by the league and its Commissioner.
+
+tax returns
+
+### Secretary ?
+
+
+### Compensation
+The Officers shall serve without compensation.
+
+## Meetings of the Board
+
+### Annual Meeting
+The Board of Directors shall hold its annual meeting after January 1 at a time and place set by the Commissioner. This meeting must be held in person, except in extenuating circumstances. The Board of Directors may invite a representative from each Member Franchise to attend the annual meeting.
+
+### Additional Meetings
+Additional meetings of the Board of Directors may be called by the Commissioner or any Director.
+
+### Quorum and Voting
+A majority of the Board of Directors shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. The affirmative votes of a majority of the Directors present at a meeting of the Board of Directors at which a quorum is present shall be the act of the Board of Directors, unless the affirmative vote of a greater number is required by law or these By-Laws.
+
+## Misc
+
+### Amendments
+These By-Laws may be altered, amended, or repealed, and new bylaws may be adopted by resolution of the Board of Directors at any time or from time to time by the vote of two-thirds of the Directors.
+
+### Drafts, Checks, Deposits
+
+### dissolution
+
+### books records and minutes
+
+### contracts
+
+# By-Laws
+
+## Subjectivity
+These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
+
+## Budget
+A budget for the next fiscal year shall be prepared by the Commissioner for presentation and approval of the Board. The budget shall conssit the annual Member dues, other income, and expected expenditures for the operating year. The board shall present the approved budget for information to league Members.
+
+### Rules and Competition Committee Meetings
+The Rules and Competition Committee shall meet at the discretion of the Commissioner. These meetings must be held in person, except in extenuating circumstances by agreement between the Commissioner and the Committee.
+
+### Rules and Competition Committee
+The Rules and Competition Committee, to be made up of the Commissioner and two (2) appointed franchise holders. An alternate member shall be appointed by the Commissioner if a committee member is unavailable or conflicted (i.e. the matter under consideration involves a player of the committee member’s team or the committee member), shall meet and take action concerning:
+
+1. Official protests
+1. Disciplinary matters referred to the committee pursuant to [Standings And Postseason](#standings-and-postseason)
+1. Any decision of the Commissioner that has been officially appealed.
+
+### Additional roles supporting the league.
+Webmaster, Umpire Assigner
+
+### Umpires
+Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the By-Laws, except where specified.
+
+## Code of Conduct
 ### Ethics
 All League members, including officers, Managers, umpires, and players shall strive to be ethical, honorable, and truthful in all dealings concerning the League thereby promoting the League as a first class league of impeccable integrity.
 
 ### Sportsmanship
 All League members, including officers, Managers, umpires, and players are expected to behave in a sportsmanlike manner, promoting fair competitive play in a respectful atmosphere.
-
-## Members
-A Member of the League shall be recognized as the participating franchise as represented by its Manager. Membership in the League is open to any amateur baseball franchise in the Greater Chicagoland area that qualifies under the rules and requirements for admission as set forth in this Constitution.
-
-### Classification
-Membership shall be divided into the following classes:
-
-1. Active and in good-standing
-1. Active and not in good-standing.
-1. Suspended
-1. Inactive and granted a leave of absence.
-
-### Voting
-All active Members shall have full voting rights. Suspended members shall not have voting rights until reinstated by the League.
-
-### Subjectivity
-All League members shall abide by and are subject to all rules and regulations as outlined in this Constitution and By-Laws, and are subject to the authority of the Commissioner, other Officers, the umpires and any other ruling officials so authorized. These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
-
-## Directors
-### General Powers 
-Except as otherwise expressly herein provided or as otherwise provided by law, the property and affairs of the League shall be managed by or under the direction of its Board of Directors (the "Board of Directors"), which shall be the governing body of the League. The Board of Directors may exercise all the powers, rights, and privileges of the League, whether expressed or implied in the Articles of Incorporation or conferred by the Act or otherwise, and may do all acts and things which may be done by the League. Each director shall be entitled to one full vote on each matter.
-
-### Number and Qualifications 
-The League's Board of Directors shall be composed of three (3) directors to thirteen (13) directors. No decrease in the number of directors shall have the effect of shortening the term of an incumbent director. An individual need not be a Manager of a member franchise.
-
-### Election and Term of Office
-Directors shall be elected at the annual meeting of the League. The term of office of each director shall be until the next annual meeting. Directors shall hold office until the expiration of the term for which he or she is elected and until his or her successor has been elected or until his or her death, resignation, or removal.
-
-Directors may serve successive terms.
-
-### Resignation and Removal
-Any director may resign by written notice delivered to the Board of Directors or to the Commissioner or Secretary of the League. A resignation is effective when the notice is delivered, unless the notice specifies a future date. The pending vacancy may be filled pursuant to [Election and Term of Office](#election-and–term–of-office) before the effective date. Any director may be removed, with or without cause, by the affirmative vote of a majority of the directors then in office.
-
-## Officers
-
-### Designation
-The officers of the League shall be a Commissioner, a Treasurer, and a Secretary. 
-
-All offices shall be filled by an affirmative vote of the Board. Other Officers may be created by the Directors at their discretion.
-
-### Terms of Office
-
-All Officers are subject to annual reelection by the Directors. Directors may serve successive terms.
-
-### Umpires
-Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the By-Laws, except where specified.
-
-## Meetings
-
-### Annual Meeting
-The League shall hold its annual preseason meeting after January 1 at a time and place set by the Commissioner. This meeting must be held in person, except in extenuating circumstances.
-
-### Additional Meetings
-Additional meetings shall be called by the Commissioner for reasons at his discretion.
-
-### Rules and Competition Committee Meetings
-The Rules and Competition Committee shall meet at the discretion of the Commissioner. These meetings must be held in person, except in extenuating circumstances by agreement between the Commissioner and the Committee.
-
-### Meeting and Voting Validity
-Only meetings called for and attended by the Commissioner will be considered valid and no votes held in the absence of the Commissioner will be considered binding.
-
-### Amending the Constitution
-This constitution may be amended, removed, or added by an affirmative vote of two-thirds of members with voting privileges.
-The complete proposed written text of any amendment(s) to this constitution must be submitted to the representatives of the teams before the amendment(s) can be voted on.
-
-## Budget
-A budget for the next fiscal year shall be prepared by the Commissioner for presentation and approval of the Board. The budget shall conssit the annual Member dues, other income, and expected expenditures for the operating year. The board shall present the approved budget for information to league Members.
-
-# By-Laws
 
 ## Definition; Amendments
 These By-Laws shall stand as the official rules of the League.
@@ -104,9 +139,6 @@ The following standards shall apply for consideration for membership by franchis
 The League Commissioner shall present, upon acceptable review of its qualifications, a new franchise to the members at large for consideration. New franchises are allowed to present a positive case for inclusion.
 
 1. Acceptance shall be affirmed with a simple majority vote of members in attendance.
-
-### Acceptance Fee
-A franchise fee of fifty dollars ($50.00) shall be paid to the League Treasurer upon acceptance into the League.
 
 ### Annual Membership Dues
 All League members shall pay annual membership dues, as determined by League [budget](#budget). All League members must have all membership dues paid by a schedule set by the Commissioner and approved by the Board.
@@ -153,37 +185,7 @@ In the event the Commissioner is a franchise holder, the Rules and Competition C
 ### Outside Leagues
 Teams may not play in leagues outside of the League, unless that league has a formal agreement with the League that its playing schedule does not conflict with regularly scheduled League games or playoffs.
 
-## Officer Duties
-As defined in [Officers](#officers), the officers of the League are the Commissioner, Treasurer, Rules and Competition Committee member.
 
-### Commissioner
-The duties and powers of the Commissioner are as follows:
-
-1. Shall serve a life term or until voluntary relinquishment of the office.
-1. Preside over all League meetings.
-1. Official spokesman to news media and others whenever the League’s point of view is needed.
-1. Call all regular and Rules and Competition Committee meetings and assign the date and place thereof.
-1. Appoint persons to positions as he deems necessary or until elections are held.
-1. Assess fines and punishments as he deems necessary with just cause.
-1. Calculate the League’s budget.
-1. Gather all information regarding protests.
-1. Maintain a league website to keep Managers and players apprised of the state of the league.
-1. Judge and take action on all circumstances not covered in the Constitution and By-Laws in good faith and furtherance of the stated goals and principles of the league.
-1. Interpret the rules and by-laws of this Constitution and make appropriate decisions thereof.
-   1. Decisions of the Commissioner may be appealed to the Rules and Competition Committee. Appeals must be presented in writing and must contain specific grounds for the appeal.
-
-### Treasurer
-The Treasurer shall be responsible for the League’s monetary assets and its proper handling and distribution as ordered by the league and its Commissioner.
-
-### Rules and Competition Committee
-The Rules and Competition Committee, to be made up of the Commissioner and two (2) appointed franchise holders. An alternate member shall be appointed by the Commissioner if a committee member is unavailable or conflicted (i.e. the matter under consideration involves a player of the committee member’s team or the committee member), shall meet and take action concerning:
-
-1. Official protests
-1. Disciplinary matters referred to the committee pursuant to [Standings And Postseason](#standings-and-postseason)
-1. Any decision of the Commissioner that has been officially appealed.
-
-### Compensation
-All officers other than the Rules Committee members, shall be granted compensation for time and expenses.
 
 ## Meetings and Voting
 Per [Annual Meeting](#annual-meeting), the League shall hold an annual meeting. In addition, per 4.2, the Commissioner may call additional meetings.
