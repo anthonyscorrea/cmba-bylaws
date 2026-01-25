@@ -79,15 +79,23 @@ Additional meetings of the Board of Directors may be called by the Commissioner 
 ### Quorum and Voting
 A majority of the Board of Directors shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. The affirmative votes of a majority of the Directors present at a meeting of the Board of Directors at which a quorum is present shall be the act of the Board of Directors, unless the affirmative vote of a greater number is required by law or these Bylaws. 
 
-## Misc
+### Informal Action by Directors 
+Unless specifically prohibited by the Articles of Incorporation or these Bylaws, any action required to be taken or which may be taken at a meeting of the Board of Directors may be taken without a meeting if a consent in writing or by electronic mail setting forth the action so taken shall be signed or submitted by all of the directors entitled to vote with respect to the subject matter thereof.
 
-### Amendments
-These By-Laws may be altered, amended, or repealed, and new bylaws may be adopted by resolution of the Board of Directors at any time or from time to time by the vote of two-thirds of the Directors.
+## Miscellaneous
 
 ### Drafts, Checks, Deposits
 
-### dissolution
+All checks, drafts, or other orders for the payment of money by the League shall be signed by such officer or officers, agent or agents of the League and in such manner as shall from time to time be determined by resolution of the Board of Directors, or by an officer or officers of the League designated by the Board of Directors to make such determination.
 
-### books records and minutes
+All funds of the League not otherwise employed shall be deposited from time to time to the credit of the League in such banks, trust companies, or other depositories as the Board of Directors, or such officer or officers designated by the Board of Directors, may select.
 
-### contracts
+### Books Records and Minutes
+
+The League shall keep correct and complete books and records of accounts and also shall keep minutes of the proceedings of its Board of Directors and committees having any of the authority of the Board of Directors. All such books, records, and minutes shall be kept at the principal office of the League in the State of Illinois, and may be inspected by any director entitled to vote, for any proper purpose at any reasonable time.
+
+### Amendments
+These Bylaws may be altered, amended, or repealed, and new bylaws may be adopted by resolution of the Board of Directors at any time or from time to time by the vote of two-thirds of the Directors.
+
+## Dissolution 
+Upon dissolution of the League or the winding up of its affairs, the League's Board of Directors shall, after paying or making provisions for the payment of all the liabilities of the League, dispose of all the assets of the League exclusively for the purposes of the League in such manner, or to such organization or organizations organized and operated exclusively for charitable, educational, religious, or scientific purposes as shall at the time qualify as an exempt organization or organizations under Section 501(c)(3) of the Code, or any corresponding section of any future federal tax code, as the Board of Directors shall determine. Any such assets not so disposed of shall be distributed to the federal government, or to a state or local government for a public purpose.
