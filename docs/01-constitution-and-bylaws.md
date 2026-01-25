@@ -52,21 +52,12 @@ Any Officer may resign by written notice delivered to the Board of Directors or 
 ## Officer Duties
 
 ### Commissioner
-The duties and powers of the Commissioner are as follows:
+The Commissioner shall 
 
-1. execute contracts, with approval of the board or in accordance with the budget approved by the board
-1. Shall serve a life term or until voluntary relinquishment of the office.
-1. Preside over all League meetings.
-1. Official spokesman to news media and others whenever the League’s point of view is needed.
-1. Call all regular and Rules and Competition Committee meetings and assign the date and place thereof.
-1. Appoint persons to positions as he deems necessary or until elections are held.
-1. Assess fines and punishments as he deems necessary with just cause.
+1. Preside at meetings of the Membership and of the Board of Directors.
+1. Execute contracts in the name of and on behalf of the League, with approval of the board or in accordance with the budget approved by the Board.
 1. Prepare and propose the League’s budget for approval by the Board.
-1. Gather all information regarding protests.
-1. Maintain a league website to keep Managers and players apprised of the state of the league.
-1. Judge and take action on all circumstances not covered in the Constitution and By-Laws in good faith and furtherance of the stated goals and principles of the league.
-1. Interpret the rules and by-laws of this Constitution and make appropriate decisions thereof.
-   1. Decisions of the Commissioner may be appealed to the Rules and Competition Committee. Appeals must be presented in writing and must contain specific grounds for the appeal.
+1. Shall perform such other duties as may be determined by the board of directors, and shall perform and discharge such other duties as generally devolve upon a chief executive officer.
 
 ### Treasurer
 The Treasurer shall be responsible for the League’s monetary assets and its proper handling and distribution as ordered by the league and its Commissioner.
