@@ -29,7 +29,7 @@ The League shall have and maintain a registered office and agent in the State of
 Except as otherwise expressly herein provided or as otherwise provided by law, the property and affairs of the League shall be managed by or under the direction of its Board of Directors (the "Board of Directors"), which shall be the governing body of the League. The Board of Directors may exercise all the powers, rights, and privileges of the League, whether expressed or implied in the Articles of Incorporation or conferred by the Act or otherwise, and may do all acts and things which may be done by the League. Each Director shall be entitled to one full vote on each matter.
 
 ### Number and Qualifications 
-The League's Board of Directors shall be composed of at least three (3) Directors ("Director") or such other greater number of Directors established by the Board of Directors from time to time. An individual need not be a Manager of a Member franchise in order to be a Director.
+The League's Board of Directors shall be composed of at least three (3) Directors ("Director") or such other greater number of Directors established by the Board of Directors from time to time. An individual need not be a manager of a Member Franchise in order to be a Director.
 
 ### Election and Term of Office
 Directors shall be elected at the annual meeting of the League. The term of office of each Director shall be until the next annual meeting. Directors shall hold office until the expiration of the term for which he or she is elected and until his or her successor has been elected or until his or her death, resignation, or removal. Directors may serve successive terms.
