@@ -1,7 +1,7 @@
 # League Rules and Policy
 
 ## Subjectivity
-These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
+These rules, regulations, articles, and Bylaws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
 
 ## Budget
 A budget for the next fiscal year shall be prepared by the Commissioner for presentation and approval of the Board. The budget shall consists the annual Member dues, other income, and expected expenditures for the operating year. The board shall present the approved budget for information to league Members.
@@ -20,7 +20,7 @@ The Rules and Competition Committee, to be made up of the Commissioner and two (
 Webmaster, Umpire Assigner
 
 ### Umpires
-Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the By-Laws, except where specified.
+Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the Bylaws, except where specified.
 
 ## Code of Conduct
 ### Ethics
@@ -30,11 +30,11 @@ All League members, including officers, Managers, umpires, and players shall str
 All League members, including officers, Managers, umpires, and players are expected to behave in a sportsmanlike manner, promoting fair competitive play in a respectful atmosphere.
 
 ## Definition; Amendments
-These By-Laws shall stand as the official rules of the League.
-All League members shall abide by and are subject to, without exception, all rules and regulations as outlined in the Constitution and By-Laws as well as the authority of the League Commissioner, in accordance with [Subjectivity](#subjectivity)
+These Bylaws shall stand as the official rules of the League.
+All League members shall abide by and are subject to, without exception, all rules and regulations as outlined in the Constitution and Bylaws as well as the authority of the League Commissioner, in accordance with [Subjectivity](#subjectivity)
 
-### Amending the By-Laws
-By-Laws may be amended, removed, or added by an affirmative vote of two-thirds of the League members present at the time of the vote.
+### Amending the Bylaws
+Bylaws may be amended, removed, or added by an affirmative vote of two-thirds of the League members present at the time of the vote.
 
 ## Membership
 
@@ -66,7 +66,7 @@ All League members shall pay annual membership dues, as determined by League [bu
 League fees may consist of, but are not limited to the following: Forfeit fee; Performance bond; Field fees; Prize Money Fund; Tournament fees; and any other costs incurred by the League.
 
 ### Fines
-The Commissioner may levy fines to any League Member franchise or player subject to Board oversight. Fines may be levied for violation of this Constitution and its By-Laws or conduct unbecoming of a representative of the League. Fines may not exceed fifty dollars ($50.00) for a single incident Fines must be paid in full by a date specified by the Commissioner. Member franchises or Member franchises consisting of rostered players with outstanding fines will be considered not in good standing as defined in [classification](#classification).
+The Commissioner may levy fines to any League Member franchise or player subject to Board oversight. Fines may be levied for violation of this Constitution and its Bylaws or conduct unbecoming of a representative of the League. Fines may not exceed fifty dollars ($50.00) for a single incident Fines must be paid in full by a date specified by the Commissioner. Member franchises or Member franchises consisting of rostered players with outstanding fines will be considered not in good standing as defined in [classification](#classification).
 
 ### Leave of Absence
 Members in good standing may be granted a leave of absence and are entitled to all privileges as outlined in [Classification](#classification)  of the Constitution.
@@ -93,7 +93,7 @@ An indefinitely suspended franchise may be reinstated by the Commissioner upon t
 The Commissioner may request additional fees to cover any costs that exceed the amounts originally budgeted for by the League.
 
 ### Fees to the Commissioner
-In the event the Commissioner is a franchise holder, the Rules and Competition Committee may levy any and all appropriate fines for infractions of this Constitution and By-Laws by his franchise.
+In the event the Commissioner is a franchise holder, the Rules and Competition Committee may levy any and all appropriate fines for infractions of this Constitution and Bylaws by his franchise.
 
 ### Outside Leagues
 Teams may not play in leagues outside of the League, unless that league has a formal agreement with the League that its playing schedule does not conflict with regularly scheduled League games or playoffs.
@@ -113,9 +113,9 @@ The Commissioner shall chair the meeting. If the Commissioner is also a franchis
 A 2/3 vote is necessary to:
 
    1. Amend the Constitution, per [Amending the Constitution](#amending-the-constitution)
-   1. Amend the Bylaws, per [Amending The By Laws](#amending-the-by-laws)
+   1. Amend the Bylaws, per [Amending The By Laws](#amending-the-Bylaws)
    1. Remove an Officer.
-   1. Expel a team or player for violations of rules set forth in the Constitution or By-laws.
+   1. Expel a team or player for violations of rules set forth in the Constitution or Bylaws.
 
 Any decision not listed above shall be decided by simple majority vote.
 
@@ -139,7 +139,7 @@ All players must be in uniform (bearing the team’s name as represented to the 
 1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the League encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
 
 ### Manager
-The Manager is that person who has been officially recognized as the entrant of a team into the League. The Manager has the ultimate responsibility for the team’s compliance with all by-laws as set forth in this Constitution. The Manager of a franchise is responsible for all actions of his players and coaches and may be fined up to fifty dollars ($50.00) for any violations of codes of conduct and league rules as set forth in this document, or any other actions deemed detrimental to the objectives and standards of the League.
+The Manager is that person who has been officially recognized as the entrant of a team into the League. The Manager has the ultimate responsibility for the team’s compliance with all Bylaws as set forth in this Constitution. The Manager of a franchise is responsible for all actions of his players and coaches and may be fined up to fifty dollars ($50.00) for any violations of codes of conduct and league rules as set forth in this document, or any other actions deemed detrimental to the objectives and standards of the League.
 
 1. Severe violations of league rules and codes of conduct may result in the suspension of the offending player or Manager for the balance of the season or possible permanent banishment from the league, if so ruled by the Commissioner.
 
@@ -190,7 +190,7 @@ A player must inform the League Commissioner and his Manager no later than Febru
 All protests must be filed with the Commissioner within 48 hours of the alleged infraction and on the League supplied form. All requested information must be accurately reported. Any Manager who knowingly falsifies information on the protest form will be fined and suspended as determined by the Commissioner, and that Manager’s team will forfeit the game.
 
 ### Ground for Protest
-Protests may only be made on the grounds of a violation of a rule stated in this Constitution and its By-Laws or in violation of a stated Major League Baseball rule. Protests may not, under any circumstances, be based on the judgment of an umpire’s call. The protesting team’s Manager must notify the umpire of the protest at the time the violation occurred. Managers shall notify the league Commissioner at the earliest possible time after the game and provide umpire signature as proof of notification.
+Protests may only be made on the grounds of a violation of a rule stated in this Constitution and its Bylaws or in violation of a stated Major League Baseball rule. Protests may not, under any circumstances, be based on the judgment of an umpire’s call. The protesting team’s Manager must notify the umpire of the protest at the time the violation occurred. Managers shall notify the league Commissioner at the earliest possible time after the game and provide umpire signature as proof of notification.
 
 ### Ruling
 Upon the filing of a protest with the Commissioner, the Commissioner shall call a meeting of the Rules and Competition Committee at the earliest possible date. Judgment regarding the merit of the protest shall be made after deliberation.

@@ -88,7 +88,7 @@ The Board of Directors shall hold its annual meeting after January 1 at a time a
 Additional meetings of the Board of Directors may be called by the Commissioner or any Director.
 
 ### Quorum and Voting
-A majority of the Board of Directors shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. The affirmative votes of a majority of the Directors present at a meeting of the Board of Directors at which a quorum is present shall be the act of the Board of Directors, unless the affirmative vote of a greater number is required by law or these By-Laws.
+A majority of the Board of Directors shall constitute a quorum for the transaction of business at any meeting of the Board of Directors. The affirmative votes of a majority of the Directors present at a meeting of the Board of Directors at which a quorum is present shall be the act of the Board of Directors, unless the affirmative vote of a greater number is required by law or these Bylaws. 
 
 ## Misc
 
