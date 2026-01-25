@@ -4,7 +4,7 @@
 These rules, regulations, articles, and By-Laws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
 
 ## Budget
-A budget for the next fiscal year shall be prepared by the Commissioner for presentation and approval of the Board. The budget shall conssit the annual Member dues, other income, and expected expenditures for the operating year. The board shall present the approved budget for information to league Members.
+A budget for the next fiscal year shall be prepared by the Commissioner for presentation and approval of the Board. The budget shall consists the annual Member dues, other income, and expected expenditures for the operating year. The board shall present the approved budget for information to league Members.
 
 ### Rules and Competition Committee Meetings
 The Rules and Competition Committee shall meet at the discretion of the Commissioner. These meetings must be held in person, except in extenuating circumstances by agreement between the Commissioner and the Committee.
