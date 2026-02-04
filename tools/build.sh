@@ -11,5 +11,5 @@ STRICT_FLAG=""
 if [ "${MKDOCS_STRICT}" = "true" ]; then
   STRICT_FLAG="--strict"
 fi
-
+echo "MKDOCS_STRICT: $MKDOCS_STRICT, STRICT_FLAG: $STRICT_FLAG"
 mkdocs build ${STRICT_FLAG} -f $MKDOCS_CONFIG -d $OUTPUT_DIR

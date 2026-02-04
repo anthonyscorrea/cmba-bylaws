@@ -37,3 +37,7 @@ plugins:
       toc_depth: 2
       exclude:
         - index.md
+
+validation:
+  links:
+    anchors: warn #this defaults to info, but it will cause broken links in anchor headers

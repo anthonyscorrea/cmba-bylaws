@@ -1,0 +1,114 @@
+name: Build & publish docs (rc + release)
+
+on:
+  push:
+    tags:
+      - "rc*"
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  MKDOCS_CONFIG: mkdocs/mkdocs.yml
+  MKDOCS_STRICT: ${{ vars.MKDOCS_STRICT || 'true' }}
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout (tag)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          set -euo pipefail
+          pip install -r mkdocs/requirements.txt
+
+      - name: Build docs (normal + offline, strict gate)
+        run: |
+          set -euo pipefail
+
+          FLAGS=()
+          if [ "${MKDOCS_STRICT}" = "true" ]; then
+            FLAGS+=(--strict)
+          fi
+
+          OUT_BASE="${RUNNER_TEMP}/mkdocs_out"
+          SITE="${OUT_BASE}/site"
+          SITE_OFFLINE="${OUT_BASE}/site_offline/${GITHUB_REF_NAME}"
+
+          rm -rf "${OUT_BASE}"
+          mkdir -p "${SITE}" "${SITE_OFFLINE}"
+
+          mkdocs build "${FLAGS[@]}" -f "${MKDOCS_CONFIG}" -d "${SITE}"
+          OFFLINE=true mkdocs build "${FLAGS[@]}" -f "${MKDOCS_CONFIG}" -d "${SITE_OFFLINE}"
+
+      - name: Zip offline site
+        run: |
+          set -euo pipefail
+          cd "${RUNNER_TEMP}/mkdocs_out/site_offline/"
+          zip -r "${GITHUB_REF_NAME}.zip" ./${GITHUB_REF_NAME}
+
+      - name: Publish prerelease
+        if: startsWith(github.ref_name, 'rc')
+        uses: softprops/action-gh-release@v2
+        with:
+          prerelease: true
+          name: ${{ github.ref_name }}
+          tag_name: ${{ github.ref_name }}
+          body: |
+            Release candidate preview (if deployed): /rc/
+          files: |
+            ${{ runner.temp }}/mkdocs_out/${{ github.ref_name }}.zip
+
+      - name: Publish release
+        if: startsWith(github.ref_name, 'v')
+        uses: softprops/action-gh-release@v2
+        with:
+          name: ${{ github.ref_name }}
+          tag_name: ${{ github.ref_name }}
+          files: |
+            ${{ runner.temp }}/mkdocs_out/site_offline/${{ github.ref_name }}.zip
+
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          fetch-depth: 0
+
+      - name: Deploy release to gh-pages root
+        if: startsWith(github.ref_name, 'v')
+        run: |
+          set -euo pipefail
+          rm -rf ./*
+          cp -a ${RUNNER_TEMP}/mkdocs_out/site/. .
+          git add -A
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Deploy release ${GITHUB_REF_NAME}" || echo "No changes to commit"
+          git push origin gh-pages
+
+      - name: Deploy RC preview to /rc/
+        if: startsWith(github.ref_name, 'rc')
+        run: |
+          set -euo pipefail
+          rm -rf rc
+          mkdir -p rc
+          cp -a ${RUNNER_TEMP}/mkdocs_out/site/. rc/
+          printf '{"tag":"%s"}\n' "${GITHUB_REF_NAME}" > rc/rc.json
+
+          git add -A
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Deploy RC preview ${GITHUB_REF_NAME}" || echo "No changes to commit"
+          git push origin gh-pages
