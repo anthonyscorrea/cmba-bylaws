@@ -67,9 +67,9 @@ jobs:
           name: ${{ github.ref_name }}
           tag_name: ${{ github.ref_name }}
           body: |
-            Release candidate preview (if deployed): /rc/
+            Release candidate preview.
           files: |
-            ${{ runner.temp }}/mkdocs_out/${{ github.ref_name }}.zip
+            ${{ runner.temp }}/mkdocs_out/site_offline/${{ github.ref_name }}.zip
 
       - name: Publish release
         if: startsWith(github.ref_name, 'v')
