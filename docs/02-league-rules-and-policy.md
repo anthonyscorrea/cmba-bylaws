@@ -159,6 +159,15 @@ In exercising enforcement authority, the Commissioner may utilize one or more of
    1. Member Franchises may participate in outside leagues provided such participation does not conflict with League games or playoffs and is permitted by agreement with the League.
    1. Violations of this provision may result in disciplinary action.
 
+### Penalties and Fees
+The Commissioner may levy fines to any League Member franchise or player subject to Board oversight. Fines may be levied for violation of this Constitution and its Bylaws or conduct unbecoming of a representative of the League. The penalties and amounts set forth in this section are operational in nature and may be adjusted by the Commissioner with Board oversight, unless otherwise specified. 
+
+1. Late payment of annual dues shall incur a penalty of ten dollars ($10.00) per week, not to exceed five (5) weeks.
+1. Members in violation of the above shall be placed on temporary suspension for a period of two (2) weeks.
+1. Members who have not paid outstanding dues by the end of the two week suspension shall be placed on indefinite suspension until all dues are paid. Members who have not paid outstanding dues by the end of the two week suspension shall be placed on indefinite suspension until all dues are paid.
+1. A forfeit fee may be assessed per forfeited game.
+1. Fines for a single incident shall not exceed fifty dollars ($50.00).
+
 ### Appeals
 1. A Member Franchise or Player may appeal a disciplinary or eligibility decision affecting them in accordance with this document. 
 1. Appeals shall be submitted within a timeframe established by the Commissioner.
@@ -182,55 +191,6 @@ All League members shall abide by and are subject to, without exception, all rul
 
 ### Amending the Bylaws
 Bylaws may be amended, removed, or added by an affirmative vote of two-thirds of the League members present at the time of the vote.
-
-## Membership
-
-### Annual Membership Dues
-All League members shall pay annual membership dues, as determined by League [budget](#budget). All League members must have all membership dues paid by a schedule set by the Commissioner and approved by the Board.
-
-1. Penalty for late payment shall be ten dollars ($10.00) per week for no longer than five (5) weeks.
-1. Members in violation of the above shall be placed on temporary suspension for a period of two (2) weeks.
-1. Members who have not paid outstanding dues by the end of the two week suspension shall be placed on indefinite suspension until all dues are paid.
-
-### Fees and Fines
-
-### Fees
-League fees may consist of, but are not limited to the following: Forfeit fee; Performance bond; Field fees; Prize Money Fund; Tournament fees; and any other costs incurred by the League.
-
-### Fines
-The Commissioner may levy fines to any League Member franchise or player subject to Board oversight. Fines may be levied for violation of this Constitution and its Bylaws or conduct unbecoming of a representative of the League. Fines may not exceed fifty dollars ($50.00) for a single incident Fines must be paid in full by a date specified by the Commissioner. Member franchises or Member franchises consisting of rostered players with outstanding fines will be considered not in good standing as defined in [classification](#classification).
-
-### Leave of Absence
-Members in good standing may be granted a leave of absence and are entitled to all privileges as outlined in [Classification](#classification)  of the Constitution.
-
-1. Members in good standing on leave for more than two (2) years must reapply for membership.
-
-### Temporary Suspension
-An League franchise may be placed on temporary suspension by the Commissioner and are subject to rules set forth in [Classification; Standing](#classification-standing).
-
-### Indefinite Suspension
-An League franchise may be placed on indefinite suspension by the Commissioner and subject to rules set forth in [Classification; Standing](#classification-standing). Violations that may result in indefinite suspension are as follows:
-
-1. Conduct detrimental to the objectives of the League.
-1. Two (2) forfeits of a game in one season. A team that is indefinitely suspended two consecutive seasons for violation of this subsection shall not be permitted to reapply for reinstatement unless a change in management is presented to the league. The new management must be approved by the League Commissioner and ratified by a majority of the League members.
-1. Tampering with players on the roster of another member franchise. Tampering shall be defined as the deliberate solicitation, without consent, by one League member of a player who has made at least an oral commitment to play for another League franchise.
-1. Consumption of alcoholic beverages on or in close proximity to the playing fields as detailed in [League Standings](#league-standings)
-1. Violation of any written policies set forth by the issuer of any permits for field use by the League.
-1. Failure to comply with any of the stated codes of conduct as set forth in this document.
-
-### Reinstatement
-An indefinitely suspended franchise may be reinstated by the Commissioner upon the resolution of any outstanding violations and the satisfactory guarantee of no further violations.
-
-### Additional Fees
-The Commissioner may request additional fees to cover any costs that exceed the amounts originally budgeted for by the League.
-
-### Fees to the Commissioner
-In the event the Commissioner is a franchise holder, the Rules and Competition Committee may levy any and all appropriate fines for infractions of this Constitution and Bylaws by his franchise.
-
-### Outside Leagues
-Teams may not play in leagues outside of the League, unless that league has a formal agreement with the League that its playing schedule does not conflict with regularly scheduled League games or playoffs.
-
-
 
 ## Meetings and Voting
 Per [Annual Meeting](#annual-meeting), the League shall hold an annual meeting. In addition, per 4.2, the Commissioner may call additional meetings.
