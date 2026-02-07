@@ -1,11 +1,50 @@
 # League Rules and Policy
 
-## Subjectivity
-These rules, regulations, articles, and Bylaws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
+## Authority and Applicability
+This Rules and Policy document is adopted pursuant to the League’s Constitution and Bylaws and governs the operational rules, procedures, and competitive structure of the League. In the event of a conflict between this document and the Constitution and Bylaws, the Constitution and Bylaws shall control.
 
-## League Participants and Roles
-### Member Franchises (Teams) and Management
+## League Governance
+The Commissioner is responsible for the day-to-day administration of League operations in accordance with the Constitution and Bylaws and this Rules and Policy document. The Board provides oversight of League operations and may review or direct actions of the Commissioner.
 
+### Budget
+The Commissioner shall prepare a proposed budget for each fiscal year.
+
+The proposed budget shall include, at a minimum:
+
+1. Annual Member Franchise dues and payment schedule;
+1. Other anticipated sources of income;
+1. Expected expenditures for the operating year.
+
+The proposed budget shall be presented to the Board for review and approval. Upon approval by the Board, the budget shall constitute the official League Budget for the applicable fiscal year. The approved League Budget shall be shared with all Member Franchises on an annual basis for informational purposes.
+
+### Appointed League Roles
+The Commissioner may appoint individuals to operational roles as necessary to support League administration, subject to Board oversight.
+
+Appointed roles may include, but are not limited to, the following:
+
+1. Umpire Assigner;
+1. Webmaster;
+1. Social Media or Communications Coordinator;
+1. Other roles deemed necessary by the Commissioner.
+
+The Commissioner shall define the duties, scope, and term of each appointed role.
+
+No appointed role shall possess independent authority to interpret rules, impose discipline, levy fees or fines, or bind the League, unless such authority is expressly granted by this document or the Board.
+
+### Committees
+The League may establish committees as necessary to assist in the administration, governance, or operation of League activities. Committees are advisory bodies and shall have only the authority expressly granted to them by this document, the Commissioner, or the Board. Committee members shall be appointed by the Commissioner, subject to Board oversight, unless otherwise specified. The Commissioner may appoint alternate committee members when a committee member is unavailable or has a conflict of interest. Committees may be convened at the discretion of the Commissioner.
+
+ Committees may be formed for specific purposes, including but not limited to:
+
+1. Advising on disciplinary matters and appeals;
+1. Reviewing or proposing additions or amendments to playing rules;
+1. Assisting with competition structure or game administration.
+
+The Committee shall issue findings and recommendations to the Commissioner or Board, as applicable. The Committee shall have no independent authority to impose discipline, overturn decisions, or bind the League unless expressly authorized elsewhere in this document.
+
+## League Participants
+
+### Member Franchises (Teams) and Managers
 A Member Franchise consists of:
 
 1. A league-approved team identity;
@@ -32,7 +71,7 @@ The Commissioner shall review applications for new Member Franchises for complia
 1. Acceptance shall require a simple majority vote of the Board.
 
 #### Manager Designation and Authority
-1. Each Member Franchise shall designate one individual as its Manager.
+1. Each Member Franchise shall designate one individual as its Manager. It may also designate an Assistant Manager.
 1. The Manager shall be the **sole authorized representative** of the Member Franchise for all league matters unless otherwise approved by the Commissioner.
 1. The Manager shall be responsible for:
    1. Communication with the league;
@@ -41,7 +80,6 @@ The Commissioner shall review applications for new Member Franchises for complia
    1. Ensuring compliance with league rules by players and associated individuals.
 1. All actions taken by the Manager shall be deemed actions of the Member Franchise.
 1. The Member Franchise shall remain responsible for all obligations and penalties regardless of internal team disputes or player actions.
-1. Each Member Franchise may designate an Assistant Manager.
 
 #### Manager Changes
 1. A Member Franchise may change its Manager by providing notice to the Commissioner.
@@ -58,42 +96,10 @@ Player status is contingent upon:
 
 A Player participates in League activities solely through association with a Member Franchise and possesses no independent membership rights.
 
-### Appointed League Roles
-The Commissioner may appoint individuals to operational roles as necessary to support League administration, subject to Board oversight.
-
-Appointed roles may include, but are not limited to, the following:
-   1. Umpire Assigner;
-   1. Webmaster;
-   1. Social Media or Communications Coordinator;
-   1. Other roles deemed necessary by the Commissioner.
-
-The Commissioner shall define the duties, scope, and term of each appointed role.
-
-No appointed role shall possess independent authority to interpret rules, impose discipline, levy fees or fines, or bind the League, unless such authority is expressly granted by this document or by vote of the League.
-
-### Committees
-The League may establish committees as necessary to assist in the administration, governance, or operation of League activities. Committees are advisory bodies and shall have only the authority expressly granted to them by this document or the Board. Committee members shall be appointed by the Commissioner, subject to Board oversight, unless otherwise specified. The Commissioner may appoint alternate committee members when a committee member is unavailable or has a conflict of interest. Committees may be convened at the discretion of the Commissioner.
-
- Committees may be formed for specific purposes, including but not limited to:
-
-1. Advising on disciplinary matters and appeals;
-1. Reviewing or proposing additions or amendments to playing rules;
-1. Assisting with competition structure or game administration.
-
-The Committee shall issue findings and recommendations to the Commissioner or Board, as applicable. The Committee shall have no independent authority to impose discipline, overturn decisions, or bind the League unless expressly authorized elsewhere in this document.
-
-## Budget
-The Commissioner shall prepare a proposed budget for each fiscal year.
-
-The proposed budget shall include, at a minimum:
-
-1. Annual Member Franchise dues and payment schedule;
-1. Other anticipated sources of income;
-1. Expected expenditures for the operating year.
-
-The proposed budget shall be presented to the Board for review and approval. Upon approval by the Board, the budget shall constitute the official League Budget for the applicable fiscal year. The approved League Budget shall be shared with all Member Franchises on an annual basis for informational purposes.
-
-
+### Financial Obligations
+1. Each Member Franchise is responsible for payment of all League dues, fees, and fines assessed to it pursuant to the approved League Budget or this document.
+1. Players may be assessed individual fees or fines as permitted by League rules; however, the Member Franchise shall remain ultimately responsible for ensuring such obligations are satisfied.
+1. Failure to satisfy financial obligations in accordance with established deadlines may result in penalties, suspension, or loss of good standing as provided elsewhere in this document.
 
 ### Umpires
 Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the Bylaws, except where specified.
@@ -305,3 +311,6 @@ Any player or coach who physically assaults an umpire will be permanently banish
 
 ### Flagrant Collisions
 A flagrant collision is defined as an intentional act to forcibly collide with a fielder. A player who is ejected for a flagrant collision will be suspended for three (3) games and fined $30. A second offense (not necessarily in the same season) will result in the player being suspended for the remainder of that season (including playoffs). A third offense will result in permanent banishment from the league.
+
+## Subjectivity
+These rules, regulations, articles, and Bylaws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
