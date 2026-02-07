@@ -6,6 +6,13 @@ This Rules and Policy document is adopted pursuant to the League’s Constitutio
 ## League Governance
 The Commissioner is responsible for the day-to-day administration of League operations in accordance with the Constitution and Bylaws and this Rules and Policy document. The Board provides oversight of League operations and may review or direct actions of the Commissioner.
 
+### Operational Rights of Member Franchises
+1. Member Franchises in good standing shall have the right to participate in League governance on matters of League operation as provided herein.
+1. Member Franchises shall have the right to appeal disciplinary or eligibility decisions affecting them in accordance with procedures set forth in this document.
+1. Member Franchises may provide input and vote in an advisory capacity on matters of League policy, administration, and operation.
+1. Member Franchises may vote with binding effect on playing rules, competition rules, and on-field regulations, except where authority is otherwise reserved by this document or the Constitution and Bylaws.
+1. Exercise of these rights is contingent upon the Member Franchise being in good standing.
+
 ### Budget
 The Commissioner shall prepare a proposed budget for each fiscal year.
 
@@ -96,12 +103,70 @@ Player status is contingent upon:
 
 A Player participates in League activities solely through association with a Member Franchise and possesses no independent membership rights.
 
+## Membership Status, Standing, Financial Obligations, and Discipline
+### Standing and Membership Status
+
+1. **In Good Standing**
+      1. A Member Franchise shall be considered *in good standing* when it has satisfied all financial obligations, complied with League rules and policies, and is not subject to suspension.
+      1. Only Member Franchises in good standing may exercise membership rights, including voting, participation in postseason play, and eligibility for League awards.
+
+1. **Temporary Suspension**
+      1. A Member Franchise may be placed on temporary suspension by the Commissioner for failure to comply with financial obligations or other League requirements.
+      1. A temporarily suspended Member Franchise shall have its membership rights suspended for the duration of the suspension.
+
+1. **Indefinite Suspension**
+      1. A Member Franchise may be placed on indefinite suspension by the Commissioner for serious or repeated violations of League rules or policies.
+      1. An indefinitely suspended Member Franchise shall forfeit all membership rights until reinstated.
+      1. Grounds for indefinite suspension may include, but are not limited to:
+         1. Conduct detrimental to the objectives of the League;
+         1. Two (2) forfeits of games in a single season;
+         1. Tampering with players on the roster of another Member Franchise;
+         1. Consumption of alcoholic beverages on or in close proximity to playing fields in violation of League or facility rules;
+         1. Violation of policies imposed by permit issuers for League field use;
+         1. Failure to comply with codes of conduct set forth in this document.
+
+1. **Leave of Absence**
+      1. A Member Franchise in good standing may be granted a leave of absence by the Commissioner.
+      1. A Member Franchise on an approved leave of absence shall retain such membership rights as determined by the Commissioner.
+      1. A Member Franchise on leave of absence for more than two (2) years must reapply for membership.
+
+#### Change of Status
+A Member Franchise subject to suspension may be granted a change of status by the Commissioner upon resolution of the conditions giving rise to the suspension. A change of status may include restoration to good standing or modification of the existing suspension, subject to any conditions imposed by the Commissioner or otherwise required by this document.
+
+### Discipline and Enforcement
+The Commissioner shall have authority to impose discipline consistent with this document, including warnings, fines, suspensions, and referrals for further review. Disciplinary actions may apply to Players, Managers, or Member Franchises, as appropriate.
+
+In exercising enforcement authority, the Commissioner may utilize one or more of the following disciplinary measures, as appropriate to the circumstances:
+
+1.	Warnings or formal notices of violation;
+1.	Assessment of fines or fees as otherwise permitted by this document;
+1.	Declaration of forfeits;
+1.	Modification of standing or eligibility status;
+1.	Referral of matters for advisory review or appeal pursuant to this document.
+
 ### Financial Obligations
 1. Each Member Franchise is responsible for payment of all League dues, fees, and fines assessed to it pursuant to the approved League Budget or this document.
 1. Players may be assessed individual fees or fines as permitted by League rules; however, the Member Franchise shall remain ultimately responsible for ensuring such obligations are satisfied.
 1. Failure to satisfy financial obligations in accordance with established deadlines may result in penalties, suspension, or loss of good standing as provided elsewhere in this document.
 
-### Umpires
+### Prohibited Conduct
+
+#### Tampering
+   1. Tampering is defined as the deliberate solicitation, without consent, of a Player who has made at least an oral commitment to another Member Franchise.
+   1. Tampering may result in disciplinary action against the offending Player, Member Franchise, or both.
+
+#### Outside League Participation
+   1. Member Franchises may participate in outside leagues provided such participation does not conflict with League games or playoffs and is permitted by agreement with the League.
+   1. Violations of this provision may result in disciplinary action.
+
+### Appeals
+1. A Member Franchise or Player may appeal a disciplinary or eligibility decision affecting them in accordance with this document. 
+1. Appeals shall be submitted within a timeframe established by the Commissioner.
+1. The Commissioner may review appeals directly or refer them for advisory review as appropriate.
+1. Decisions on appeal shall be final unless otherwise provided by the Constitution and Bylaws.
+1. The Board may exercise oversight with respect to disciplinary or eligibility matters when there is a credible concern regarding fairness, conflict of interest, or material deviation from League rules or procedures. In exercising such oversight, the Board may review the matter directly, direct reconsideration, or appoint an advisory committee. Any determination made by the Board pursuant to this subsection shall be final.
+
+## Umpires
 Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the Bylaws, except where specified.
 
 ## Code of Conduct
