@@ -3,7 +3,8 @@
 ## Subjectivity
 These rules, regulations, articles, and Bylaws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
 
-## Member Franchises (Teams) and Management
+## League Participants and Roles
+### Member Franchises (Teams) and Management
 
 A Member Franchise consists of:
 
@@ -13,24 +14,24 @@ A Member Franchise consists of:
 
 All references to “Teams” within this document shall be deemed synonymous with “Member Franchises.”
 
-### Recognition
+#### Recognition
 1. A Member Franchise shall be recognized by the league upon acceptance by the League and payment of all required fees.
 1. Recognition grants the Member Franchise the right to participate in league activities, subject to compliance with this document.
 1. Membership does not confer ownership rights beyond league participation.
 
-### Team Identity
+#### Team Identity
 1. Each Member Franchise shall operate under a single league-approved team name.
 1. Team names must be unique within the league.
 1. The league reserves the right to reject, revoke, or require modification of any team name for any reason, including but not limited to offensiveness, duplication, or reputational concerns.
 
-###  Admission of New Member Franchises
+####  Admission of New Member Franchises
 The Commissioner shall review applications for new Member Franchises for compliance with Franchise Standards.
 
 1. Upon acceptable review, the Commissioner shall present the proposed Member Franchise to the League membership for consideration.
 1. Proposed Member Franchises may present a positive case for inclusion.
 1. Acceptance shall require a simple majority vote of the Board.
 
-### Manager Designation and Authority
+#### Manager Designation and Authority
 1. Each Member Franchise shall designate one individual as its Manager.
 1. The Manager shall be the **sole authorized representative** of the Member Franchise for all league matters unless otherwise approved by the Commissioner.
 1. The Manager shall be responsible for:
@@ -42,11 +43,11 @@ The Commissioner shall review applications for new Member Franchises for complia
 1. The Member Franchise shall remain responsible for all obligations and penalties regardless of internal team disputes or player actions.
 1. Each Member Franchise may designate an Assistant Manager.
 
-### Manager Changes
+#### Manager Changes
 1. A Member Franchise may change its Manager by providing notice to the Commissioner.
 1. Manager changes shall not relieve the Member Franchise of any existing obligations, penalties, or disciplinary actions.
 
-## Players
+### Players
 A Player is an individual listed on the official roster of a Member Franchise.
 
 Player status is contingent upon:
@@ -70,6 +71,17 @@ The Commissioner shall define the duties, scope, and term of each appointed role
 
 No appointed role shall possess independent authority to interpret rules, impose discipline, levy fees or fines, or bind the League, unless such authority is expressly granted by this document or by vote of the League.
 
+### Committees
+The League may establish committees as necessary to assist in the administration, governance, or operation of League activities. Committees are advisory bodies and shall have only the authority expressly granted to them by this document or the Board. Committee members shall be appointed by the Commissioner, subject to Board oversight, unless otherwise specified. The Commissioner may appoint alternate committee members when a committee member is unavailable or has a conflict of interest. Committees may be convened at the discretion of the Commissioner.
+
+ Committees may be formed for specific purposes, including but not limited to:
+
+1. Advising on disciplinary matters and appeals;
+1. Reviewing or proposing additions or amendments to playing rules;
+1. Assisting with competition structure or game administration.
+
+The Committee shall issue findings and recommendations to the Commissioner or Board, as applicable. The Committee shall have no independent authority to impose discipline, overturn decisions, or bind the League unless expressly authorized elsewhere in this document.
+
 ## Budget
 The Commissioner shall prepare a proposed budget for each fiscal year.
 
@@ -81,19 +93,7 @@ The proposed budget shall include, at a minimum:
 
 The proposed budget shall be presented to the Board for review and approval. Upon approval by the Board, the budget shall constitute the official League Budget for the applicable fiscal year. The approved League Budget shall be shared with all Member Franchises on an annual basis for informational purposes.
 
-### Rules and Competition Committee
-A Rules and Competition Committee may be established to assist in the review of protests, disciplinary matters, and appeals. The Committee shall consist of the Commissioner and two (2) appointed representatives of Member Franchises.
 
-1. The Commissioner shall appoint an alternate representative when a Committee member is unavailable or has a conflict of interest, including when a matter involves the Committee member, their Member Franchise, or a rostered player thereof.
-1. The Committee may be convened at the discretion of the Commissioner.
-
-The Committee’s responsibilities may include:
-
-1. Reviewing official protests;
-1. Reviewing disciplinary matters referred pursuant to this document;
-1. Reviewing appeals of decisions made by the Commissioner or other League authority.
-
-The Committee shall issue findings and recommendations to the Commissioner or Board, as applicable. The Committee shall have no independent authority to impose discipline, overturn decisions, or bind the League unless expressly authorized elsewhere in this document.
 
 ### Umpires
 Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the Bylaws, except where specified.
