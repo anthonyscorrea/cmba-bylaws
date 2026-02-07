@@ -13,6 +13,7 @@ permissions:
 env:
   MKDOCS_CONFIG: mkdocs/mkdocs.yml
   MKDOCS_STRICT: ${{ vars.MKDOCS_STRICT || 'true' }}
+  SKIP_DOCX: f${{ vars.SKIP_DOCX || 'false' }}e
 
 jobs:
   publish:
@@ -34,6 +35,14 @@ jobs:
           set -euo pipefail
           pip install -r mkdocs/requirements.txt
 
+          # Install pandoc if not present
+          if [ "${SKIP_DOCX}" != "true" ]; then
+            if ! command -v pandoc >/dev/null 2>&1; then
+              sudo apt-get update
+              sudo apt-get install -y pandoc
+            fi
+          fi
+
       - name: Build docs (normal + offline, strict gate)
         run: |
           set -euo pipefail
@@ -52,6 +61,37 @@ jobs:
 
           mkdocs build "${FLAGS[@]}" -f "${MKDOCS_CONFIG}" -d "${SITE}"
           OFFLINE=true mkdocs build "${FLAGS[@]}" -f "${MKDOCS_CONFIG}" -d "${SITE_OFFLINE}"
+      
+      - name: Export docx
+        if: env.SKIP_DOCX != 'true'
+        run: |
+          set -euo pipefail
+
+          SHORT_SHA="${GITHUB_SHA::7}"
+
+          OUT_DIR="${RUNNER_TEMP}/pandoc"
+          OUT_FILE="${GITHUB_REF_NAME}-${SHORT_SHA}.docx"
+          echo "SHORT_SHA=`echo ${SHORT_SHA}`" >> $GITHUB_ENV
+
+          mkdir -p "${OUT_DIR}"
+
+          # Collect markdown files, excluding README.md and docs/index.md
+          mapfile -t MD_FILES < <(
+            find docs -name '*.md' \
+              ! -name 'index.md' \
+              ! -name 'README.md' \
+              | sort
+          )
+
+          echo "Generating ${OUT_FILE}"
+
+          # Adjust input paths as needed
+          pandoc \
+            "${MD_FILES[@]}" \
+            --number-sections  \
+            -o "${OUT_DIR}/${OUT_FILE}"
+          
+          echo "Pandoc output written to ${OUT_DIR}/${OUT_FILE}"
 
       - name: Zip offline site
         run: |
@@ -70,6 +110,7 @@ jobs:
             Release candidate preview.
           files: |
             ${{ runner.temp }}/mkdocs_out/site_offline/${{ github.ref_name }}.zip
+            ${{ runner.temp }}/pandoc/${{ github.ref_name }}-${{ env.SHORT_SHA }}.docx
 
       - name: Publish release
         if: startsWith(github.ref_name, 'v')
