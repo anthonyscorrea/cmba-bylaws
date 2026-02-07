@@ -71,20 +71,29 @@ The Commissioner shall define the duties, scope, and term of each appointed role
 No appointed role shall possess independent authority to interpret rules, impose discipline, levy fees or fines, or bind the League, unless such authority is expressly granted by this document or by vote of the League.
 
 ## Budget
-A budget for the next fiscal year shall be prepared by the Commissioner for presentation and approval of the Board. The budget shall consists the annual Member dues, other income, and expected expenditures for the operating year. The board shall present the approved budget for information to league Members.
+The Commissioner shall prepare a proposed budget for each fiscal year.
 
-### Rules and Competition Committee Meetings
-The Rules and Competition Committee shall meet at the discretion of the Commissioner. These meetings must be held in person, except in extenuating circumstances by agreement between the Commissioner and the Committee.
+The proposed budget shall include, at a minimum:
+
+1. Annual Member Franchise dues and payment schedule;
+1. Other anticipated sources of income;
+1. Expected expenditures for the operating year.
+
+The proposed budget shall be presented to the Board for review and approval. Upon approval by the Board, the budget shall constitute the official League Budget for the applicable fiscal year. The approved League Budget shall be shared with all Member Franchises on an annual basis for informational purposes.
 
 ### Rules and Competition Committee
-The Rules and Competition Committee, to be made up of the Commissioner and two (2) appointed franchise holders. An alternate member shall be appointed by the Commissioner if a committee member is unavailable or conflicted (i.e. the matter under consideration involves a player of the committee member’s team or the committee member), shall meet and take action concerning:
+A Rules and Competition Committee may be established to assist in the review of protests, disciplinary matters, and appeals. The Committee shall consist of the Commissioner and two (2) appointed representatives of Member Franchises.
 
-1. Official protests
-1. Disciplinary matters referred to the committee pursuant to [Standings And Postseason](#standings-and-postseason)
-1. Any decision of the Commissioner that has been officially appealed.
+1. The Commissioner shall appoint an alternate representative when a Committee member is unavailable or has a conflict of interest, including when a matter involves the Committee member, their Member Franchise, or a rostered player thereof.
+1. The Committee may be convened at the discretion of the Commissioner.
 
-### Additional roles supporting the league.
-Webmaster, Umpire Assigner
+The Committee’s responsibilities may include:
+
+1. Reviewing official protests;
+1. Reviewing disciplinary matters referred pursuant to this document;
+1. Reviewing appeals of decisions made by the Commissioner or other League authority.
+
+The Committee shall issue findings and recommendations to the Commissioner or Board, as applicable. The Committee shall have no independent authority to impose discipline, overturn decisions, or bind the League unless expressly authorized elsewhere in this document.
 
 ### Umpires
 Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the Bylaws, except where specified.
