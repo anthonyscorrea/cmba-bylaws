@@ -9,8 +9,9 @@ The Commissioner is responsible for the day-to-day administration of League oper
 ### Operational Rights of Member Franchises
 1. Member Franchises in good standing shall have the right to participate in League governance on matters of League operation as provided herein.
 1. Member Franchises shall have the right to appeal disciplinary or eligibility decisions affecting them in accordance with procedures set forth in this document.
-1. Member Franchises may provide input and vote in an advisory capacity on matters of League policy, administration, and operation.
-1. Member Franchises may vote with binding effect on playing rules, competition rules, and on-field regulations, except where authority is otherwise reserved by this document or the Constitution and Bylaws.
+1. Member Franchises may provide input and vote in an advisory capacity on matters of League policy, administration, and operation. 
+1. Member Franchises may vote with binding effect on playing rules, competition rules, and on-field regulations, except where authority is otherwise reserved by this document or the Constitution and Bylaws. Each Member Franchise is entitled to one vote.
+1. Each Member Franchise is entitled to one vote in voting matters.
 1. Exercise of these rights is contingent upon the Member Franchise being in good standing.
 
 ### Budget
@@ -48,6 +49,24 @@ The League may establish committees as necessary to assist in the administration
 1. Assisting with competition structure or game administration.
 
 The Committee shall issue findings and recommendations to the Commissioner or Board, as applicable. The Committee shall have no independent authority to impose discipline, overturn decisions, or bind the League unless expressly authorized elsewhere in this document.
+
+## Amendments and Rule Changes
+
+### Constitution and Bylaws
+Amendments to the Constitution and Bylaws are governed exclusively by the procedures set forth therein. Nothing in this Rules and Policy document shall modify or supersede those requirements.
+
+### Rules and Policy Amendments
+1. This Rules and Policy document may be amended to address League operations, administration, discipline, or procedures.
+1. Amendments may be proposed by the Commissioner or the Board.
+1. Adoption of a Rules and Policy amendment shall require approval by the Board.
+1. Member Franchises may be afforded an opportunity to provide advisory vote on proposed amendments.
+1. Approved amendments shall take effect as specified at the time of adoption.
+
+### Playing Rules Amendments
+1. Playing rules governing on-field competition may be amended separately from this Rules and Policy document.
+1. Playing rules amendments shall be adopted by a vote of Member Franchises in good standing.
+1. Unless otherwise specified, a simple majority vote shall be sufficient to adopt a playing rules amendment.
+1. Playing rules amendments shall not apply retroactively and shall take effect at the start of a season.
 
 ## League Participants
 
@@ -103,7 +122,7 @@ Player status is contingent upon:
 
 A Player participates in League activities solely through association with a Member Franchise and possesses no independent membership rights.
 
-## Membership Status, Standing, Financial Obligations, and Discipline
+## Membership Standing, Obligations, and Discipline
 ### Standing and Membership Status
 
 1. **In Good Standing**
@@ -144,6 +163,9 @@ In exercising enforcement authority, the Commissioner may utilize one or more of
 1.	Modification of standing or eligibility status;
 1.	Referral of matters for advisory review or appeal pursuant to this document.
 
+### Meetings
+All franchise members are expected to attend all league meetings. Failure of a franchise to send a representative to a meeting may result in a  fine. Those members present at any meeting shall constitute a quorum.
+
 ### Financial Obligations
 1. Each Member Franchise is responsible for payment of all League dues, fees, and fines assessed to it pursuant to the approved League Budget or this document.
 1. Players may be assessed individual fees or fines as permitted by League rules; however, the Member Franchise shall remain ultimately responsible for ensuring such obligations are satisfied.
@@ -175,44 +197,13 @@ The Commissioner may levy fines to any League Member franchise or player subject
 1. Decisions on appeal shall be final unless otherwise provided by the Constitution and Bylaws.
 1. The Board may exercise oversight with respect to disciplinary or eligibility matters when there is a credible concern regarding fairness, conflict of interest, or material deviation from League rules or procedures. In exercising such oversight, the Board may review the matter directly, direct reconsideration, or appoint an advisory committee. Any determination made by the Board pursuant to this subsection shall be final.
 
-## Umpires
-Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the Bylaws, except where specified.
+## Equipment
 
-## Code of Conduct
-### Ethics
-All League members, including officers, Managers, umpires, and players shall strive to be ethical, honorable, and truthful in all dealings concerning the League thereby promoting the League as a first class league of impeccable integrity.
+1. Baseballs: Only Major League regulation balls will be allowed for game play. Accepted brands and ball types include, but are not limited to, the Rawlings RO series, Wilson A1000 series, and Diamond D-1 series. The home team must supply two (2) and the visitors one (1) ball at the start of each game. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls shall forfeit the game.
+1. Bats: All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject to the Major League rules that govern this area.
+1. Bases, home plate, and pitching rubber:  All teams are expected to have a set of bases, a home plate, and a pitching rubber. These items shall conform to Major League Baseball specifications. Items conforming to 2022 specifications shall also be considered legal.
 
-### Sportsmanship
-All League members, including officers, Managers, umpires, and players are expected to behave in a sportsmanlike manner, promoting fair competitive play in a respectful atmosphere.
-
-## Definition; Amendments
-These Bylaws shall stand as the official rules of the League.
-All League members shall abide by and are subject to, without exception, all rules and regulations as outlined in the Constitution and Bylaws as well as the authority of the League Commissioner, in accordance with [Subjectivity](#subjectivity)
-
-### Amending the Bylaws
-Bylaws may be amended, removed, or added by an affirmative vote of two-thirds of the League members present at the time of the vote.
-
-## Meetings and Voting
-Per [Annual Meeting](#annual-meeting), the League shall hold an annual meeting. In addition, per 4.2, the Commissioner may call additional meetings.
-
-### Voting Privileges
-Each franchise with voting privileges as specified in [Classification; Standing](#classification-standing) shall have one (1) vote at league meetings, regardless of the number of representatives the franchise has sent to the meeting.
-
-### Commissioner’s Role
-The Commissioner shall chair the meeting. If the Commissioner is also a franchise holder, he must designate another person from his franchise to represent the team at league meetings. The Commissioner can only vote in the event of a tie vote among the members present at the meeting.
-
-### Voting Decisions
-A 2/3 vote is necessary to:
-
-   1. Amend the Constitution, per [Amending the Constitution](#amending-the-constitution)
-   1. Amend the Bylaws, per [Amending The By Laws](#amending-the-Bylaws)
-   1. Remove an Officer.
-   1. Expel a team or player for violations of rules set forth in the Constitution or Bylaws.
-
-Any decision not listed above shall be decided by simple majority vote.
-
-### Attendance
-All franchise members are expected to attend all league meetings. Failure of a franchise to send a representative to a meeting may result in a ten dollar ($10.00) fine. Those members present at any meeting shall constitute a quorum and all votes by this quorum are binding.
+The home team shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. Should the home team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team can lend the equipment, although they are not required to do so.
 
 ### Uniform
 All players must be in uniform (bearing the team’s name as represented to the league) by the team’s first regular season game in order to be eligible to participate in games. Players may not obtain the jersey of another team member in order to obtain eligibility.
@@ -223,6 +214,9 @@ All players must be in uniform (bearing the team’s name as represented to the 
 1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the League encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
 
 ## Team Rosters; Players and Eligibility
+
+### Umpires
+Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the Bylaws, except where specified.
 
 ### Roster Deadline; Roster Size
 Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the Commissioner no later than June 1 of each year. Any team that does not submit its roster to the Commissioner by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-Managers).  
@@ -235,7 +229,9 @@ A team’s rosters as submitted to the Commissioner on or before June 1 shall co
 Teams may add a total of five (5) players to the roster after the June 1 roster submission deadline. The total number of players on a team still may not exceed twenty-six (26). In order to add players between June 1 and July 1 but not exceed the 26 player limit, a team may drop players who were rostered on June 1.  No players may be added after July 1, except as set forth below.
 After July 1, upon request to the Rules and Competition Committee, a team may add a player if (i) the team’s roster has fallen (or, upon the removal of players “missing in action” as described below, will fall) below the 16 player minimum and (ii) doing so will, in the good faith determination of the Rules and Competition Committee, prevent the team from forfeiting games. 
 In order for a team to declare a player “missing in action” after July 1, (i) the player shall have (a) failed to appear at all of the team’s games occurring prior to such request or (b) suffered a season-ending injury after June 1 and (ii) the team must drop the player from its roster.
+
 A team may drop players at any time as long as the team’s roster does not fall below the 16 player minimum.
+
 Any and all roster changes shall be submitted to the Commissioner and satisfy the information requirements in [Roster Information Requirements](#roster-information-requirements).  Roster changes shall be effective as of the first pitch of the team’s first regularly scheduled game after the updated roster is submitted.
 
 ### Alumni
@@ -315,6 +311,13 @@ For the playoffs, each team will be granted the ability to exclude one (1) parti
 
 ### Completion of Playoff Games
 All playoff games must be played to completion. If a playoff game is suspended for any reason, the game must be finished at a later date declared by the Commissioner. This game is declared suspended, and regardless of what inning or circumstance, the game will be continued from the point in the game when it was suspended. The “Slaughter Rule” is applicable for the playoffs (see [Regulation Games](#regulation-games)).
+
+## Code of Conduct
+### Ethics
+All League members, including officers, Managers, umpires, and players shall strive to be ethical, honorable, and truthful in all dealings concerning the League thereby promoting the League as a first class league of impeccable integrity.
+
+### Sportsmanship
+All League members, including officers, Managers, umpires, and players are expected to behave in a sportsmanlike manner, promoting fair competitive play in a respectful atmosphere.
 
 ## Sportsmanship and Prohibited Conduct
 All League members are expected to engage in a sportsmanlike and mutually respectful behavior. Any Manager or the chief umpire may request that the rules and competition committee review the specific actions of another player, coach, Manager or team. The rules and competition committee shall review, and in its discretion, determine the appropriate disciplinary action to be taken, if any. Disciplinary actions include a written warning, fines, temporary suspension, and banishment from the League. The committee should take under consideration repeat offenses. The Commissioner shall enforce any discipline determined by the committee.

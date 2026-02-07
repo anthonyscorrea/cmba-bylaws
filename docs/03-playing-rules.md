@@ -50,7 +50,7 @@ An umpire, in their discretion, may declare a game called if
 The starting time for all weeknight games shall be 5:50 p.m. for fields without lights. Starting times for games played at lighted fields and on the weekends shall be determined by the League and may legally begin after 6:30PM. Forfeit time shall be 20 minutes after the scheduled starting time.
 
 ## Player Uniforms
-All players must be in proper uniform in order to be eligible to participate in games, as specified in [Uniform](#uniform).
+All players must be in proper uniform in order to be eligible to participate in games, as specified in League policy.
 
 ## Minimum Number of Players
 Teams must start the game at the scheduled starting time if they have at least eight (8) players present. A team may not wait until forfeit time for players to arrive, the game must begin as soon as a team has 8 players present. If a ninth player does not arrive or arrives after forfeit time, the team shall be in technical forfeit, as defined in [Forfeits](#forfeits).
@@ -67,14 +67,6 @@ A team may finish the game a player short, that is one (1) player less than they
 Should a player suffer a debilitating injury during the game and cannot continue, and a team has no more eligible players on its bench, a team can use a player that was removed from the game to replace him. This replacement player must be the first player removed from the game, and if this player is unavailable the next player is used (and so on). If no reserve is present, the vacated spot in the lineup is skipped and all batters move up accordingly, with no penalty to the affected team.
 
 1. If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, a protest by the opposing team may retroactively be ruled as a forfeit.
-
-## Equipment
-
-1. Baseballs: Only Major League regulation balls will be allowed for game play. Accepted brands and ball types include, but are not limited to, the Rawlings RO series, Wilson A1000 series, and Diamond D-1 series. The home team must supply two (2) and the visitors one (1) ball at the start of each game. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls shall forfeit the game.
-1. Bats: All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject to the Major League rules that govern this area.
-1. Bases, home plate, and pitching rubber:  All teams are expected to have a set of bases, a home plate, and a pitching rubber. These items shall conform to Major League Baseball specifications. Items conforming to 2022 specifications shall also be considered legal.
-
-The home team shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. Should the home team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team can lend the equipment, although they are not required to do so.
 
 ## Field Maintenance
 All teams are responsible for the maintenance and cleanup of the field and dugout areas after a game. Both teams must fill in all infield, batter’s box, and pitching mound holes. Additionally, both teams must have adequate equipment on hand for field maintenance. Teams who repeatedly fail to do proper post-game maintenance shall be fined.
