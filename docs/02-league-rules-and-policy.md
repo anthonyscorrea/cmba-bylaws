@@ -3,6 +3,73 @@
 ## Subjectivity
 These rules, regulations, articles, and Bylaws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
 
+## Member Franchises (Teams) and Management
+
+A Member Franchise consists of:
+
+1. A league-approved team identity;
+1. A designated Manager authorized to act on its behalf;
+1. A roster of eligible and capable players;
+
+All references to “Teams” within this document shall be deemed synonymous with “Member Franchises.”
+
+### Recognition
+1. A Member Franchise shall be recognized by the league upon acceptance by the League and payment of all required fees.
+1. Recognition grants the Member Franchise the right to participate in league activities, subject to compliance with this document.
+1. Membership does not confer ownership rights beyond league participation.
+
+### Team Identity
+1. Each Member Franchise shall operate under a single league-approved team name.
+1. Team names must be unique within the league.
+1. The league reserves the right to reject, revoke, or require modification of any team name for any reason, including but not limited to offensiveness, duplication, or reputational concerns.
+
+###  Admission of New Member Franchises
+The Commissioner shall review applications for new Member Franchises for compliance with Franchise Standards.
+
+1. Upon acceptable review, the Commissioner shall present the proposed Member Franchise to the League membership for consideration.
+1. Proposed Member Franchises may present a positive case for inclusion.
+1. Acceptance shall require a simple majority vote of the Board.
+
+### Manager Designation and Authority
+1. Each Member Franchise shall designate one individual as its Manager.
+1. The Manager shall be the **sole authorized representative** of the Member Franchise for all league matters unless otherwise approved by the Commissioner.
+1. The Manager shall be responsible for:
+   1. Communication with the league;
+   1. Submission of rosters and player information;
+   1. Payment or coordination of all required fees;
+   1. Ensuring compliance with league rules by players and associated individuals.
+1. All actions taken by the Manager shall be deemed actions of the Member Franchise.
+1. The Member Franchise shall remain responsible for all obligations and penalties regardless of internal team disputes or player actions.
+1. Each Member Franchise may designate an Assistant Manager.
+
+### Manager Changes
+1. A Member Franchise may change its Manager by providing notice to the Commissioner.
+1. Manager changes shall not relieve the Member Franchise of any existing obligations, penalties, or disciplinary actions.
+
+## Players
+A Player is an individual listed on the official roster of a Member Franchise.
+
+Player status is contingent upon:
+
+1. Compliance with roster and eligibility requirements;
+1. Payment of any applicable fees to their Manager or the League;
+1. Adherence to all League rules, policies, and codes of conduct.
+
+A Player participates in League activities solely through association with a Member Franchise and possesses no independent membership rights.
+
+### Appointed League Roles
+The Commissioner may appoint individuals to operational roles as necessary to support League administration, subject to Board oversight.
+
+Appointed roles may include, but are not limited to, the following:
+   1. Umpire Assigner;
+   1. Webmaster;
+   1. Social Media or Communications Coordinator;
+   1. Other roles deemed necessary by the Commissioner.
+
+The Commissioner shall define the duties, scope, and term of each appointed role.
+
+No appointed role shall possess independent authority to interpret rules, impose discipline, levy fees or fines, or bind the League, unless such authority is expressly granted by this document or by vote of the League.
+
 ## Budget
 A budget for the next fiscal year shall be prepared by the Commissioner for presentation and approval of the Board. The budget shall consists the annual Member dues, other income, and expected expenditures for the operating year. The board shall present the approved budget for information to league Members.
 
@@ -37,21 +104,6 @@ All League members shall abide by and are subject to, without exception, all rul
 Bylaws may be amended, removed, or added by an affirmative vote of two-thirds of the League members present at the time of the vote.
 
 ## Membership
-
-### Standards
-The following standards shall apply for consideration for membership by franchises in the League.
-
-1. Quality of leadership within the franchise.
-1. Good record of past performance in the following:
-   1. Forfeits and punctuality at League games.
-   1. Attitude and conduct of players and management.
-   1. Financial responsibility.
-   1. Ability of its players.
-
-### New franchises
-The League Commissioner shall present, upon acceptable review of its qualifications, a new franchise to the members at large for consideration. New franchises are allowed to present a positive case for inclusion.
-
-1. Acceptance shall be affirmed with a simple majority vote of members in attendance.
 
 ### Annual Membership Dues
 All League members shall pay annual membership dues, as determined by League [budget](#budget). All League members must have all membership dues paid by a schedule set by the Commissioner and approved by the Board.
@@ -122,14 +174,6 @@ Any decision not listed above shall be decided by simple majority vote.
 ### Attendance
 All franchise members are expected to attend all league meetings. Failure of a franchise to send a representative to a meeting may result in a ten dollar ($10.00) fine. Those members present at any meeting shall constitute a quorum and all votes by this quorum are binding.
 
-## Teams and Managers
-
-### Recognition
-Teams shall be formally recognized as existing as an entity from April 1 through August 31 of the current season. These dates shall serve as time periods as they pertain to all rules regarding rosters and team management.
-
-### Team Name
-Teams new to the League, regardless of the makeup of the roster, shall not be allowed to use the name of any existing League team. Teams from other recognized leagues or leagues entering the League shall be allowed to use any team name provided it was the recognized existing name of the team prior to its membership in the League. Changes in team names shall not affect a team’s status in the League in any way provided the original recognized Manager is the entrant of the team.
-
 ### Uniform
 All players must be in uniform (bearing the team’s name as represented to the league) by the team’s first regular season game in order to be eligible to participate in games. Players may not obtain the jersey of another team member in order to obtain eligibility.
 
@@ -137,20 +181,6 @@ All players must be in uniform (bearing the team’s name as represented to the 
 1. This rule applies to any players legally added to the roster after the stated deadline.
 1. Uniforms shall consist of, but are not limited to, matching team caps and jerseys with assigned team uniform numbers. 
 1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the League encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
-
-### Manager
-The Manager is that person who has been officially recognized as the entrant of a team into the League. The Manager has the ultimate responsibility for the team’s compliance with all Bylaws as set forth in this Constitution. The Manager of a franchise is responsible for all actions of his players and coaches and may be fined up to fifty dollars ($50.00) for any violations of codes of conduct and league rules as set forth in this document, or any other actions deemed detrimental to the objectives and standards of the League.
-
-1. Severe violations of league rules and codes of conduct may result in the suspension of the offending player or Manager for the balance of the season or possible permanent banishment from the league, if so ruled by the Commissioner.
-
-### Manager Changes
-Management of the team may officially change from one person to another during the dates that team is formally recognized as an entity as specified in [Recognition](#recognition) only with the written consent of the outgoing Manager, or rostered members of the team can show that the Manager has not been faithfully and/or competently fulfilling his requirements as outlined in this Constitution.
-
-1. Management changes under this Section may only take place pending the outcome of a hearing, which shall take place at the earliest possible date between the League Commissioner, the Manager in question, and the parties seeking a change in management.
-1. The Commissioner may ask other Managers to attend this hearing to serve in an advisory role.
-1. Failure to appear at this hearing by either party involved shall automatically result in an outcome favorable to the party in attendance.
-1. Teams with management conflicts of this nature may not play league games until the completion of this hearing and resolution of the conflict.
-Management changes outside of the dates that a team is formally recognized as an entity as specified in [Recognition](#recognition) are beyond the control of the League and Commissioner and are not subject to any formal mechanisms of change as outlined in this Constitution. Resolution of any outstanding conflicts associated with such management changes are the sole responsibility of the parties involved.
 
 ## Team Rosters; Players and Eligibility
 
