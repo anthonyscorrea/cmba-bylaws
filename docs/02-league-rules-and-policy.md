@@ -31,6 +31,7 @@ The Commissioner may appoint individuals to operational roles as necessary to su
 Appointed roles may include, but are not limited to, the following:
 
 1. Umpire Assigner;
+1. Scheduler;
 1. Webmaster;
 1. Social Media or Communications Coordinator;
 1. Other roles deemed necessary by the Commissioner.
