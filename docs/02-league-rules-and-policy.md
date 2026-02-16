@@ -209,7 +209,7 @@ The home team shall be responsible for accurately setting up the bases, and if n
 ### Uniform
 All players must be in uniform (bearing the team’s name as represented to the league) by the team’s first regular season game in order to be eligible to participate in games. Players may not obtain the jersey of another team member in order to obtain eligibility.
 
-1. This deadline may be extended by the Commissioner at his discretion following a written petition by the team that shows a just and reasonable cause for extension, and evidence of a good faith effort to meet the deadline.
+1. At the Commissioner's discretion, this deadline may be extended  following a written petition by the team that shows a reasonable cause for extension, and evidence of a good faith effort to meet the deadline.
 1. This rule applies to any players legally added to the roster after the stated deadline.
 1. Uniforms shall consist of, but are not limited to, matching team caps and jerseys with assigned team uniform numbers. 
 1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the League encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
@@ -236,7 +236,7 @@ A team may drop players at any time as long as the team’s roster does not fall
 Any and all roster changes shall be submitted to the Commissioner and satisfy the information requirements in [Roster Information Requirements](#roster-information-requirements).  Roster changes shall be effective as of the first pitch of the team’s first regularly scheduled game after the updated roster is submitted.
 
 ### Alumni
-If a team would otherwise be required to forfeit or technically forfeit a game after June 1 due to a lack of eligible players in attendance, the team can use one (but not more than one) of its former players (“alumni”) in that game. The team’s Manager shall inform the opposing team’s Manager and the Commissioner as soon as possible (and in no event later than the first pitch) of his team’s use of an alumni player and will provide to the opposing team’s Manager and the Commissioner with the alumni player’s name, age, bats/throws, position and uniform number. Alumni players are not eligible to play in the playoffs.
+If a team would otherwise be required to forfeit or technically forfeit a game after June 1 due to a lack of eligible players in attendance, the team can use one (but not more than one) of its former players (“alumni”) in that game. The team’s Manager shall inform the opposing team’s Manager and the Commissioner as soon as possible (and in no event later than the first pitch) the intention to use an alumni player and will provide to the opposing team’s Manager and the Commissioner with the alumni player’s name, age, bats/throws, position and uniform number. Alumni players are not eligible to play in the playoffs.
 
 ### Eligible Players
 Eligible players must be of at least eighteen (18) years of age by the date of the teams first +game. No player may play for more than one team in a season (either before or after June 1).
@@ -249,7 +249,7 @@ Players must appear in at least five (5) games during the regular season in orde
 All players in the League are expected to pay their team fees. Players will not be allowed to switch teams within the League unless or until any and all debts are paid in full.
 
 ### Free Agents
-A player must inform the League Commissioner and his Manager no later than February 15 of the upcoming season if he wishes to leave his team and become a free agent. After this he is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
+A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season if of an intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
 
 ## Protest and Forfeits
 
@@ -330,7 +330,7 @@ Fighting or any physical altercation shall not be tolerated in the League. Playe
 1. Any player or coach who participates in a fight shall be suspended for three games and fined $50.00.
 
 ### Assault of an Umpire
-Any player or coach who physically assaults an umpire will be permanently banished from the league. He may also be arrested if the umpire chooses to press charges.
+Any player or coach who physically assaults an umpire will be permanently banished from the league. Actions shall be reported to law enforcement as required.
 
 ### Substances
 

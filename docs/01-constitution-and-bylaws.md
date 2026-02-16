@@ -32,7 +32,7 @@ Except as otherwise expressly herein provided or as otherwise provided by law, t
 The League's Board of Directors shall be composed of at least three (3) Directors ("Director") or such other greater number of Directors established by the Board of Directors from time to time. An individual need not be a manager of a Member Franchise in order to be a Director.
 
 ### Election and Term of Office
-Directors shall be elected at the annual meeting of the League. The term of office of each Director shall be until the next annual meeting. Directors shall hold office until the expiration of the term for which he or she is elected and until his or her successor has been elected or until his or her death, resignation, or removal. Directors may serve successive terms.
+Directors shall be elected at the annual meeting of the League. The term of office of each Director shall be until the next annual meeting. Directors shall hold office until the expiration of the term for which such Director is elected and until such Director's successor has been elected or until the Director's death, resignation, or removal. Directors may serve successive terms.
 
 ### Resignation and Removal
 Any Director may resign by written notice delivered to the Board of Directors or to the Commissioner or Secretary of the League. Any Director may be removed, with or without cause, by the affirmative vote of a majority of the Directors then in office. Any vacancy may be filled by the Board of Directors.

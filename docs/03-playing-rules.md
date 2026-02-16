@@ -90,7 +90,7 @@ The League shall elect to use a designated runner rule, similar to the designate
 Prior to the start of the game a team may choose to play an extra hitter (EH). If the team uses this option, the following conditions apply:
 
 1. An EH shall only bat. They cannot take a position in the field as a tenth fielder.
-1. The EH shall be treated like any other position in the field. He can be substituted for, switch positions, or anything else that a position player can do.
+1. The EH shall be treated like any other position in the field, and can be substituted for, switch positions, or anything else that a position player can do.
 1. There is no limit to the number of extra hitters a team may elect to use, provided the names and numbers of these players are included in the lineup exchanged before the game.
 
 ## Courtesy Runner
@@ -142,5 +142,5 @@ NO COLLISIONS ARE ALLOWED, UNLESS THE CONTACT RESULTS FROM A SLIDE. It is the ba
 Unless the umpire rules that the contact was incidental or the result of Obstruction by the fielder, the runner shall be called out, the ball declared dead and the runner automatically ejected from the game. Per [Flagrant Collisions](#flagrant-collisions). if the collision is determined by the umpire to be flagrant the player may be subject to the further penalty as defined in that section.
 
 ## Umpire Disputes
-Discussion of a disputed umpires call shall be limited to the Managers, base coaches and the “aggrieved  player. No player or other coach (third party) shall be allowed to leave the dugout or his defensive position to join in. The penalty for violating this rule shall be the immediate ejection from the game.
+Discussion of a disputed umpires call shall be limited to the Managers, base coaches and the “aggrieved  player. No player or other coach (third party) shall be allowed to leave the dugout or their defensive position to join in. The penalty for violating this rule shall be the immediate ejection from the game.
 
