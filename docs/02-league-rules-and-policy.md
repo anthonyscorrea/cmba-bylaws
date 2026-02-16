@@ -36,7 +36,7 @@ Appointed roles may include, but are not limited to, the following:
 1. Social Media or Communications Coordinator;
 1. Other roles deemed necessary by the Commissioner.
 
-The Commissioner shall define the duties, scope, and term of each appointed role.
+The Commissioner shall define the duties, scope, and term of each appointed role. Any compensation for a role shall require Board approval and shall be included as part of the Board-approved budget.
 
 No appointed role shall possess independent authority to interpret rules, impose discipline, levy fees or fines, or bind the League, unless such authority is expressly granted by this document or the Board.
 
