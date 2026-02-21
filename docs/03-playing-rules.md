@@ -46,33 +46,22 @@ An umpire, in their discretion, may declare a game called if
 1. Local laws or field rules (e.g. lightning detector) prevent continuation of the game.
 1. Other circumstances prevent further safe play. The Rules and Competition Committee may rule on any forfeit or loss of points as applicable.
 
-## Game Time
-The starting time for all weeknight games shall be 5:50 p.m. for fields without lights. Starting times for games played at lighted fields and on the weekends shall be determined by the League and may legally begin after 6:30PM. Forfeit time shall be 20 minutes after the scheduled starting time.
-
-## Player Uniforms
-All players must be in proper uniform in order to be eligible to participate in games, as specified in League policy.
+## Game Equipment and Uniforms
+Games shall be played with legal baseball equipment and player uniforms as required by League Rules and Policy.
 
 ## Minimum Number of Players
-Teams must start the game at the scheduled starting time if they have at least eight (8) players present. A team may not wait until forfeit time for players to arrive, the game must begin as soon as a team has 8 players present. If a ninth player does not arrive or arrives after forfeit time, the team shall be in technical forfeit, as defined in [Forfeits](#forfeits).
+Teams must start the game at the scheduled starting time if they have a minimum of (8) players present. League policy may designate a forfeit time after which a team with less than the minimum is subject to forfeit. A team may not wait until this forfeit time for players to arrive. The game must begin as soon as a team reaches this minimum.
 
 1. In the event a team starts a game with eight (8) players, the ninth spot in the batting order shall be considered an out recorded to the pitcher. A team may insert a ninth player in the vacant ninth spot after the start of play.
-1. A team may begin a game with eight (8) players up to two (2) times in one season. A team that fails to field nine (9) players at the start of the game after receiving 2 (two) prior technical forfeits shall forfeit all subsequent games.
-1. A team in technical forfeit shall remain in technical forfeit, regardless of the number of players with which it finished the game.
-A team may finish the game a player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) man line-up, nine (9) players for a ten (10) man), provided the team does not fall below this minimum.
-
 1. The vacated spot in the batting order shall be considered an automatic out.
 1. Should a team fall below the minimum, the game is terminated and the team loses by forfeit.
+
+A team may finish the game a player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) man line-up, nine (9) players for a ten (10) man), provided the team does not fall below this minimum.
 
 ## Player Injuries
 Should a player suffer a debilitating injury during the game and cannot continue, and a team has no more eligible players on its bench, a team can use a player that was removed from the game to replace him. This replacement player must be the first player removed from the game, and if this player is unavailable the next player is used (and so on). If no reserve is present, the vacated spot in the lineup is skipped and all batters move up accordingly, with no penalty to the affected team.
 
 1. If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, a protest by the opposing team may retroactively be ruled as a forfeit.
-
-## Field Maintenance
-All teams are responsible for the maintenance and cleanup of the field and dugout areas after a game. Both teams must fill in all infield, batter’s box, and pitching mound holes. Additionally, both teams must have adequate equipment on hand for field maintenance. Teams who repeatedly fail to do proper post-game maintenance shall be fined.
-
-## Payment of Umpires
-Umpires are to be paid on the field promptly upon request.
 
 ## Designated Hitter
 The League shall follow the Major League designated hitter rule at all times, with the exception that a team may designate a D.H. for any position on the field.
@@ -117,25 +106,6 @@ In regular season play, the defensive line-up is independent of the batting line
 1. Any player may be freely substituted in the defensive line-up at any time, without affecting the players’ in the batting line-up. Players may enter, exit, and re-enter the game in the defensive line-up without limitation.
 
 In postseason play, the free defensive substitution rule defined above shall not be applicable and substitutions shall be made in accordance to applicable League and MLB rules.
-
-## Field Status
-The home team shall be responsible for checking the status of the field in the event of rain. The home team must report the status of the field to the Commissioner and the assigned umpire no later than 2:00 pm for a weeknight game, and at least 2 hrs. before a weekend game. As a courtesy, the home team should also notify the visiting Manager, but the visiting Manager may also contact the Commissioner for information regarding the status of the field.
-
-1. Any Manager who knowingly falsifies information regarding the status of the field to avoid playing the game will be fined and the team will forfeit the game.
-
-## Rescheduling
-In the discretion of the Commissioner, a game may be postponed due to extraordinary circumstances. In the event a game is to be postponed, the Commissioner shall alert the Managers in an expedient manner.
-Managers from both teams must contact the Commissioner to confirm any changes that they wish to make to the official schedule. Teams may not change times, places, or dates of games without the consent of the Commissioner. Any such games played shall be considered unofficial.
-Any postponed or suspended games must be rescheduled in a timely fashion by the Managers of that game for the next possible date. If Managers cannot come to an agreement in a timely fashion, the Commissioner may reschedule the game.
-
-## Notification of Results
-The winning team shall be responsible for notifying the Commissioner of the score of the game no later than 10:00 AM the day after the game was played via text message, email, or telephone call.
-
-## Uncompleted Games
-All games not completed by the end of the regular season shall count as losses for both teams unless a team deliberately attempts to avoid playing a sanctioned game. The team that was willing to play the game will be judged the forfeit winner if so ruled by the Commissioner.
-
-## Substitution of an Umpire
-Should a league sanctioned umpire fail to appear at game time, the teams can choose to play the game with an umpire(s) of mutual choosing. The Commissioner needs to be informed by both teams prior to the start of the game to make it official.
 
 ## Collisions
 NO COLLISIONS ARE ALLOWED, UNLESS THE CONTACT RESULTS FROM A SLIDE. It is the base runners responsibility to slide or avoid contact. Fielders and runners must abide by Official Baseball Rules regarding Interference, Obstruction, and Catcher Collisions.. 

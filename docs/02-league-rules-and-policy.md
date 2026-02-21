@@ -46,6 +46,7 @@ The League may establish committees as necessary to assist in the administration
  Committees may be formed for specific purposes, including but not limited to:
 
 1. Advising on disciplinary matters and appeals;
+1. Evaluating disputes and ruling on formal game protests;
 1. Reviewing or proposing additions or amendments to playing rules;
 1. Assisting with competition structure or game administration.
 
@@ -233,35 +234,6 @@ All players in the League are expected to pay their team fees. Players will not 
 ### Free Agents
 A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season if of an intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
 
-## Protest and Forfeits
-
-### Timeframe and Reporting
-All protests must be filed with the Commissioner within 48 hours of the alleged infraction and on the League supplied form. All requested information must be accurately reported. Any Manager who knowingly falsifies information on the protest form will be fined and suspended as determined by the Commissioner, and that Manager’s team will forfeit the game.
-
-### Ground for Protest
-Protests may only be made on the grounds of a violation of a rule stated in this Constitution and its Bylaws or in violation of a stated Major League Baseball rule. Protests may not, under any circumstances, be based on the judgment of an umpire’s call. The protesting team’s Manager must notify the umpire of the protest at the time the violation occurred. Managers shall notify the league Commissioner at the earliest possible time after the game and provide umpire signature as proof of notification.
-
-### Ruling
-Upon the filing of a protest with the Commissioner, the Commissioner shall call a meeting of the Rules and Competition Committee at the earliest possible date. Judgment regarding the merit of the protest shall be made after deliberation.
-
-### Notification
-Teams that win games by forfeit must notify the Commissioner that very day.
-
-### Umpire Payment
-Forfeiting teams must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in good standing as defined in [Classification; Standing](#classification-standing). Teams will be considered not in good standing until payment is made. In the event a team is unable to pay the umpire at the proper time, the team’s forfeit fee will be used to cover initial forfeits. The cost of additional forfeits will be paid by the team.
-
-### Forfeits
-Should a team forfeit a game shall lose 2 points in the standings. 
-Forfeiting teams must pay, at the time of the forfeit, the full cost of the umpire(s). Until payment is made, a forfeiting team shall be considered not in good standing as defined in Subsection.
-Should a team forfeit 2 games in a season they will be banned from playing games for the remainder of the season and playoffs and placed on indefinite suspension, not in good standing, as defined in Subsection of the constitution. Games that included or would have included this team shall be subject to the following:
-
-1. All previous games played by the indefinitely suspended team shall count in the official standings.
-1. All subsequent games shall be recorded as a loss for the suspended team and a win for the scheduled opponent.
-
-### Technical forfeit
-A team subject to technical forfeit shall be awarded only one point for a victory. A team may receive 2 technical forfeits per season. After reaching this limit, subsequent technical forfeits shall be converted to forfeits, as defined in [Equipment](#equipment).
-
-## Standings and Postseason
 
 ### Website
 The Commissioner shall maintain a league website that includes all official scores and league standings. Additional pertinent information will be provided.
@@ -389,3 +361,77 @@ Uniform compliance is required in order to protect League competitive integrity,
 1. The Commissioner may impose discipline for uniform non-compliance, including warnings, corrective deadlines, fines, temporary player ineligibility, and other remedies authorized by League rules. In determining the appropriate discipline, the Commissioner may consider factors including bad faith, repeated non-compliance, and refusal to comply with a League directive. Penalties may be imposed up to and including game forfeits.
 ## Subjectivity
 These rules, regulations, articles, and Bylaws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
+## Game Administration
+### Subjectivity
+No official playing rule or League policy may be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
+
+### Pre-Game
+#### Field Status
+The host team of the field shall be responsible for checking the status of the field in the event of rain. In the event neither team is the host of the field, the home team shall be the responsible team. The responsible team must report the status of the field to the Commissioner and the assigned umpire no later than 2:00 pm for a weeknight game, and at least 2 hrs. before a weekend game. As a courtesy, the responsible team should also notify the visiting Manager, but the visiting Manager may also contact the Commissioner for information regarding the status of the field. 
+
+Any Manager who knowingly falsifies information regarding the status of the field to avoid playing the game for any reason will be fined and the team will forfeit the game.
+
+#### Rescheduling
+Managers from both teams must contact the Commissioner to confirm any changes that they wish to make to the official schedule. Teams may not change times, places, or dates of games without the consent of the Commissioner. Any such games played shall be considered unofficial.
+
+In the discretion of the Commissioner, a game may be postponed due to extraordinary circumstances. In the event a game is to be postponed, the Commissioner shall alert the Managers in an expedient manner.
+
+Any postponed or suspended games must be rescheduled in a timely fashion by the Managers of that game for the next possible date. If Managers cannot come to an agreement in a timely fashion, the Commissioner may reschedule the game.
+
+### In-Game
+#### Umpire Payment
+Umpires are to be paid on the field promptly upon request.
+
+#### Substitution of an Umpire
+Should a league sanctioned umpire fail to appear at game time, the teams can choose to play the game with an umpire(s) of mutual choosing. The Commissioner needs to be informed by both teams prior to the start of the game to make it official.
+
+#### Minimum Number of Players
+Forfeit time shall be 20 minutes after the scheduled starting time. If a ninth player does not arrive or arrives after forfeit time, the team shall be in technical forfeit, as defined in [Forfeits](#forfeits).
+
+1. A team may begin a game with eight (8) players up to two (2) times in one season. A team that fails to field nine (9) players at the start of the game after receiving 2 (two) prior technical forfeits shall forfeit all subsequent games.
+1. A team in technical forfeit shall remain in technical forfeit, regardless of the number of players with which it finished the game.
+
+If a ninth player does not arrive or arrives after forfeit time, the team shall be in technical forfeit, as defined in [Forfeits](#forfeits).
+
+###  Protests
+Protests may only be made on the grounds of a violation of a rule stated in League policy or playing rules. Protests may not, under any circumstances, be based on the judgment of an umpire’s call. The protesting team’s Manager must notify the umpire of the protest at the time the violation occurred. 
+
+### Post-Game
+#### Field Maintenance
+All teams are responsible for the maintenance and cleanup of the field and dugout areas after a game. Both teams must fill in all infield, batter’s box, and pitching mound holes. Additionally, both teams must have adequate equipment on hand for field maintenance. Teams who repeatedly fail to do proper post-game maintenance may be subject to discipline.
+
+### Notification of Results
+The winning team shall be responsible for notifying the Commissioner of the score of the game no later than 10:00 AM the day after the game was played via text message, email, or telephone call. In the result of a forfeit, notification shall be immediately at the conclusion of the game.
+
+### Notification of Protest
+Managers shall notify the league Commissioner at the earliest possible time after the game and provide umpire signature as proof of notification.
+
+All protests must be filed with the Commissioner within 48 hours of the alleged infraction and on the League supplied form. All requested information must be accurately reported. Any Manager who knowingly falsifies information on the protest form will be fined and suspended as determined by the Commissioner, and that Manager’s team will forfeit the game.
+
+#### Ruling
+Upon the filing of a protest with the Commissioner, the Commissioner shall call a meeting of the Rules and Competition Committee at the earliest possible date. Judgment regarding the merit of the protest shall be made after deliberation.
+
+Forfeiting teams must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in good standing as defined in [Classification; Standing](#classification-standing). Teams will be considered not in good standing until payment is made. In the event a team is unable to pay the umpire at the proper time, the team’s forfeit fee will be used to cover initial forfeits. The cost of additional forfeits will be paid by the team.
+
+## Game Outcomes
+
+### Technical forfeit
+If a team is in technical forfeit status, the game may proceed as permitted by Playing Rules, but the following applies:
+
+1. A team in technical forfeit that wins shall receive one (1) standings point for that game.
+1. A team may receive up to two (2) technical forfeits in a season.
+1. After a team reaches two (2) technical forfeits, each subsequent technical forfeit shall be converted to a forfeit.
+1. Technical forfeit status remains in effect for that game regardless of later player arrivals.
+
+The opponent of a team in technical forfeit is entitled to a full (2) standings points for a win.
+
+### Forfeit
+If a game is forfeited, the following applies:
+
+1. The forfeiting team shall receive a loss and a minus two (-2) point standings penalty.
+1. The non-forfeiting team shall receive a 7 runs to 0 runs win in the standings and is entitled to a full (2) standings points.
+1. The forfeiting team must pay the full cost of umpire fees for the forfeited game.
+1. A team that forfeits two (2) games in a season may be suspended for the remainder of the season and postseason and placed on indefinite suspension, subject to Commissioner determination.
+1. If a team is placed on indefinite suspension for repeated forfeits:
+      1. Prior games already played shall remain in the official standings.
+      1. Subsequent scheduled games shall be recorded as forfeits.
