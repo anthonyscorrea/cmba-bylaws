@@ -265,8 +265,8 @@ For the safety of all participants and the preservation of serious and competiti
 
 ## Season Administration
 
-### Website
-The Commissioner shall maintain a league website that includes all official scores and league standings. Additional pertinent information will be provided.
+### Official League Communications
+The Commissioner shall maintain official League communication channels to publish schedules, scores, standings, rosters, rules, notices, and other pertinent League information. 
 
 ### Team Rosters; Players and Eligibility
 
