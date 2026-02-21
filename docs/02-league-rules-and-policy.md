@@ -172,15 +172,13 @@ All franchise members are expected to attend all league meetings. Failure of a f
 1. Players may be assessed individual fees or fines as permitted by League rules; however, the Member Franchise shall remain ultimately responsible for ensuring such obligations are satisfied.
 1. Failure to satisfy financial obligations in accordance with established deadlines may result in penalties, suspension, or loss of good standing as provided elsewhere in this document.
 
-### Prohibited Conduct
+### Restrictions
 
 #### Tampering
-   1. Tampering is defined as the deliberate solicitation, without consent, of a Player who has made at least an oral commitment to another Member Franchise.
-   1. Tampering may result in disciplinary action against the offending Player, Member Franchise, or both.
+Tampering, or poaching, is defined as the deliberate solicitation, without consent, of a Player who has made at least an oral commitment to another Member Franchise. Tampering is discouraged and may result in disciplinary action against the offending Player, Member Franchise, or both.
 
 #### Outside League Participation
-   1. Member Franchises may participate in outside leagues provided such participation does not conflict with League games or playoffs and is permitted by agreement with the League.
-   1. Violations of this provision may result in disciplinary action.
+Member Franchises are expected to prioritize their commitments to the League. Participation in outside leagues is permitted by agreement with the League. Participation in outside leagues does not relieve a Member Franchise or its Players of League obligations, including playing games on their League-scheduled dates and times. Violations of this provision may result in disciplinary action.
 
 ### Penalties and Fees
 The Commissioner may levy fines to any League Member franchise or player subject to Board oversight. Fines may be levied for violation of this Constitution and its Bylaws or conduct unbecoming of a representative of the League. The penalties and amounts set forth in this section are operational in nature and may be adjusted by the Commissioner with Board oversight, unless otherwise specified. 
@@ -313,33 +311,70 @@ For the playoffs, each team will be granted the ability to exclude one (1) parti
 ### Completion of Playoff Games
 All playoff games must be played to completion. If a playoff game is suspended for any reason, the game must be finished at a later date declared by the Commissioner. This game is declared suspended, and regardless of what inning or circumstance, the game will be continued from the point in the game when it was suspended. The “Slaughter Rule” is applicable for the playoffs (see [Regulation Games](#regulation-games)).
 
-## Code of Conduct
-### Ethics
-All League members, including officers, Managers, umpires, and players shall strive to be ethical, honorable, and truthful in all dealings concerning the League thereby promoting the League as a first class league of impeccable integrity.
+## Conduct and Discipline
 
-### Sportsmanship
-All League members, including officers, Managers, umpires, and players are expected to behave in a sportsmanlike manner, promoting fair competitive play in a respectful atmosphere.
+### League Standard
+The League is committed to serious, clean, and competitive amateur baseball. The CMBA is not intended to operate as a casual “beer league”; it is a structured competition where players, Managers, and Member Franchises are expected to prepare, compete, and conduct themselves with professionalism, integrity, and respect for the game.
 
-## Sportsmanship and Prohibited Conduct
-All League members are expected to engage in a sportsmanlike and mutually respectful behavior. Any Manager or the chief umpire may request that the rules and competition committee review the specific actions of another player, coach, Manager or team. The rules and competition committee shall review, and in its discretion, determine the appropriate disciplinary action to be taken, if any. Disciplinary actions include a written warning, fines, temporary suspension, and banishment from the League. The committee should take under consideration repeat offenses. The Commissioner shall enforce any discipline determined by the committee.
+### General Conduct Expectations
+All League members, including officers, Managers, umpires, players, coaches, and team personnel, shall:
 
-### Fighting
-Fighting or any physical altercation shall not be tolerated in the League. Players cannot leave the bench or their positions during a fight for any reason; the Managers, the on-the-field coaches and umpire(s) shall be responsible for restoring order. Specific penalties for violations are listed below.
+1. Act honestly and in good faith in all League matters.
+1. Compete with sportsmanship and respect for opponents, teammates, umpires, and League officials.
+1. Comply with all League rules, facility rules, and applicable laws.
+1. Refrain from conduct detrimental to the League’s competitive standards, reputation, or operations.
+1. Follow directives issued by umpires and League officials during games and League activities.
 
-1. Any player who instigates or initiates an on-field fight shall be fined and suspended from league play for no less than one season
-1. Any player or coach who participates in a fight shall be suspended for three games and fined $50.00.
+### Prohibited Conduct
+Prohibited conduct includes, but is not limited to:
 
-### Assault of an Umpire
-Any player or coach who physically assaults an umpire will be permanently banished from the league. Actions shall be reported to law enforcement as required.
+1. Fighting, physical altercations, or threatening behavior.
+1. Leaving the bench or a defensive position to join or escalate an on-field altercation.
+1. Physical assault, intimidation, or abuse of an umpire, League official, player, coach, or spectator.
+1. Use, possession, or consumption of prohibited substances in violation of League, facility, or legal requirements, including alcohol and smoking in the dugout and on the playing field.
+1. Flagrant or intentional dangerous play, including prohibited collisions.
+1. Harassment, discriminatory conduct, or abusive language inconsistent with League standards.
+1. Knowingly providing false information in protests, field status reports, roster submissions, or other League processes.
+1. Repeated or willful refusal to comply with League rules, disciplinary directives, or financial obligations.
 
-### Substances
+### Penalties and Enforcement
+1. The Commissioner has primary authority to investigate and impose discipline, subject to Board oversight as otherwise provided in this document.
+1. The Rules and Competition Committee may be consulted in an advisory capacity.
+1. Discipline may be imposed on a Player, Manager, coach, or Member Franchise, including one or more of the following:
+   1. Written warning or reprimand;
+   1. Fine or fee;
+   1. Game ejection;
+   1. Suspension for a specified number of games or period of time;
+   1. Forfeit or technical forfeit consequences where applicable;
+   1. Loss of good standing;
+   1. Indefinite suspension or expulsion from the League for severe or repeated violations.
+1. In determining discipline, the Commissioner may consider severity, intent, prior conduct, risk to safety, and whether the conduct harmed League operations or competitive integrity.
+1. Managers are responsible for the conduct of their players, coaches, and team personnel and may be disciplined for team-related violations.
 
-1. Smoking: Smoking shall be prohibited in the dugout and on the playing field during the game.
-1. Alcohol: Alcoholic beverages are prohibited on or in the close proximity of a team’s bench. Teams in violation of this rule will forfeit the game and be automatically fined and temporarily suspended. Offending players will be fined and suspended for two (2) weeks from the date of the infraction. A second violation of this rule shall result in the automatic expulsion of the team from the League. Managers are responsible for the enforcement of this rule and are accountable for any violations. 
-1. Additionally, all teams and players are subject to any and all additional laws, rules, or regulations regarding substances as stated by locality or the issuer of the field permit
+### Specific Minimum Penalties
+Unless stronger discipline is warranted by the circumstances:
 
-### Flagrant Collisions
-A flagrant collision is defined as an intentional act to forcibly collide with a fielder. A player who is ejected for a flagrant collision will be suspended for three (3) games and fined $30. A second offense (not necessarily in the same season) will result in the player being suspended for the remainder of that season (including playoffs). A third offense will result in permanent banishment from the league.
+1. Any player who instigates a phyiscal fight shall be suspended for not less than one (1) full season and may be fined.
+1. Any player or coach who participates in a physical fight shall be suspended for three (3) games and fined fifty dollars ($50.00).
+1. Any player or coach who physically assaults an umpire shall be permanently expelled from the League and may be reported to law enforcement as required.
+1. A player ejected for a flagrant collision shall be suspended for three (3) games and fined thirty dollars ($30.00).  
+   1. A second offense shall result in suspension for the remainder of the season, including postseason.  
+   1. A third offense shall result in permanent expulsion from the League.
+
+### Alcohol Prohibition
+For the safety of all participants and the preservation of serious and competitive baseball, alcohol shall be prohibited during League play.
+
+1. Open alcoholic beverages are strictly prohibited on the playing field, in dugouts, on benches, and in any team area at League games or League events.
+1. No Player, Manager, coach, or team personnel may consume or appear under the influence of alcohol in those areas or while actively participating in League play.
+1. A Member Franchise is responsible for ensuring compliance by its players, coaches, and team personnel.
+1. Any violation may result in immediate ejection, game forfeiture, fines, suspension, and further discipline for repeated or serious misconduct.
+1. A second alcohol-related violation by the same individual or Member Franchise within a season may result in indefinite suspension or expulsion, subject to Commissioner determination and Board oversight.
+1. This rule is in addition to, and does not limit, stricter field-permit, park district, or legal requirements.
+
+### Reporting and Appeals
+1. Managers, umpires, and League officials shall promptly report alleged violations to the Commissioner.
+1. A disciplined party may appeal under the [Appeals](#appeals) section of this document.
+1. Unless otherwise stated in a disciplinary notice, discipline remains in effect during appeal review.
 
 ## Subjectivity
 These rules, regulations, articles, and Bylaws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
