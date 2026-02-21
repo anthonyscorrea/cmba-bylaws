@@ -170,6 +170,7 @@ All franchise members are expected to attend all league meetings. Failure of a f
 
 ### Financial Obligations
 1. Each Member Franchise is responsible for payment of all League dues, fees, and fines assessed to it pursuant to the approved League Budget or this document.
+1. Each Player in the League is expected to pay their team fees as designated by that team. Players may not switch teams within the League unless or until any and all debts are paid in full.
 1. Players may be assessed individual fees or fines as permitted by League rules; however, the Member Franchise shall remain ultimately responsible for ensuring such obligations are satisfied.
 1. Failure to satisfy financial obligations in accordance with established deadlines may result in penalties, suspension, or loss of good standing as provided elsewhere in this document.
 
@@ -197,19 +198,22 @@ The Commissioner may levy fines to any League Member franchise or player subject
 1. Decisions on appeal shall be final unless otherwise provided by the Constitution and Bylaws.
 1. The Board may exercise oversight with respect to disciplinary or eligibility matters when there is a credible concern regarding fairness, conflict of interest, or material deviation from League rules or procedures. In exercising such oversight, the Board may review the matter directly, direct reconsideration, or appoint an advisory committee. Any determination made by the Board pursuant to this subsection shall be final.
 
-## Team Rosters; Players and Eligibility
 
-### Umpires
-Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the Bylaws, except where specified.
+## Season Administration
 
-### Roster Deadline; Roster Size
+### Website
+The Commissioner shall maintain a league website that includes all official scores and league standings. Additional pertinent information will be provided.
+
+### Team Rosters; Players and Eligibility
+
+#### Roster Deadline; Roster Size
 Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the Commissioner no later than June 1 of each year. Any team that does not submit its roster to the Commissioner by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-Managers).  
 Each team’s roster must contain a minimum of sixteen (16) players and shall not exceed twenty-six (26) players, in each case, excluding non-playing Managers and coaches. 
 
-### Roster Information Requirements
+#### Roster Information Requirements
 A team’s rosters as submitted to the Commissioner on or before June 1 shall contain the following information for each rostered player: name, age, bats/throws, position(s),uniform number, and face photo. Rosters shall be submitted in Excel or via Google sheets (or similar editable spreadsheet.)
 
-### Roster Transactions
+#### Roster Transactions
 Teams may add a total of five (5) players to the roster after the June 1 roster submission deadline. The total number of players on a team still may not exceed twenty-six (26). In order to add players between June 1 and July 1 but not exceed the 26 player limit, a team may drop players who were rostered on June 1.  No players may be added after July 1, except as set forth below.
 After July 1, upon request to the Rules and Competition Committee, a team may add a player if (i) the team’s roster has fallen (or, upon the removal of players “missing in action” as described below, will fall) below the 16 player minimum and (ii) doing so will, in the good faith determination of the Rules and Competition Committee, prevent the team from forfeiting games. 
 In order for a team to declare a player “missing in action” after July 1, (i) the player shall have (a) failed to appear at all of the team’s games occurring prior to such request or (b) suffered a season-ending injury after June 1 and (ii) the team must drop the player from its roster.
@@ -218,25 +222,22 @@ A team may drop players at any time as long as the team’s roster does not fall
 
 Any and all roster changes shall be submitted to the Commissioner and satisfy the information requirements in [Roster Information Requirements](#roster-information-requirements).  Roster changes shall be effective as of the first pitch of the team’s first regularly scheduled game after the updated roster is submitted.
 
-### Alumni
+#### Alumni
 If a team would otherwise be required to forfeit or technically forfeit a game after June 1 due to a lack of eligible players in attendance, the team can use one (but not more than one) of its former players (“alumni”) in that game. The team’s Manager shall inform the opposing team’s Manager and the Commissioner as soon as possible (and in no event later than the first pitch) the intention to use an alumni player and will provide to the opposing team’s Manager and the Commissioner with the alumni player’s name, age, bats/throws, position and uniform number. Alumni players are not eligible to play in the playoffs.
 
-### Eligible Players
+#### Eligible Players
 Eligible players must be of at least eighteen (18) years of age by the date of the teams first +game. No player may play for more than one team in a season (either before or after June 1).
 A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
 
-### Postseason Player Eligibility
+#### Postseason Player Eligibility
 Players must appear in at least five (5) games during the regular season in order to be eligible for postseason play. Upon request to the Rules and Competition Committee, exceptions may be made for players with long term injuries.
 
-### Player Responsibility for Team Fees
-All players in the League are expected to pay their team fees. Players will not be allowed to switch teams within the League unless or until any and all debts are paid in full.
-
-### Free Agents
+#### Free Agents
 A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season if of an intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
 
 
-### Website
-The Commissioner shall maintain a league website that includes all official scores and league standings. Additional pertinent information will be provided.
+### Uncompleted Games
+All games not completed by the end of the regular season shall count as losses for both teams unless a team deliberately attempts to avoid playing a sanctioned game. The team that was willing to play the game will be judged the forfeit winner if so ruled by the Commissioner.
 
 ### League Standings
 The League shall use a point system to determine the standings. A team is awarded:
@@ -251,9 +252,12 @@ The League shall use a point system to determine the standings. A team is awarde
 In the event two teams finish the regular season in a tie for a position, the following tie-breaking procedure will take effect:
 
 1. Record in head-to-head competition.
+1. Record within the league.
 1. Record within the division (if applicable).
 1. Least runs allowed for the season.
 1. Coin toss, performed by the Commissioner with a witness.
+
+
 
 ### Postseason Format
 The postseason format shall be determined by annual vote. 
@@ -332,35 +336,6 @@ For the safety of all participants and the preservation of serious and competiti
 1. A disciplined party may appeal under the [Appeals](#appeals) section of this document.
 1. Unless otherwise stated in a disciplinary notice, discipline remains in effect during appeal review.
 
-## Game Equipment and Uniforms
-
-### Baseballs 
-Professional-, college-, or high school-grade baseballs will be allowed for game play. Accepted brands and ball types include, but are not limited to, the Rawlings RO series, Wilson A1000 series, and Diamond D-1 series. 
-
-The home team must supply two (2) and the visitors one (1) baseball at the start of each game. Supplied baseballs should be new, however in rare extenuating circumstances, previously used baseballs may be used if they are in good playable condition and approved by the umpire. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls may face displine up to and including forfeit of the game.
-
-### Bats
-All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject to the Major League rules that govern this area.
-
-### Bases, home plate, and pitching rubber  
-All teams are expected to have a set of bases, a home plate, and a pitching rubber. These items shall conform to Major League Baseball specifications. Items conforming to 2022 specifications shall also be considered legal.
-
-The host team for the field shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. In the event neither team is host of the field, the home team shall have this responsibilty. Should the responsible team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team may lend the equipment, although they are not required to do so.
-
-### Uniforms
-Uniform compliance is required in order to protect League competitive integrity, roster transparency, and game administration. 
-
-1. Required uniform elements are:
-      1. Team jersey bearing the team identity;
-      1. A unique uniform number assigned to that Player;
-      1. Baseball pants.
-1. A Player may not wear or borrow another rostered Player’s jersey or number to satisfy this rule.
-1. By each Member Franchise’s first regular-season game, all rostered Players are required to be in compliant uniforms.
-1. If a Member Franchise cannot meet full compliance due to extenuating circumstances, its Manager must notify the Commissioner or designated League officer before game time, state the reason, and provide a date certain for correction.
-1. Any Manager who observes a material uniform violation is encouraged to report it promptly to the Commissioner. Reporting does imply a request for forfeit. Umpires are also encouraged to note and report uniform issues.
-1. The Commissioner may impose discipline for uniform non-compliance, including warnings, corrective deadlines, fines, temporary player ineligibility, and other remedies authorized by League rules. In determining the appropriate discipline, the Commissioner may consider factors including bad faith, repeated non-compliance, and refusal to comply with a League directive. Penalties may be imposed up to and including game forfeits.
-## Subjectivity
-These rules, regulations, articles, and Bylaws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
 ## Game Administration
 ### Subjectivity
 No official playing rule or League policy may be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
@@ -379,10 +354,38 @@ In the discretion of the Commissioner, a game may be postponed due to extraordin
 Any postponed or suspended games must be rescheduled in a timely fashion by the Managers of that game for the next possible date. If Managers cannot come to an agreement in a timely fashion, the Commissioner may reschedule the game.
 
 ### In-Game
-#### Umpire Payment
+
+#### Baseballs 
+Professional-, college-, or high school-grade baseballs will be allowed for game play. Accepted brands and ball types include, but are not limited to, the Rawlings RO series, Wilson A1000 series, and Diamond D-1 series. 
+
+The home team must supply two (2) and the visitors one (1) baseball at the start of each game. Supplied baseballs should be new, however in rare extenuating circumstances, previously used baseballs may be used if they are in good playable condition and approved by the umpire. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls may face displine up to and including forfeit of the game.
+
+#### Bats
+All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject to the Major League rules that govern this area.
+
+#### Bases, home plate, and pitching rubber  
+All teams are expected to have a set of bases, a home plate, and a pitching rubber. These items shall conform to Major League Baseball specifications. Items conforming to 2022 specifications shall also be considered legal.
+
+The host team for the field shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. In the event neither team is host of the field, the home team shall have this responsibilty. Should the responsible team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team may lend the equipment, although they are not required to do so.
+
+#### Uniforms
+Uniform compliance is required in order to protect League competitive integrity, roster transparency, and game administration. 
+
+1. Required uniform elements are:
+      1. Team jersey bearing the team identity;
+      1. A unique uniform number assigned to that Player;
+      1. Baseball pants.
+1. A Player may not wear or borrow another rostered Player’s jersey or number to satisfy this rule.
+1. By each Member Franchise’s first regular-season game, all rostered Players are required to be in compliant uniforms.
+1. If a Member Franchise cannot meet full compliance due to extenuating circumstances, its Manager must notify the Commissioner or designated League officer before game time, state the reason, and provide a date certain for correction.
+1. Any Manager who observes a material uniform violation is encouraged to report it promptly to the Commissioner. Reporting does imply a request for forfeit. Umpires are also encouraged to note and report uniform issues.
+1. The Commissioner may impose discipline for uniform non-compliance, including warnings, corrective deadlines, fines, temporary player ineligibility, and other remedies authorized by League rules. In determining the appropriate discipline, the Commissioner may consider factors including bad faith, repeated non-compliance, and refusal to comply with a League directive. Penalties may be imposed up to and including game forfeits.
+
+#### Umpires
+Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the Bylaws, except where specified.
+
 Umpires are to be paid on the field promptly upon request.
 
-#### Substitution of an Umpire
 Should a league sanctioned umpire fail to appear at game time, the teams can choose to play the game with an umpire(s) of mutual choosing. The Commissioner needs to be informed by both teams prior to the start of the game to make it official.
 
 #### Minimum Number of Players
@@ -393,17 +396,17 @@ Forfeit time shall be 20 minutes after the scheduled starting time. If a ninth p
 
 If a ninth player does not arrive or arrives after forfeit time, the team shall be in technical forfeit, as defined in [Forfeits](#forfeits).
 
-###  Protests
+####  Protests
 Protests may only be made on the grounds of a violation of a rule stated in League policy or playing rules. Protests may not, under any circumstances, be based on the judgment of an umpire’s call. The protesting team’s Manager must notify the umpire of the protest at the time the violation occurred. 
 
 ### Post-Game
 #### Field Maintenance
 All teams are responsible for the maintenance and cleanup of the field and dugout areas after a game. Both teams must fill in all infield, batter’s box, and pitching mound holes. Additionally, both teams must have adequate equipment on hand for field maintenance. Teams who repeatedly fail to do proper post-game maintenance may be subject to discipline.
 
-### Notification of Results
+#### Notification of Results
 The winning team shall be responsible for notifying the Commissioner of the score of the game no later than 10:00 AM the day after the game was played via text message, email, or telephone call. In the result of a forfeit, notification shall be immediately at the conclusion of the game.
 
-### Notification of Protest
+#### Notification of Protest
 Managers shall notify the league Commissioner at the earliest possible time after the game and provide umpire signature as proof of notification.
 
 All protests must be filed with the Commissioner within 48 hours of the alleged infraction and on the League supplied form. All requested information must be accurately reported. Any Manager who knowingly falsifies information on the protest form will be fined and suspended as determined by the Commissioner, and that Manager’s team will forfeit the game.
@@ -413,9 +416,9 @@ Upon the filing of a protest with the Commissioner, the Commissioner shall call 
 
 Forfeiting teams must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in good standing as defined in [Classification; Standing](#classification-standing). Teams will be considered not in good standing until payment is made. In the event a team is unable to pay the umpire at the proper time, the team’s forfeit fee will be used to cover initial forfeits. The cost of additional forfeits will be paid by the team.
 
-## Game Outcomes
+### Game Outcomes
 
-### Technical forfeit
+#### Technical forfeit
 If a team is in technical forfeit status, the game may proceed as permitted by Playing Rules, but the following applies:
 
 1. A team in technical forfeit that wins shall receive one (1) standings point for that game.
@@ -425,7 +428,7 @@ If a team is in technical forfeit status, the game may proceed as permitted by P
 
 The opponent of a team in technical forfeit is entitled to a full (2) standings points for a win.
 
-### Forfeit
+#### Forfeit
 If a game is forfeited, the following applies:
 
 1. The forfeiting team shall receive a loss and a minus two (-2) point standings penalty.
