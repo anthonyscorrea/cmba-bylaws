@@ -196,22 +196,6 @@ The Commissioner may levy fines to any League Member franchise or player subject
 1. Decisions on appeal shall be final unless otherwise provided by the Constitution and Bylaws.
 1. The Board may exercise oversight with respect to disciplinary or eligibility matters when there is a credible concern regarding fairness, conflict of interest, or material deviation from League rules or procedures. In exercising such oversight, the Board may review the matter directly, direct reconsideration, or appoint an advisory committee. Any determination made by the Board pursuant to this subsection shall be final.
 
-## Equipment
-
-1. Baseballs: Only Major League regulation balls will be allowed for game play. Accepted brands and ball types include, but are not limited to, the Rawlings RO series, Wilson A1000 series, and Diamond D-1 series. The home team must supply two (2) and the visitors one (1) ball at the start of each game. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls shall forfeit the game.
-1. Bats: All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject to the Major League rules that govern this area.
-1. Bases, home plate, and pitching rubber:  All teams are expected to have a set of bases, a home plate, and a pitching rubber. These items shall conform to Major League Baseball specifications. Items conforming to 2022 specifications shall also be considered legal.
-
-The home team shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. Should the home team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team can lend the equipment, although they are not required to do so.
-
-### Uniform
-All players must be in uniform (bearing the team’s name as represented to the league) by the team’s first regular season game in order to be eligible to participate in games. Players may not obtain the jersey of another team member in order to obtain eligibility.
-
-1. At the Commissioner's discretion, this deadline may be extended  following a written petition by the team that shows a reasonable cause for extension, and evidence of a good faith effort to meet the deadline.
-1. This rule applies to any players legally added to the roster after the stated deadline.
-1. Uniforms shall consist of, but are not limited to, matching team caps and jerseys with assigned team uniform numbers. 
-1. Players must be dressed in proper baseball pants. These pants need not match the team’s uniform, however, the League encourages all players to wear matching pants. Sweatpants, shorts, jeans, or any other type of pants other than baseball pants are prohibited.
-
 ## Team Rosters; Players and Eligibility
 
 ### Umpires
@@ -376,5 +360,32 @@ For the safety of all participants and the preservation of serious and competiti
 1. A disciplined party may appeal under the [Appeals](#appeals) section of this document.
 1. Unless otherwise stated in a disciplinary notice, discipline remains in effect during appeal review.
 
+## Game Equipment and Uniforms
+
+### Baseballs 
+Professional-, college-, or high school-grade baseballs will be allowed for game play. Accepted brands and ball types include, but are not limited to, the Rawlings RO series, Wilson A1000 series, and Diamond D-1 series. 
+
+The home team must supply two (2) and the visitors one (1) baseball at the start of each game. Supplied baseballs should be new, however in rare extenuating circumstances, previously used baseballs may be used if they are in good playable condition and approved by the umpire. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls may face displine up to and including forfeit of the game.
+
+### Bats
+All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject to the Major League rules that govern this area.
+
+### Bases, home plate, and pitching rubber  
+All teams are expected to have a set of bases, a home plate, and a pitching rubber. These items shall conform to Major League Baseball specifications. Items conforming to 2022 specifications shall also be considered legal.
+
+The host team for the field shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. In the event neither team is host of the field, the home team shall have this responsibilty. Should the responsible team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team may lend the equipment, although they are not required to do so.
+
+### Uniforms
+Uniform compliance is required in order to protect League competitive integrity, roster transparency, and game administration. 
+
+1. Required uniform elements are:
+      1. Team jersey bearing the team identity;
+      1. A unique uniform number assigned to that Player;
+      1. Baseball pants.
+1. A Player may not wear or borrow another rostered Player’s jersey or number to satisfy this rule.
+1. By each Member Franchise’s first regular-season game, all rostered Players are required to be in compliant uniforms.
+1. If a Member Franchise cannot meet full compliance due to extenuating circumstances, its Manager must notify the Commissioner or designated League officer before game time, state the reason, and provide a date certain for correction.
+1. Any Manager who observes a material uniform violation is encouraged to report it promptly to the Commissioner. Reporting does imply a request for forfeit. Umpires are also encouraged to note and report uniform issues.
+1. The Commissioner may impose discipline for uniform non-compliance, including warnings, corrective deadlines, fines, temporary player ineligibility, and other remedies authorized by League rules. In determining the appropriate discipline, the Commissioner may consider factors including bad faith, repeated non-compliance, and refusal to comply with a League directive. Penalties may be imposed up to and including game forfeits.
 ## Subjectivity
 These rules, regulations, articles, and Bylaws may not be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
