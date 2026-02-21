@@ -3,6 +3,7 @@ name: Build & publish docs (rc + release)
 on:
   push:
     tags:
+      - "draft*"
       - "rc*"
       - "v*"
   workflow_dispatch:
@@ -100,14 +101,14 @@ jobs:
           zip -r "${GITHUB_REF_NAME}.zip" ./${GITHUB_REF_NAME}
 
       - name: Publish prerelease
-        if: startsWith(github.ref_name, 'rc')
+        if: startsWith(github.ref_name, 'rc') || startsWith(github.ref_name, 'draft')
         uses: softprops/action-gh-release@v2
         with:
           prerelease: true
           name: ${{ github.ref_name }}
           tag_name: ${{ github.ref_name }}
           body: |
-            Release candidate preview.
+            Prerelease.
           files: |
             ${{ runner.temp }}/mkdocs_out/site_offline/${{ github.ref_name }}.zip
             ${{ runner.temp }}/pandoc/${{ github.ref_name }}-${{ env.SHORT_SHA }}.docx
@@ -143,7 +144,7 @@ jobs:
         if: startsWith(github.ref_name, 'rc')
         run: |
           set -euo pipefail
-          rm -rf rc
+          rm -rf rc draft
           mkdir -p rc
           cp -a ${RUNNER_TEMP}/mkdocs_out/site/. rc/
           printf '{"tag":"%s"}\n' "${GITHUB_REF_NAME}" > rc/rc.json
@@ -152,4 +153,19 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git commit -m "Deploy RC preview ${GITHUB_REF_NAME}" || echo "No changes to commit"
+          git push origin gh-pages
+      
+      - name: Deploy draft preview to /draft/
+        if: startsWith(github.ref_name, 'draft')
+        run: |
+          set -euo pipefail
+          rm -rf rc draft
+          mkdir -p draft
+          cp -a ${RUNNER_TEMP}/mkdocs_out/site/. draft/
+          printf '{"tag":"%s"}\n' "${GITHUB_REF_NAME}" > draft/draft.json
+
+          git add -A
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Deploy draft preview ${GITHUB_REF_NAME}" || echo "No changes to commit"
           git push origin gh-pages
