@@ -203,6 +203,8 @@ The Commissioner may levy fines to any League Member franchise or player subject
 ### League Standard
 The League is committed to serious, clean, and competitive amateur baseball. The CMBA is not intended to operate as a casual “beer league”; it is a structured competition where players, Managers, and Member Franchises are expected to prepare, compete, and conduct themselves with professionalism, integrity, and respect for the game.
 
+To be successful, the League depends on self-regulation and shared accountability. All League participants are expected to encourage one another to comply with League rules and expectations. Participants may report potential infractions to the Commissioner, any League Officer, or any member of the Board by text message, email, phone call, or other reasonable means. A report, by itself, does not constitute a request for forfeit or any other specific sanction. League officials may retain such reports to identify patterns or repeated issues and to support further action when appropriate.
+
 ### General Conduct Expectations
 All League members, including officers, Managers, umpires, players, coaches, and team personnel, shall:
 
