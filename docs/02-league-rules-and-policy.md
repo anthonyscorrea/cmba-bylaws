@@ -198,79 +198,6 @@ The Commissioner may levy fines to any League Member franchise or player subject
 1. Decisions on appeal shall be final unless otherwise provided by the Constitution and Bylaws.
 1. The Board may exercise oversight with respect to disciplinary or eligibility matters when there is a credible concern regarding fairness, conflict of interest, or material deviation from League rules or procedures. In exercising such oversight, the Board may review the matter directly, direct reconsideration, or appoint an advisory committee. Any determination made by the Board pursuant to this subsection shall be final.
 
-
-## Season Administration
-
-### Website
-The Commissioner shall maintain a league website that includes all official scores and league standings. Additional pertinent information will be provided.
-
-### Team Rosters; Players and Eligibility
-
-#### Roster Deadline; Roster Size
-Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the Commissioner no later than June 1 of each year. Any team that does not submit its roster to the Commissioner by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-Managers).  
-Each team’s roster must contain a minimum of sixteen (16) players and shall not exceed twenty-six (26) players, in each case, excluding non-playing Managers and coaches. 
-
-#### Roster Information Requirements
-A team’s rosters as submitted to the Commissioner on or before June 1 shall contain the following information for each rostered player: name, age, bats/throws, position(s),uniform number, and face photo. Rosters shall be submitted in Excel or via Google sheets (or similar editable spreadsheet.)
-
-#### Roster Transactions
-Teams may add a total of five (5) players to the roster after the June 1 roster submission deadline. The total number of players on a team still may not exceed twenty-six (26). In order to add players between June 1 and July 1 but not exceed the 26 player limit, a team may drop players who were rostered on June 1.  No players may be added after July 1, except as set forth below.
-After July 1, upon request to the Rules and Competition Committee, a team may add a player if (i) the team’s roster has fallen (or, upon the removal of players “missing in action” as described below, will fall) below the 16 player minimum and (ii) doing so will, in the good faith determination of the Rules and Competition Committee, prevent the team from forfeiting games. 
-In order for a team to declare a player “missing in action” after July 1, (i) the player shall have (a) failed to appear at all of the team’s games occurring prior to such request or (b) suffered a season-ending injury after June 1 and (ii) the team must drop the player from its roster.
-
-A team may drop players at any time as long as the team’s roster does not fall below the 16 player minimum.
-
-Any and all roster changes shall be submitted to the Commissioner and satisfy the information requirements in [Roster Information Requirements](#roster-information-requirements).  Roster changes shall be effective as of the first pitch of the team’s first regularly scheduled game after the updated roster is submitted.
-
-#### Alumni
-If a team would otherwise be required to forfeit or technically forfeit a game after June 1 due to a lack of eligible players in attendance, the team can use one (but not more than one) of its former players (“alumni”) in that game. The team’s Manager shall inform the opposing team’s Manager and the Commissioner as soon as possible (and in no event later than the first pitch) the intention to use an alumni player and will provide to the opposing team’s Manager and the Commissioner with the alumni player’s name, age, bats/throws, position and uniform number. Alumni players are not eligible to play in the playoffs.
-
-#### Eligible Players
-Eligible players must be of at least eighteen (18) years of age by the date of the teams first +game. No player may play for more than one team in a season (either before or after June 1).
-A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
-
-#### Postseason Player Eligibility
-Players must appear in at least five (5) games during the regular season in order to be eligible for postseason play. Upon request to the Rules and Competition Committee, exceptions may be made for players with long term injuries.
-
-#### Free Agents
-A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season if of an intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
-
-
-### Uncompleted Games
-All games not completed by the end of the regular season shall count as losses for both teams unless a team deliberately attempts to avoid playing a sanctioned game. The team that was willing to play the game will be judged the forfeit winner if so ruled by the Commissioner.
-
-### League Standings
-The League shall use a point system to determine the standings. A team is awarded:
-
-1. Two (2) points for a win (including a win against a team in technical forfeit)
-1. One (1) point for a win while in technical forfeit (see [Forfeits](#forfeits))
-1. One (1) point for a tie game
-1. Zero (0) points for a loss
-1. Minus two (-2) points for a loss by forfeit (see [Forfeits](#forfeits)).
-
-### Standings Tie-breakers
-In the event two teams finish the regular season in a tie for a position, the following tie-breaking procedure will take effect:
-
-1. Record in head-to-head competition.
-1. Record within the league.
-1. Record within the division (if applicable).
-1. Least runs allowed for the season.
-1. Coin toss, performed by the Commissioner with a witness.
-
-
-
-### Postseason Format
-The postseason format shall be determined by annual vote. 
-
-### Prizes and Awards
-Playoff prizes and awards, if any, shall be determined by the membership of the league.
-
-### Playoff Umpire Selection
-For the playoffs, each team will be granted the ability to exclude one (1) particular umpire from participating in said teams series. The name of this umpire shall be submitted to the chief umpire as soon as possible prior to the series. This umpire “veto” will be binding UNLESS the chief umpire cannot find any other umpire who can work any game in this series.
-
-### Completion of Playoff Games
-All playoff games must be played to completion. If a playoff game is suspended for any reason, the game must be finished at a later date declared by the Commissioner. This game is declared suspended, and regardless of what inning or circumstance, the game will be continued from the point in the game when it was suspended. The “Slaughter Rule” is applicable for the playoffs (see [Regulation Games](#regulation-games)).
-
 ## Conduct and Discipline
 
 ### League Standard
@@ -335,6 +262,75 @@ For the safety of all participants and the preservation of serious and competiti
 1. Managers, umpires, and League officials shall promptly report alleged violations to the Commissioner.
 1. A disciplined party may appeal under the [Appeals](#appeals) section of this document.
 1. Unless otherwise stated in a disciplinary notice, discipline remains in effect during appeal review.
+
+## Season Administration
+
+### Website
+The Commissioner shall maintain a league website that includes all official scores and league standings. Additional pertinent information will be provided.
+
+### Team Rosters; Players and Eligibility
+
+#### Roster Deadline; Roster Size
+Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the Commissioner no later than June 1 of each year. Any team that does not submit its roster to the Commissioner by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-Managers).  
+Each team’s roster must contain a minimum of sixteen (16) players and shall not exceed twenty-six (26) players, in each case, excluding non-playing Managers and coaches. 
+
+#### Roster Information Requirements
+A team’s rosters as submitted to the Commissioner on or before June 1 shall contain the following information for each rostered player: name, age, bats/throws, position(s),uniform number, and face photo. Rosters shall be submitted in Excel or via Google sheets (or similar editable spreadsheet.)
+
+#### Roster Transactions
+Teams may add a total of five (5) players to the roster after the June 1 roster submission deadline. The total number of players on a team still may not exceed twenty-six (26). In order to add players between June 1 and July 1 but not exceed the 26 player limit, a team may drop players who were rostered on June 1.  No players may be added after July 1, except as set forth below.
+After July 1, upon request to the Rules and Competition Committee, a team may add a player if (i) the team’s roster has fallen (or, upon the removal of players “missing in action” as described below, will fall) below the 16 player minimum and (ii) doing so will, in the good faith determination of the Rules and Competition Committee, prevent the team from forfeiting games. 
+In order for a team to declare a player “missing in action” after July 1, (i) the player shall have (a) failed to appear at all of the team’s games occurring prior to such request or (b) suffered a season-ending injury after June 1 and (ii) the team must drop the player from its roster.
+
+A team may drop players at any time as long as the team’s roster does not fall below the 16 player minimum.
+
+Any and all roster changes shall be submitted to the Commissioner and satisfy the information requirements in [Roster Information Requirements](#roster-information-requirements).  Roster changes shall be effective as of the first pitch of the team’s first regularly scheduled game after the updated roster is submitted.
+
+#### Alumni
+If a team would otherwise be required to forfeit or technically forfeit a game after June 1 due to a lack of eligible players in attendance, the team can use one (but not more than one) of its former players (“alumni”) in that game. The team’s Manager shall inform the opposing team’s Manager and the Commissioner as soon as possible (and in no event later than the first pitch) the intention to use an alumni player and will provide to the opposing team’s Manager and the Commissioner with the alumni player’s name, age, bats/throws, position and uniform number. Alumni players are not eligible to play in the playoffs.
+
+#### Eligible Players
+Eligible players must be of at least eighteen (18) years of age by the date of the teams first +game. No player may play for more than one team in a season (either before or after June 1).
+A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
+
+#### Postseason Player Eligibility
+Players must appear in at least five (5) games during the regular season in order to be eligible for postseason play. Upon request to the Rules and Competition Committee, exceptions may be made for players with long term injuries.
+
+#### Free Agents
+A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season if of an intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
+
+### Uncompleted Games
+All games not completed by the end of the regular season shall count as losses for both teams unless a team deliberately attempts to avoid playing a sanctioned game. The team that was willing to play the game will be judged the forfeit winner if so ruled by the Commissioner.
+
+### League Standings
+The League shall use a point system to determine the standings. A team is awarded:
+
+1. Two (2) points for a win (including a win against a team in technical forfeit)
+1. One (1) point for a win while in technical forfeit (see [Forfeits](#forfeits))
+1. One (1) point for a tie game
+1. Zero (0) points for a loss
+1. Minus two (-2) points for a loss by forfeit (see [Forfeits](#forfeits)).
+
+### Standings Tie-breakers
+In the event two teams finish the regular season in a tie for a position, the following tie-breaking procedure will take effect:
+
+1. Record in head-to-head competition.
+1. Record within the league.
+1. Record within the division (if applicable).
+1. Least runs allowed for the season.
+1. Coin toss, performed by the Commissioner with a witness.
+
+### Postseason Format
+The postseason format shall be determined by annual vote. 
+
+### Prizes and Awards
+Playoff prizes and awards, if any, shall be determined by the membership of the league.
+
+### Playoff Umpire Selection
+For the playoffs, each team will be granted the ability to exclude one (1) particular umpire from participating in said teams series. The name of this umpire shall be submitted to the chief umpire as soon as possible prior to the series. This umpire “veto” will be binding UNLESS the chief umpire cannot find any other umpire who can work any game in this series.
+
+### Completion of Playoff Games
+All playoff games must be played to completion. If a playoff game is suspended for any reason, the game must be finished at a later date declared by the Commissioner. This game is declared suspended, and regardless of what inning or circumstance, the game will be continued from the point in the game when it was suspended. The “Slaughter Rule” is applicable for the playoffs (see [Regulation Games](#regulation-games)).
 
 ## Game Administration
 ### Subjectivity
