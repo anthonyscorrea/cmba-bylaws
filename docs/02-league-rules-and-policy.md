@@ -226,8 +226,8 @@ Prohibited conduct includes, but is not limited to:
 1. Repeated or willful refusal to comply with League rules, disciplinary directives, or financial obligations.
 
 ### Penalties and Enforcement
-1. The Commissioner has primary authority to investigate and impose discipline, subject to Board oversight as otherwise provided in this document.
-1. The Rules and Competition Committee may be consulted in an advisory capacity.
+1. The Commissioner has primary authority to investigate matters and impose discipline, subject to Board oversight as otherwise provided in this document. 
+1. The Commissioner may convene a committee to assist with an investigation and provide recommendations for action; however, such recommendations are not binding unless the Commissioner or the Board expressly grants the committee binding authority at the time it is formed.
 1. Discipline may be imposed on a Player, Manager, coach, or Member Franchise, including one or more of the following:
    1. Written warning or reprimand;
    1. Fine or fee;
