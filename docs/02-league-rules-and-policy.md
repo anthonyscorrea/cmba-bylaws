@@ -280,8 +280,7 @@ A team’s rosters as submitted to the Commissioner on or before June 1 shall co
 
 #### Roster Transactions
 Teams may add a total of five (5) players to the roster after the June 1 roster submission deadline. The total number of players on a team still may not exceed twenty-six (26). In order to add players between June 1 and July 1 but not exceed the 26 player limit, a team may drop players who were rostered on June 1.  No players may be added after July 1, except as set forth below.
-After July 1, upon request to the Rules and Competition Committee, a team may add a player if (i) the team’s roster has fallen (or, upon the removal of players “missing in action” as described below, will fall) below the 16 player minimum and (ii) doing so will, in the good faith determination of the Rules and Competition Committee, prevent the team from forfeiting games. 
-In order for a team to declare a player “missing in action” after July 1, (i) the player shall have (a) failed to appear at all of the team’s games occurring prior to such request or (b) suffered a season-ending injury after June 1 and (ii) the team must drop the player from its roster.
+After July 1, a team may, upon request to the Commissioner, add a player if (i) the team’s roster has fallen (or, upon removal of players designated as “missing in action” as described below, will fall) below the 16-player minimum and (ii) in the Commissioner’s good-faith determination, the addition is necessary to prevent the team from forfeiting games. To designate a player as “missing in action” after July 1, (i) the player must have either (a) failed to appear in all of the team’s games played before the request or (b) suffered a season-ending injury after June 1, and (ii) the team must remove that player from its roster.
 
 A team may drop players at any time as long as the team’s roster does not fall below the 16 player minimum.
 
@@ -295,7 +294,7 @@ Eligible players must be of at least eighteen (18) years of age by the date of t
 A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
 
 #### Postseason Player Eligibility
-Players must appear in at least five (5) games during the regular season in order to be eligible for postseason play. Upon request to the Rules and Competition Committee, exceptions may be made for players with long term injuries.
+Players must appear in at least five (5) regular-season games to be eligible for postseason play. Upon request to the Commissioner, an exception may be granted for a player with a long-term injury..
 
 #### Free Agents
 A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season if of an intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
