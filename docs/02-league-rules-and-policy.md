@@ -195,11 +195,9 @@ The Commissioner may levy fines to any League Member franchise or player subject
 1. Fines for a single incident shall not exceed fifty dollars ($50.00).
 
 ### Appeals
-1. A Member Franchise or Player may appeal a disciplinary or eligibility decision affecting them in accordance with this document. 
-1. Appeals shall be submitted within a timeframe established by the Commissioner.
-1. The Commissioner may review appeals directly or refer them for advisory review as appropriate.
-1. Decisions on appeal shall be final unless otherwise provided by the Constitution and Bylaws.
-1. The Board may exercise oversight with respect to disciplinary or eligibility matters when there is a credible concern regarding fairness, conflict of interest, or material deviation from League rules or procedures. In exercising such oversight, the Board may review the matter directly, direct reconsideration, or appoint an advisory committee. Any determination made by the Board pursuant to this subsection shall be final.
+1. A Manager or Player may appeal a disciplinary or eligibility decision by submitting a written appeal within the timeframe established by the Commissioner, unless a different deadline is expressly stated elsewhere in this document.
+1. The Commissioner may decide appeals directly or refer them for advisory review as appropriate.
+1. A Manager aggrieved by a discretionary or judgment decision of the Commissioner may request Board review within seventy-two (72) hours of the decision; the Board may, in its sole discretion, accept or decline review, and if it accepts review, it may affirm, modify, or reverse the Commissioner's decision by majority vote. The Board is not required to hold a hearing or provide a written explanation when declining review, and unless the Board grants a stay, the Commissioner's decision remains in effect pending Board review.  Decisions on appeal or Board review are final.
 
 ## Conduct and Discipline
 
