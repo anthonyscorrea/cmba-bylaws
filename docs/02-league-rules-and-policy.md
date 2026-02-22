@@ -410,8 +410,6 @@ All protests must be filed with the Commissioner within 48 hours of the alleged 
 #### Ruling
 Upon the filing of a protest with the Commissioner, the Commissioner shall call a meeting of the Rules and Competition Committee at the earliest possible date. Judgment regarding the merit of the protest shall be made after deliberation.
 
-Forfeiting teams must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in good standing as defined in [Classification; Standing](#classification-standing). Teams will be considered not in good standing until payment is made. In the event a team is unable to pay the umpire at the proper time, the team’s forfeit fee will be used to cover initial forfeits. The cost of additional forfeits will be paid by the team.
-
 ### Game Outcomes
 
 #### Technical forfeit
@@ -427,6 +425,7 @@ The opponent of a team in technical forfeit is entitled to a full (2) standings 
 #### Forfeit
 If a game is forfeited, the following applies:
 
+1. The forfeiting team must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in good standing as defined in [Classification; Standing](#classification-standing). Teams will be considered not in good standing until payment is made.
 1. The forfeiting team shall receive a loss and a minus two (-2) point standings penalty.
 1. The non-forfeiting team shall receive a 7 runs to 0 runs win in the standings and is entitled to a full (2) standings points.
 1. The forfeiting team must pay the full cost of umpire fees for the forfeited game.
