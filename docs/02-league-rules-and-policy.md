@@ -403,12 +403,12 @@ All teams are responsible for the maintenance and cleanup of the field and dugou
 The winning team shall be responsible for notifying the Commissioner of the score of the game no later than 10:00 AM the day after the game was played via text message, email, or telephone call. In the result of a forfeit, notification shall be immediately at the conclusion of the game.
 
 #### Notification of Protest
-Managers shall notify the league Commissioner at the earliest possible time after the game and provide umpire signature as proof of notification.
+Managers shall notify the league Commissioner of any formal [Protest](#protests) at the earliest possible time after the game and provide umpire signature as proof of notification.
 
-All protests must be filed with the Commissioner within 48 hours of the alleged infraction and on the League supplied form. All requested information must be accurately reported. Any Manager who knowingly falsifies information on the protest form will be fined and suspended as determined by the Commissioner, and that Manager’s team will forfeit the game.
+All requested information must be accurately reported. Any Manager who knowingly falsifies information will be subject to discipline up to and including game forfeiture charged to that Manager's team.
 
-#### Ruling
-Upon the filing of a protest with the Commissioner, the Commissioner shall call a meeting of the Rules and Competition Committee at the earliest possible date. Judgment regarding the merit of the protest shall be made after deliberation.
+#### Protest Ruling
+Upon the filing of a protest, the Commissioner may request advisory review or convene an advisory committee as otherwise provided in this document. The Commissioner shall gather relevant facts and deliberate on the merits before issuing a ruling. Rulings are subject to appeal and oversight as specified elsewhere in this document.
 
 ### Game Outcomes
 
