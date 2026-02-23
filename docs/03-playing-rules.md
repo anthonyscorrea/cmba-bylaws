@@ -1,9 +1,9 @@
 # Playing Rules
 
-## Playing Rules
-Except where specified in this document, games shall follow the Official Baseball Rules of Major League Baseball.
+## Incorporated Rules
+Except where specified in this document, games shall incorporate the Official Baseball Rules of Major League Baseball (the "Incorporated Rules").
 
-These rules shall not incorporate the following rules of Major League Baseball:
+These rules shall *not* incorporate the following rules of Major League Baseball:
 
 - Rule 4.03(c)(4) specifying limitations on when a position player can pitch.
 - Rule 5.02(c) specifying limitations on infielder placement.
@@ -64,7 +64,7 @@ Should a player suffer a debilitating injury during the game and cannot continue
 1. If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, a protest by the opposing team may retroactively be ruled as a forfeit.
 
 ## Designated Hitter
-The League shall follow the Major League designated hitter rule at all times, with the exception that a team may designate a D.H. for any position on the field.
+The League shall follow the designated hitter rule as set forth in the Incorporated Rules, with the exception that a team may designate a D.H. for any position on the field.
 
 ## Designated Runner
 The League shall elect to use a designated runner rule, similar to the designated hitter rule.
@@ -105,7 +105,7 @@ In regular season play, the defensive line-up is independent of the batting line
 
 1. Any player may be freely substituted in the defensive line-up at any time, without affecting the players’ in the batting line-up. Players may enter, exit, and re-enter the game in the defensive line-up without limitation.
 
-In postseason play, the free defensive substitution rule defined above shall not be applicable and substitutions shall be made in accordance to applicable League and MLB rules.
+In postseason play, the free defensive substitution rule defined above shall not be applicable and substitutions shall be made in accordance to applicable League and Incorporated Rules.
 
 ## Collisions
 NO COLLISIONS ARE ALLOWED, UNLESS THE CONTACT RESULTS FROM A SLIDE. It is the base runners responsibility to slide or avoid contact. Fielders and runners must abide by Official Baseball Rules regarding Interference, Obstruction, and Catcher Collisions.. 
