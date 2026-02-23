@@ -32,10 +32,10 @@ Except as otherwise expressly herein provided or as otherwise provided by law, t
 The League's Board of Directors shall be composed of at least three (3) Directors ("Director") or such other greater number of Directors established by the Board of Directors from time to time. An individual need not be a manager of a Member Franchise in order to be a Director.
 
 ### Election and Term of Office
-Directors shall be elected at the annual meeting of the League. The term of office of each Director shall be until the next annual meeting. Directors shall hold office until the expiration of the term for which such Director is elected and until such Director's successor has been elected or until the Director's death, resignation, or removal. Directors may serve successive terms.
+Directors shall be elected at the annual meeting of the League by the affirmative vote of a majority of Member Franchises in good standing. Each Member Franchise in good standing shall have one (1) vote, cast by its Manager or designated representative. The term of office of each Director shall be until the next annual meeting. Directors shall hold office until the expiration of the term for which such Director is elected and until such Director's successor has been elected or until the Director's death, resignation, or removal. Directors may serve successive terms.
 
 ### Resignation and Removal
-Any Director may resign by written notice delivered to the Board of Directors or to the Commissioner or Secretary of the League. Any Director may be removed, with or without cause, by the affirmative vote of a majority of the Directors then in office. Any vacancy may be filled by the Board of Directors.
+Any Director may resign by written notice delivered to the Board of Directors or to the Commissioner or Secretary of the League. Any Director may be removed, with or without cause, by the affirmative vote of a majority of the Directors then in office. Any vacancy may be filled by the Board of Directors until the next annual meeting, at which time the seat shall be submitted for election by Member Franchises in good standing.
 
 ### Compensation
 The Directors shall serve without compensation.
@@ -71,7 +71,7 @@ The Officers shall serve without compensation.
 ## Meetings of the Board
 
 ### Annual Meeting
-The Board of Directors shall hold its annual meeting after January 1 at a time and place set by the Commissioner. This meeting must be held in person, except in extenuating circumstances. The Board of Directors may invite a representative from each Member Franchise to attend the annual meeting.
+The Board of Directors shall hold its annual meeting after January 1 at a time and place set by the Commissioner. This meeting must be held in person, except in extenuating circumstances. Each Member Franchise in good standing may send one representative to participate in Director elections and other matters submitted to Member Franchises for vote.
 
 ### Additional Meetings
 Additional meetings of the Board of Directors may be called by the Commissioner or any Director.
