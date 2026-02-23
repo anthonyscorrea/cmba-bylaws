@@ -11,7 +11,7 @@ These rules shall not incorporate the following rules of Major League Baseball:
 - Rule 5.10(m)(1) limiting the number of mound visits.
 - Rule 5.10(g) requiring that pitchers must face at least three batters.
 - Rules 5.07(c) specifying time limits on pitchers and batters. Limitations on pitcher disengagements (i.e. pick-offs) shall also not be incorporated.
-
+- Any rule requiring specialized equipment or trained personnel, such as replay review.
 
 ## Regulation Games
 Games played under the auspices of both recognized Managers of the participating teams shall count as official. A regulation game is defined as follows
