@@ -108,9 +108,9 @@ In regular season play, the defensive line-up is independent of the batting line
 In postseason play, the free defensive substitution rule defined above shall not be applicable and substitutions shall be made in accordance to applicable League and Incorporated Rules.
 
 ## Collisions
-NO COLLISIONS ARE ALLOWED, UNLESS THE CONTACT RESULTS FROM A SLIDE. It is the base runners responsibility to slide or avoid contact. Fielders and runners must abide by Official Baseball Rules regarding Interference, Obstruction, and Catcher Collisions.. 
-Unless the umpire rules that the contact was incidental or the result of Obstruction by the fielder, the runner shall be called out, the ball declared dead and the runner automatically ejected from the game. Per [Flagrant Collisions](#flagrant-collisions). if the collision is determined by the umpire to be flagrant the player may be subject to the further penalty as defined in that section.
+Collisions are prohibited, except for contact that results from a legal slide. The runner is responsible for sliding or otherwise avoiding contact. Fielders and runners must comply with Incorporated Rules governing interference, obstruction, and collisions at home plate.
 
+Unless the umpire rules that the contact was incidental or caused by fielder obstruction, the runner shall be called out, the ball declared dead, and the runner automatically ejected. If the umpire determines the collision was flagrant, additional penalties may be imposed as applicable in League policy.
 
 ## Umpire Disputes
 Any umpire’s decision which involves judgment, as specified in the Incorporated Rules, are final. No player or manager shall object to any such judgment decisions. The appeal of umpire decisions shall be governed as set forth in the Incorporated Rules. No player, manager, coach or substitute shall object to judgment decisions. If there is reasonable doubt that any umpire’s decision may be in conflict with the rules, the manager may appeal the decision and ask that a correct ruling be made. 
