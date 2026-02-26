@@ -314,11 +314,13 @@ The League shall use a point system to determine the standings. A team is awarde
 ### Standings Tie-breakers
 In the event two teams finish the regular season in a tie for a position, the following tie-breaking procedure will take effect:
 
-1. Record in head-to-head competition.
-1. Record within the league.
-1. Record within the division (if applicable).
+1. Win-Loss Record in head-to-head competition.
+1. Win-Loss Record within the league.
+1. Win-Loss Record within the division (if applicable).
 1. Least runs allowed for the season.
 1. Coin toss, performed by the Commissioner with a witness.
+
+Win-loss record shall be computed using the point system as defined in [League Standings](#league-standings).
 
 ### Postseason Format
 The postseason format shall be determined by annual vote. 
