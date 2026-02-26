@@ -9,9 +9,9 @@ The Commissioner is responsible for the day-to-day administration of League oper
 ### Operational Rights of Member Franchises
 1. Member Franchises in good standing shall have the right to participate in League governance on matters of League operation as provided herein.
 1. Member Franchises shall have the right to appeal disciplinary or eligibility decisions affecting them in accordance with procedures set forth in this document.
-1. Member Franchises may provide input and vote in an advisory capacity on matters of League policy, administration, and operation. 
-1. Member Franchises may vote with binding effect on playing rules, competition rules, and on-field regulations, except where authority is otherwise reserved by this document or the Constitution and Bylaws. Each Member Franchise is entitled to one vote.
 1. Each Member Franchise is entitled to one vote in voting matters.
+      1. Member Franchises may provide input and vote in an advisory capacity on matters of League policy, administration, and operation. 
+      1. Member Franchises may vote with binding effect on playing rules, competition rules, and on-field regulations, except where authority is otherwise reserved by this document or the Constitution and Bylaws.
 1. Exercise of these rights is contingent upon the Member Franchise being in good standing.
 
 ### Budget
