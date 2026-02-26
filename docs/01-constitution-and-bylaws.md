@@ -16,7 +16,7 @@ Notwithstanding any other provisions of this Constitution and Bylaws (the "Bylaw
 
 1. No substantial part of the activities of the League shall be the carrying on of propaganda, or otherwise attempting to influence legislation, and the League shall not participate in, or intervene in (including the publication or distribution of statements) any political campaign on behalf of or in opposition to any candidate for public office.
 
-1. The League shall not conduct or carry on any activities not permitted to be conducted or carried on by an organization exempt from taxation under Section 501(c)(3) of the Code and its regulations as they now exist or as they may hereafter be amended, or by an organization, contributions to which are deductible under Section 170(c)(2) of the Code and regulations as they now exist or as they may hereafter be amended.
+1. The League shall not conduct or carry on any activities not permitted to be conducted or carried on by an organization exempt from taxation under state or federal law.
 
 ## Principal Office. 
 The League shall have and continuously maintain a principal office at such location in the State of Illinois as may be determined by the League's Board of Directors.
