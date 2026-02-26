@@ -49,64 +49,94 @@ An umpire, in their discretion, may declare a game called if
 ## Game Equipment and Uniforms
 Games shall be played with legal baseball equipment and player uniforms as required by League Rules and Policy.
 
-## Minimum Number of Players
-The minimum number of players per team shall be (9), however teams may play with (8) players subject to standings penalty per League policy.  
+## Lineups 
 
-If each team has at least (8) players present, teams must start the game. League policy may designate a "forfeit time," the period after which a team with less than the minimum is subject to penalty. A team may not wait until this forfeit time for players to arrive. 
+### Lineup Format
+The [Expanded Lineup Format](#expanded-lineup-format) shall apply unless League policy expressly provides for the Restricted Lineup Format (e.g., playoffs or championship games).
 
-1. In the event a team starts a game with eight (8) players, the ninth spot in the batting order shall be considered an out recorded to the pitcher. A team may insert a ninth player in the vacant ninth spot after the start of play.
-1. Should a team fall below (8) players, the game is terminated and this team loses by forfeit.
+### Expanded Lineup Format
 
-A team may finish the game a player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) person line-up, nine (9) players for a ten (10) person lineup), provided the team does not fall below this minimum. Any vacated spot in the batting order is recorded as an out.
+In the Expanded Lineup Format, a team’s batting lineup shall constitute not fewer than nine (9) batting positions. Additional batting positions may be declared at lineup exchange without limit. The number of batting positions declared shall remain fixed for the duration of the game. If, for any other reason, a batting position is or becomes unoccupied, that lineup position shall be recorded as an out each time it appears in the batting order.
 
-## Player Injuries
+A player substituted from the batting order may not re-enter the batting order unless otherwise permitted herein. Defensive substitutions may be made freely at any time and do not affect the batting order. Players may enter, exit, and re-enter defensively without limitation.
+
+The following lineup designations are permitted, but not required, in Expanded Lineup Format:
+
+- Any number of Extra Hitters
+- (1) Designated Runner
+- Courtesy Runner for the pitcher and catcher
+
+!!! Note
+      A player occupying the Extra Hitter position may assume any defensive position at any time without affecting the batting order. Likewise, a player currently in the defensive alignment may be reassigned to the Extra Hitter position without affecting the batting order. In the Expanded Lineup Format, changes in defensive alignment do not alter the order or occupancy of batting positions.
+      
+      Because defensive alignment does not govern the batting order in the Expanded Lineup Format, the Designated Hitter designation does apply in Expanded Lineup Format. Any player marked as a DH will be considered an error and assumed to be an EH.
+
+#### Shared Batting Positions
+In the Expanded Lineup Format, any batting position may be designated at lineup exchange as shared by two players (“A” and “B”). The two players shall bat in alternating sequence each time that position appears in the order, beginning with the player designated “A.”
+
+A player occupying a shared batting position may be substituted. A substitute assumes the same alternating designation (A or B), and the position remains shared provided two occupants are maintained.
+
+If a shared batting position is reduced to a single occupant and no substitute is entered to maintain two occupants, the position shall thereafter be treated as a single-player position and may not again be shared during that game.
+    
+### Restricted Lineup Format
+In the Restricted Lineup Format, a team’s batting lineup shall constitute not fewer than nine (9) batting positions. Additional batting positions may be declared at lineup exchange without limit by using additional Extra Hitters. The number of batting positions declared shall remain fixed for the duration of the game.
+
+Each batting position shall be occupied by a single player. Shared batting positions are not permitted.
+
+If, for any other reason, a batting position is or becomes unoccupied, that lineup position shall be recorded as an out each time it appears in the batting order, unless otherwise provided in the Incorporated Rules, these Rules, or League policy.
+
+A player substituted from the batting order may not re-enter the game unless permitted by the Incorporated Rules. Defensive substitutions shall be governed by the Incorporated Rules. Defensive re-entry is not permitted unless otherwise allowed by those rules.
+
+The following lineup designations are permitted, but not required, in Restricted Lineup Format:
+
+- (1) Designated Hitter
+- Any number of Extra Hitters
+- (1) Designated Runner
+- Courtesy Runner for the pitcher and catcher
+
+### Minimum Number of Players
+The minimum number of players per team shall be established as the number of required batting positions as governed by the applicable Lineup Format.
+
+Teams may play with (1) fewer player and if each team has at least this many players present, they must start the game. 
+
+League policy may apply standings penalty for teams that start with fewer than the minimum.  League policy may also designate a "forfeit time," the period after which a team with less than the minimum is subject to penalty. A team may not wait until this forfeit time for players to arrive. A team may insert a player into the vacant spot after the start of play.
+
+Any unoccupied patting positions are shall be recorded as an out each time it appears in the batting order unless otherwise provided in these Rules, or League policy. 
+
+A team may finish the game (1) player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) person line-up, nine (9) players for a ten (10) person lineup). Should a team fall below (8) players, the game is terminated and this team loses by forfeit.
+
+!!! Note "Example" 
+      For a game subject to the Expanded Lineup, the required batting positions are nine (9), so as soon as each team has eight (8) players, the game must start. 
+
+      If a team starts with (8) the vacant ninth spot is an automatic out each time it comes up. If the ninth player arrives after first pitch, that player may be inserted into the vacant spot.
+
+
+### Lineup Designations
+#### Designated Hitter (DH)
+A Designated Hitter may bat for any defensive player. If the defensive player for whom the DH bats enters the batting order, the DH is terminated. Substitution rules apply consistent with the applicable Lineup Format.
+
+#### Extra Hitter (EH)
+
+An Extra Hitter is a batting-only lineup position and may not be used in the field as an extra defensive fielder. For substitution and lineup-administration purposes, an EH position shall be treated the same as a defensive position and may be substituted, re-entered, or reassigned in as governed by the applicable Lineup Format.
+
+#### Designated Runner (DR)
+A Designated Runner may run for a specified batting position whenever the player occupying that batting position safely reaches base. If the defensive player for whom the DR bats enters the batting order, the DR is terminated. Substitution of either player is governed by the applicable Lineup Format.
+
+Teams with no eligible players remaining on the bench (i.e. all players are in the batting lineup) may elect to use the player that made the last out as the designated runner.
+
+#### Courtesy Runner (CR)
+A Courtesy Runner may be used for pitchers or catchers at any time. It is not mandatory to do so.
+
+A Courtesy Runner must not otherwise have participated in the game unless no eligible substitute remains. In this case, teams must use the first player taken out of the game or the player that made the last out.
+
+Pitchers or catchers must record at least one (1) defensive out to be eligible, unless reaching base in the first inning as the visiting team.
+
+### Injury Substitutions
+Substitutions are governed by the applicable Lineup Format with the following exception:
+
 Should a player suffer a debilitating injury during the game and cannot continue, and a team has no more eligible players on its bench, a team can use a player that was removed from the game to replace him. This replacement player must be the first player removed from the game, and if this player is unavailable the next player is used (and so on). If no reserve is present, the vacated spot in the lineup is skipped and all batters move up accordingly, with no penalty to the affected team.
 
-1. If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, a protest by the opposing team may retroactively be ruled as a forfeit.
-
-## Designated Hitter
-The League shall follow the designated hitter rule as set forth in the Incorporated Rules, with the exception that a team may designate a D.H. for any position on the field.
-
-## Designated Runner
-The League shall elect to use a designated runner rule, similar to the designated hitter rule.
-
-1. A runner may be designated to run for a specified player in any game without otherwise affecting the status of the player(s) in the game.
-1. The designated runner must take the place of the specified player whenever that player reaches base or the designated runner. 
-1. If the specified player is substituted, this substitute player may inherit the designated runner.
-1. Designated runners are subject to the same substitution rules as the designated hitter as defined in [Designated Hitter](#designated-hitter)
-1. Teams with no eligible players remaining on the bench (i.e. all players are in the batting lineup) may elect to use the player that made the last out as the designated runner.
-
-## Extra Hitter
-Prior to the start of the game a team may choose to play an extra hitter (EH). If the team uses this option, the following conditions apply:
-
-1. An EH shall only bat. They cannot take a position in the field as a tenth fielder.
-1. The EH shall be treated like any other position in the field, and can be substituted for, switch positions, or anything else that a position player can do.
-1. There is no limit to the number of extra hitters a team may elect to use, provided the names and numbers of these players are included in the lineup exchanged before the game.
-
-## Courtesy Runner
-Teams may use courtesy runners for pitchers and catchers at any time. It is not mandatory to do so (speed-up rule), but the umpire(s) are required to keep the game moving expeditiously.
-
-1. Courtesy runners for pitchers and catchers cannot be, or have been, in the game at any time other than as a courtesy runner. Teams with no eligible players remaining on the bench must use the first player taken out of the game or the player that made the last out.
-1. The pitcher or catcher must play at least one (1) defensive out to be eligible for a courtesy runner unless they reach base in the first inning as a member of the visiting team.
-
-## Batting Lineup
-The batting lineup shall consist of at minimum 9 slots (or 8 adhering to section [Minimum Number of Players](#minimum-number-of-players)). Additional slots may be used without limit (see [Extra Hitter](#extra-hitter)). Any player may be substituted in their batting lineup slot by using a pinch-hitter or pinch-runner for that player. The original player may not re-enter the game as a hitter.
-
-## A/B Batting Lineup Slots
-In regular season play, any batting lineup slot may be optionally designated as an "A/B" batting slot, meaning it is shared between two players adhering to the following rules:
-
-1. The batter designated "A" shall bat the first time through the lineup and the batter designated "B" batting the second time through the lineup, continuing in alternating fashion for the remainder of the game. 
-2. Rules for the substitutions of either "A" or "B" batter are the same as any other batting lineup slot.
-3. In the event of injury of either player when there are no reserve players available, the uninjured player shall bat in place of the injured player without penalty.
-
-In postseason play, the A/B batting slot rule defined above shall not be applicable.
-
-## Defensive Lineup
-In regular season play, the defensive line-up is independent of the batting lineup and substitutions shall be allowed as follows:
-
-1. Any player may be freely substituted in the defensive line-up at any time, without affecting the players’ in the batting line-up. Players may enter, exit, and re-enter the game in the defensive line-up without limitation.
-
-In postseason play, the free defensive substitution rule defined above shall not be applicable and substitutions shall be made in accordance to applicable League and Incorporated Rules.
+If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, the pending team may be subject to penalty, up to and including forfeit following a succesful protest in accordance with League policy.
 
 ## Collisions
 Collisions are prohibited, except for contact that results from a legal slide. The runner is responsible for sliding or otherwise avoiding contact. Fielders and runners must comply with Incorporated Rules governing interference, obstruction, and collisions at home plate.
