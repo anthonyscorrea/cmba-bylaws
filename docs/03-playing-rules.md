@@ -50,13 +50,14 @@ An umpire, in their discretion, may declare a game called if
 Games shall be played with legal baseball equipment and player uniforms as required by League Rules and Policy.
 
 ## Minimum Number of Players
-Teams must start the game at the scheduled starting time if they have a minimum of (8) players present. League policy may designate a forfeit time after which a team with less than the minimum is subject to forfeit. A team may not wait until this forfeit time for players to arrive. The game must begin as soon as a team reaches this minimum.
+The minimum number of players per team shall be (9), however teams may play with (8) players subject to standings penalty per League policy.  
+
+If each team has at least (8) players present, teams must start the game. League policy may designate a "forfeit time," the period after which a team with less than the minimum is subject to penalty. A team may not wait until this forfeit time for players to arrive. 
 
 1. In the event a team starts a game with eight (8) players, the ninth spot in the batting order shall be considered an out recorded to the pitcher. A team may insert a ninth player in the vacant ninth spot after the start of play.
-1. The vacated spot in the batting order shall be considered an automatic out.
-1. Should a team fall below the minimum, the game is terminated and the team loses by forfeit.
+1. Should a team fall below (8) players, the game is terminated and this team loses by forfeit.
 
-A team may finish the game a player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) man line-up, nine (9) players for a ten (10) man), provided the team does not fall below this minimum.
+A team may finish the game a player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) person line-up, nine (9) players for a ten (10) person lineup), provided the team does not fall below this minimum. Any vacated spot in the batting order is recorded as an out.
 
 ## Player Injuries
 Should a player suffer a debilitating injury during the game and cannot continue, and a team has no more eligible players on its bench, a team can use a player that was removed from the game to replace him. This replacement player must be the first player removed from the game, and if this player is unavailable the next player is used (and so on). If no reserve is present, the vacated spot in the lineup is skipped and all batters move up accordingly, with no penalty to the affected team.
