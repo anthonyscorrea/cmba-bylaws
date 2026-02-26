@@ -4,7 +4,7 @@
 The name of the corporation as incorporated and existing under and by virtue of the Illinois General Not for Profit Corporation Act of 1986, as amended ("the Act") shall be the Chicago Metropolitan Baseball League (the "League"). The League shall have powers as are now or as may hereafter be granted by the Act.
 
 ## Purpose
-This League is organized exclusively for such social and athletic purposes as will qualify under Illinois statue for a non-profit corporation. It has been formed for the purpose of serving its member franchises ("Member Franchises") by organizing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the League and its community.
+This League is organized exclusively for such social and athletic purposes as will qualify under Illinois statute for a non-profit corporation. It has been formed for the purpose of serving its member franchises ("Member Franchises") by organizing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the League and its community.
 
 ## Powers
 The League shall have and exercise all rights and powers conferred on corporations under the Act, provided, however, that the League is not empowered to engage in any activity which in itself is not in furtherance of its purposes and limitations as set forth in these Constitutions and Bylaws.

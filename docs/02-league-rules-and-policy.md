@@ -190,7 +190,7 @@ The Commissioner may levy fines to any League Member franchise or player subject
 
 1. Late payment of annual dues shall incur a penalty of ten dollars ($10.00) per week, not to exceed five (5) weeks.
 1. Members in violation of the above shall be placed on temporary suspension for a period of two (2) weeks.
-1. Members who have not paid outstanding dues by the end of the two week suspension shall be placed on indefinite suspension until all dues are paid. Members who have not paid outstanding dues by the end of the two week suspension shall be placed on indefinite suspension until all dues are paid.
+1. Members who have not paid outstanding dues by the end of the two week suspension shall be placed on indefinite suspension until all dues are paid.
 1. A forfeit fee may be assessed per forfeited game.
 1. Fines for a single incident shall not exceed fifty dollars ($50.00).
 
@@ -243,7 +243,7 @@ Prohibited conduct includes, but is not limited to:
 Unless stronger discipline is warranted by the circumstances:
 
 1. Any player who instigates a phyiscal fight shall be suspended for not less than one (1) full season and may be fined.
-1. Any player or coach who participates in a physical fight shall be suspended for three (3) games and fined fifty dollars ($50.00).
+1. Any player or coach who participates in a phyiscal fight shall be suspended for three (3) games and fined fifty dollars ($50.00).
 1. Any player or coach who physically assaults an umpire shall be permanently expelled from the League and may be reported to law enforcement as required.
 1. A player ejected for a flagrant collision shall be suspended for three (3) games and fined thirty dollars ($30.00).  
    1. A second offense shall result in suspension for the remainder of the season, including postseason.  
@@ -290,11 +290,11 @@ Any and all roster changes shall be submitted to the Commissioner and satisfy th
 If a team would otherwise be required to forfeit or technically forfeit a game after June 1 due to a lack of eligible players in attendance, the team can use one (but not more than one) of its former players (“alumni”) in that game. The team’s Manager shall inform the opposing team’s Manager and the Commissioner as soon as possible (and in no event later than the first pitch) the intention to use an alumni player and will provide to the opposing team’s Manager and the Commissioner with the alumni player’s name, age, bats/throws, position and uniform number. Alumni players are not eligible to play in the playoffs.
 
 #### Eligible Players
-Eligible players must be of at least eighteen (18) years of age by the date of the teams first +game. No player may play for more than one team in a season (either before or after June 1).
+Eligible players must be of at least eighteen (18) years of age by the date of the teams first game. No player may play for more than one team in a season (either before or after June 1).
 A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
 
 #### Postseason Player Eligibility
-Players must appear in at least five (5) regular-season games to be eligible for postseason play. Upon request to the Commissioner, an exception may be granted for a player with a long-term injury..
+Players must appear in at least five (5) regular-season games to be eligible for postseason play. Upon request to the Commissioner, an exception may be granted for a player with a long-term injury.
 
 #### Free Agents
 A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season if of an intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
@@ -374,7 +374,7 @@ Uniform compliance is required in order to protect League competitive integrity,
 1. A Player may not wear or borrow another rostered Player’s jersey or number to satisfy this rule.
 1. By each Member Franchise’s first regular-season game, all rostered Players are required to be in compliant uniforms.
 1. If a Member Franchise cannot meet full compliance due to extenuating circumstances, its Manager must notify the Commissioner or designated League officer before game time, state the reason, and provide a date certain for correction.
-1. Any Manager who observes a material uniform violation is encouraged to report it promptly to the Commissioner. Reporting does imply a request for forfeit. Umpires are also encouraged to note and report uniform issues.
+1. Any Manager who observes a material uniform violation is encouraged to report it promptly to the Commissioner. Reporting does not imply a request for forfeit. Umpires are also encouraged to note and report uniform issues.
 1. The Commissioner may impose discipline for uniform non-compliance, including warnings, corrective deadlines, fines, temporary player ineligibility, and other remedies authorized by League rules. In determining the appropriate discipline, the Commissioner may consider factors including bad faith, repeated non-compliance, and refusal to comply with a League directive. Penalties may be imposed up to and including game forfeits.
 
 #### Umpires
@@ -385,7 +385,7 @@ Umpires are to be paid on the field promptly upon request.
 Should a league sanctioned umpire fail to appear at game time, the teams can choose to play the game with an umpire(s) of mutual choosing. The Commissioner needs to be informed by both teams prior to the start of the game to make it official.
 
 #### Minimum Number of Players
-Forfeit time shall be 20 minutes after the scheduled starting time. If a ninth player does not arrive or arrives after forfeit time, the team shall be in technical forfeit, as defined in [Forfeits](#forfeits).
+Forfeit time shall be 20 minutes after the scheduled starting time. 
 
 1. A team may begin a game with eight (8) players up to two (2) times in one season. A team that fails to field nine (9) players at the start of the game after receiving 2 (two) prior technical forfeits shall forfeit all subsequent games.
 1. A team in technical forfeit shall remain in technical forfeit, regardless of the number of players with which it finished the game.
