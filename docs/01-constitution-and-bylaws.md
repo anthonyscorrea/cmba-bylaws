@@ -18,10 +18,10 @@ Notwithstanding any other provisions of this Constitution and Bylaws (the "Bylaw
 
 1. The League shall not conduct or carry on any activities not permitted to be conducted or carried on by an organization exempt from taxation under state or federal law.
 
-## Principal Office. 
+## Principal Office
 The League shall have and continuously maintain a principal office at such location in the State of Illinois as may be determined by the League's Board of Directors.
 
-## Registered Office and Agent. 
+## Registered Office and Agent
 The League shall have and maintain a registered office and agent in the State of Illinois in accordance with the requirements of the act. 
 
 ## Directors
