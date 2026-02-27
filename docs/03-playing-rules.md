@@ -18,20 +18,20 @@ These rules shall *not* incorporate the following rules of Major League Baseball
 - Any rule requiring specialized equipment or trained personnel, such as replay review.
 
 ## Pre-Game Meeting
-Before first pitch, the Managers and the umpire-in-chief shall conduct a pre-game meeting. A Manager may designate a team delegate to attend on the Manager’s behalf. At this meeting, the teams shall exchange lineups and review any applicable field or ground rules with the umpire.
+Before first pitch, the Managers and the umpire-in-chief shall conduct a pre-game meeting. A Manager may designate a team delegate to attend on the Manager’s behalf. At this meeting, the teams shall exchange lineups and review any applicable ground rules with the umpire.
 
 ## Regulation Games
 Games played under the auspices of both recognized Managers of the participating teams shall count as official. A regulation game is defined as follows
 
 1. A regulation game is scheduled for seven (7) innings.
-2. A game becomes a regulation game after four (4) completed innings, or after 3 1/2 innings if the home team is ahead.
-3. If the score is tied after seven (7) completed innings, play shall continue until a winner is determined, unless the game is called and recorded as a tie under applicable called-game provisions.
-4. The run-rule, or "Slaughter Rule", thresholds are:
+1. A game becomes a regulation game after four (4) completed innings, or after 3 1/2 innings if the home team is ahead.
+1. If the score is tied after seven (7) completed innings, play shall continue until a winner is determined, unless the game is called and recorded as a tie under applicable called-game provisions.
+1. The run-rule, or "Slaughter Rule", thresholds are:
       1. Fifteen (15) runs after four (4) complete innings, or after 3 1/2 innings if the home team is ahead;
-      2. Twelve (12) runs after five (5) complete innings, or after 4 1/2 innings if the home team is ahead.
-      3. Ten (10) runs after three (3) complete innings in a game that is called under applicable called-game provisions.
-5. If a game is called before it becomes a regulation game, it is a “No Game” and shall be replayed from the start, unless otherwise required by provisions in League Policy.
-6. Exceptions, including completion requirements for suspended games, are governed by League Policy (e.g., in the case of playoff or championship games).
+      1. Twelve (12) runs after five (5) complete innings, or after 4 1/2 innings if the home team is ahead.
+      1. Ten (10) runs after three (3) complete innings in a game that is called under applicable called-game provisions.
+1. If a game is called before it becomes a regulation game, it is a “No Game” and shall be replayed from the start, unless otherwise required by provisions in League Policy.
+1. Exceptions, including completion requirements for suspended games, are governed by League Policy (e.g., in the case of playoff or championship games).
 
 ### Reasons for a Game to be Called
 An umpire, in their discretion, may declare a game called if

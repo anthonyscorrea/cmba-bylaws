@@ -1,17 +1,17 @@
 # League Policy
 
 ## Authority and Applicability
-This Policy document ("League Policy") is adopted pursuant to the League’s Constitution and Bylaws and governs the operational rules, procedures, and competitive structure of the League. In the event of a conflict between this document and the Constitution and Bylaws, the Constitution and Bylaws shall control.
+This Policy document ("League Policy") is adopted pursuant to the League’s Bylaws and governs the operational rules, procedures, and competitive structure of the League. In the event of a conflict between this document and the Bylaws, the Bylaws shall control.
 
 ## League Governance
-The Commissioner is responsible for the day-to-day administration of League operations in accordance with the Constitution and Bylaws and League Policy. The Board provides oversight of League operations and may review or direct actions of the Commissioner.
+The Commissioner is responsible for the day-to-day administration of League operations in accordance with the Bylaws and League Policy. The Board provides oversight of League operations and may review or direct actions of the Commissioner.
 
 ### Operational Rights of Member Franchises
 1. Member Franchises in Good Standing shall have the right to participate in League governance on matters of League operation as provided herein.
 1. Member Franchises shall have the right to appeal disciplinary or eligibility decisions affecting them in accordance with procedures set forth in this document.
 1. Each Member Franchise is entitled to one vote in voting matters.
       1. Member Franchises may provide input and vote in an advisory capacity on matters of League policy, administration, and operation. 
-      1. Member Franchises may vote with binding effect on playing rules, competition rules, and on-field regulations, except where authority is otherwise reserved by this document or the Constitution and Bylaws.
+      1. Member Franchises may vote with binding effect on playing rules, competition rules, and on-field regulations, except where authority is otherwise reserved by this document or the Bylaws.
 1. Exercise of these rights is contingent upon the Member Franchise being in Good Standing.
 
 ### Budget
@@ -56,8 +56,8 @@ The Committee shall issue findings and recommendations to the Commissioner or Bo
 
 ## Amendments and Rule Changes
 
-### Constitution and Bylaws
-Amendments to the Constitution and Bylaws are governed exclusively by the procedures set forth therein. Nothing in League Policy shall modify or supersede those requirements.
+### Bylaw Amendments
+Amendments to the Bylaws are governed exclusively by the procedures set forth therein. Nothing in League Policy shall modify or supersede those requirements.
 
 ### League Policy Amendments
 1. League Policy may be amended to address League operations, administration, discipline, or procedures.
@@ -188,7 +188,7 @@ Tampering, or poaching, is defined as the deliberate solicitation, without conse
 Member Franchises are expected to prioritize their commitments to the League. Participation in outside leagues is permitted by agreement with the League. Participation in outside leagues does not relieve a Member Franchise or its Players of League obligations, including playing games on their League-scheduled dates and times. Violations of this provision may result in disciplinary action.
 
 ### Penalties and Fees
-The Commissioner may levy fines to any League Member franchise or player subject to Board oversight. Fines may be levied for violation of this Constitution and its Bylaws or conduct unbecoming of a representative of the League. The penalties and amounts set forth in this section are operational in nature and may be adjusted by the Commissioner with Board oversight, unless otherwise specified. 
+The Commissioner may levy fines to any League Member franchise or player subject to Board oversight. Fines may be levied for violation of Bylaws or Policies or conduct unbecoming of a representative of the League. The penalties and amounts set forth in this section are operational in nature and may be adjusted by the Commissioner with Board oversight, unless otherwise specified. 
 
 1. Late payment of annual dues shall incur a penalty of ten dollars ($10.00) per week, not to exceed five (5) weeks.
 1. Members in violation of the above shall be placed on temporary suspension for a period of two (2) weeks.
@@ -202,7 +202,7 @@ The Commissioner may levy fines to any League Member franchise or player subject
 1. A Manager aggrieved by a discretionary or judgment decision of the Commissioner may request Board review within seventy-two (72) hours of the decision; the Board may, in its sole discretion, accept or decline review, and if it accepts review, it may affirm, modify, or reverse the Commissioner's decision by majority vote. The Board is not required to hold a hearing or provide a written explanation when declining review, and unless the Board grants a stay, the Commissioner's decision remains in effect pending Board review.  Decisions on appeal or Board review are final.
 
 ## Annual League Meeting
-The League shall hold an annual meeting in according with the Constitution and Bylaws. Quorum and voting thresholds are governed by the Constitution and Bylaws. The annual meeting process shall consist of the following stages:
+The League shall hold an annual meeting in according with the Bylaws. Quorum and voting thresholds are governed by the Bylaws. The annual meeting process shall consist of the following stages:
 
 ### Pre-Meeting of the Current Board
 Prior to the annual meeting, the current Board shall convene to prepare and approve the proposed agenda, voting items, and supporting materials for member review.
@@ -218,17 +218,17 @@ The annual meeting shall include the Board and Member Franchises in Good Standin
 1. Confidence votes on League Officers (including Commissioner, Treasurer, and Secretary).
 1. Discussion of any Policy or Rules amendments.
 
-Unless otherwise provided in the Constitution and Bylaws, advisory and confidence votes are non-binding and are intended to guide Board action.
+Unless otherwise provided in the Bylaws, advisory and confidence votes are non-binding and are intended to guide Board action.
 
 ### Post-Meeting of the Newly Constituted Board
 Following the annual meeting, the newly constituted Board shall convene to:
 
-1. Confirm or appoint League Officers as required by the Constitution and Bylaws;
+1. Confirm or appoint League Officers as required by the Bylaws;
 1. Consider advisory vote results and adopt final operating decisions;
 1. Approve or reject new Member Franchises;
 1. Assign committees, roles, and implementation responsibilities for the upcoming season.
 
-This shall constitute the Board's annual meeting requirements as required by the Constitution and Bylaws
+This shall constitute the Board's annual meeting requirements as required by the Bylaws
 
 ## Conduct and Discipline
 
@@ -303,7 +303,7 @@ The Commissioner shall maintain official League communication channels to publis
 ### Team Rosters; Players and Eligibility
 
 #### Roster Deadline; Roster Size
-Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the Commissioner no later than June 1 of each year. Any team that does not submit its roster to the Commissioner by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in Good Standing. Consequences of not being in Good Standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-Managers).  
+Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the Commissioner no later than June 1 of each year. Any team that does not submit its roster to the Commissioner by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in Good Standing. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted.  
 Each team’s roster must contain a minimum of sixteen (16) players and shall not exceed twenty-six (26) players, in each case, excluding non-playing Managers and coaches. 
 
 #### Roster Information Requirements
@@ -334,10 +334,10 @@ All games not completed by the end of the regular season shall count as losses f
 The League shall use a point system to determine the standings. A team is awarded:
 
 1. Two (2) points for a win (including a win against a team in technical forfeit)
-1. One (1) point for a win while in technical forfeit (see [Forfeits](#forfeits))
+1. One (1) point for a win while in technical forfeit (see [Technical Forfeit](#technical-forfeit))
 1. One (1) point for a tie game
 1. Zero (0) points for a loss
-1. Minus two (-2) points for a loss by forfeit (see [Forfeits](#forfeits)).
+1. Minus two (-2) points for a loss by forfeit (see [Forfeit](#forfeit)).
 
 ### Standings Tie-breakers
 In the event two teams finish the regular season in a tie for a position, the following tie-breaking procedure will take effect:
@@ -441,7 +441,7 @@ Forfeit time shall be 20 minutes after the scheduled starting time.
 1. A team may begin a game with eight (8) players up to two (2) times in one season. A team that fails to field nine (9) players at the start of the game after receiving 2 (two) prior technical forfeits shall forfeit all subsequent games.
 1. A team in technical forfeit shall remain in technical forfeit, regardless of the number of players with which it finished the game.
 
-If a ninth player does not arrive or arrives after forfeit time, the team shall be in technical forfeit, as defined in [Forfeits](#forfeits).
+If a ninth player does not arrive or arrives after forfeit time, play may continue, but the short team shall be in technical forfeit, as defined in [Technical Forfeit](#technical-forfeit).
 
 ####  Protests
 Protests may only be made on the grounds of a violation of a rule stated in League policy or playing rules. Protests may not, under any circumstances, be based on the judgment of an umpire’s call. The protesting team’s Manager must notify the umpire of the protest at the time the violation occurred. 
@@ -463,7 +463,7 @@ Upon the filing of a protest, the Commissioner may request advisory review or co
 
 ### Game Outcomes
 
-#### Technical forfeit
+#### Technical Forfeit
 If a team is in technical forfeit status, the game may proceed as permitted by Playing Rules, but the following applies:
 
 1. A team in technical forfeit that wins shall receive one (1) standings point for that game.
@@ -476,7 +476,7 @@ The opponent of a team in technical forfeit is entitled to a full (2) standings 
 #### Forfeit
 If a game is forfeited, the following applies:
 
-1. The forfeiting team must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in Good Standing as defined in [Classification; Standing](#classification-standing). Teams will be considered not in Good Standing until payment is made.
+1. The forfeiting team must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in Good Standing. Teams will be considered not in Good Standing until payment is made.
 1. The forfeiting team shall receive a loss and a minus two (-2) point standings penalty.
 1. The non-forfeiting team shall receive a 7 runs to 0 runs win in the standings and is entitled to a full (2) standings points.
 1. The forfeiting team must pay the full cost of umpire fees for the forfeited game.

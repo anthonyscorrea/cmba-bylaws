@@ -1,4 +1,4 @@
-site_name: CMBA Constitution and By-Laws
+site_name: CMBA Bylaws, Policy, and Playing Rules
 docs_dir: ../docs
 
 # Prevent accidental publishing of repo/CI/dev clutter
@@ -26,8 +26,8 @@ markdown_extensions:
   # - tables
 nav:
   - Home: index.md
-  - 01-constitution-and-bylaws.md
-  - 02-league-rules-and-policy.md
+  - 01-bylaws.md
+  - 02-policy.md
   - 03-playing-rules.md
 
 plugins:

@@ -2,7 +2,7 @@
 <img src="docs/assets/cmba-logo.svg" width="200">
 </p>
 
-# CMBA Constitution and Bylaws
+# CMBA Bylaws, Policies, and Playing rules
 
 The Constitution and Bylaws for the baseball league known as the [Chicago Metropolitan Baseball Association (CMBA)](#about-the-cmba).
 

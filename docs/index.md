@@ -1,1 +1,1 @@
-# CMBA Constitution and By-Laws
+# CMBA Bylaws, Policy, and Playing Rules
