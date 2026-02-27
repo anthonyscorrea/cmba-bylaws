@@ -13,8 +13,8 @@ These rules shall *not* incorporate the following rules of Major League Baseball
 - Rule(s) incorporating the parameters of the Extra Innings Rule, which includes starting each half-inning following the last regulation inning with a runner on second base.
 - Rule(s) limiting the number of mound visits per game. Limitations on visits per inning still apply.
 - Rule(s) requiring that pitchers must face at least three batters.
-- Rules(s) specifying time limits on pitchers and batters. 
-- Rules(s) limitating pitcher disengagements (i.e. pick-offs).
+- Rule(s) specifying time limits on pitchers and batters. 
+- Rule(s) limitating pitcher disengagements (i.e. pick-offs).
 - Any rule requiring specialized equipment or trained personnel, such as replay review.
 
 ## Pre-Game Meeting
@@ -40,7 +40,7 @@ An umpire, in their discretion, may declare a game called if
 1. Rain, lightning, or other inclement weather precludes safe conditions.
 1. A new inning would start after 8:15 p.m at a field without lights.
 1. Local laws or field rules (e.g. lightning detector) prevent continuation of the game.
-1. Other circumstances prevent further safe play. League policy may dictate any forfeit or penalty as applicable.
+1. Other circumstances prevent further safe play. League Policy may dictate any forfeit or penalty as applicable.
 
 ## Game Equipment and Uniforms
 Games shall be played with legal baseball equipment and player uniforms as required by League Rules and Policy.
@@ -48,7 +48,7 @@ Games shall be played with legal baseball equipment and player uniforms as requi
 ## Lineups 
 
 ### Lineup Format
-The [Expanded Lineup Format](#expanded-lineup-format) shall apply unless League policy expressly provides for the Restricted Lineup Format (e.g., playoffs or championship games).
+The [Expanded Lineup Format](#expanded-lineup-format) shall apply unless League Policy expressly provides for the Restricted Lineup Format (e.g., playoffs or championship games).
 
 ### Expanded Lineup Format
 
@@ -79,7 +79,7 @@ In the Restricted Lineup Format, a team’s batting lineup shall constitute not 
 
 Each batting position shall be occupied by a single player. Shared batting positions are not permitted.
 
-If, for any other reason, a batting position is or becomes unoccupied, that lineup position shall be recorded as an out each time it appears in the batting order, unless otherwise provided in the Incorporated Rules, these Rules, or League policy.
+If, for any other reason, a batting position is or becomes unoccupied, that lineup position shall be recorded as an out each time it appears in the batting order, unless otherwise provided in the Incorporated Rules, these Rules, or League Policy.
 
 A player substituted from the batting order may not re-enter the game unless permitted by the Incorporated Rules. Defensive substitutions shall be governed by the Incorporated Rules. Defensive re-entry is not permitted unless otherwise allowed by those rules.
 
@@ -95,9 +95,9 @@ The minimum number of players per team shall be established as the number of req
 
 Teams may play with (1) fewer player and if each team has at least this many players present, they must start the game. 
 
-League policy may apply standings penalty for teams that start with fewer than the minimum.  League policy may also designate a "forfeit time," the period after which a team with less than the minimum is subject to penalty. A team may not wait until this forfeit time for players to arrive. A team may insert a player into the vacant spot after the start of play.
+League Policy may apply standings penalty for teams that start with fewer than the minimum.  League Policy may also designate a "forfeit time," the period after which a team with less than the minimum is subject to penalty. A team may not wait until this forfeit time for players to arrive. A team may insert a player into the vacant spot after the start of play.
 
-Any unoccupied patting positions are shall be recorded as an out each time it appears in the batting order unless otherwise provided in these Rules, or League policy. 
+Any unoccupied patting positions are shall be recorded as an out each time it appears in the batting order unless otherwise provided in these Rules, or League Policy. 
 
 A team may finish the game (1) player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) person line-up, nine (9) players for a ten (10) person lineup). Should a team fall below (8) players, the game is terminated and this team loses by forfeit.
 
@@ -132,15 +132,15 @@ Substitutions are governed by the applicable Lineup Format with the following ex
 
 Should a player suffer a debilitating injury during the game and cannot continue, and a team has no more eligible players on its bench, a team can use a player that was removed from the game to replace him. This replacement player must be the first player removed from the game, and if this player is unavailable the next player is used (and so on). If no reserve is present, the vacated spot in the lineup is skipped and all batters move up accordingly, with no penalty to the affected team.
 
-If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, the pending team may be subject to penalty, up to and including forfeit following a succesful protest in accordance with League policy.
+If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, the pending team may be subject to penalty, up to and including forfeit following a succesful protest in accordance with League Policy.
 
 ## Collisions
 Collisions are prohibited, except for contact that results from a legal slide. The runner is responsible for sliding or otherwise avoiding contact. Fielders and runners must comply with Incorporated Rules governing interference, obstruction, and collisions at home plate.
 
-Unless the umpire rules that the contact was incidental or caused by fielder obstruction, the runner shall be called out, the ball declared dead, and the runner automatically ejected. If the umpire determines the collision was flagrant, additional penalties may be imposed as applicable in League policy.
+Unless the umpire rules that the contact was incidental or caused by fielder obstruction, the runner shall be called out, the ball declared dead, and the runner automatically ejected. If the umpire determines the collision was flagrant, additional penalties may be imposed as applicable in League Policy.
 
 ## Umpire Disputes
- The appeal of umpire decisions shall be governed as set forth in the Incorporated Rules. Any protests must be made in accordance with League policy.
+ The appeal of umpire decisions shall be governed as set forth in the Incorporated Rules. Any protests must be made in accordance with League Policy.
 
 !!! Note "Generally"
       - Any umpire’s decision which involves judgment are final. No player or manager shall object to any such judgment decisions. 

@@ -1,10 +1,10 @@
-# League Rules and Policy
+# League Policy
 
 ## Authority and Applicability
-This Rules and Policy document is adopted pursuant to the League’s Constitution and Bylaws and governs the operational rules, procedures, and competitive structure of the League. In the event of a conflict between this document and the Constitution and Bylaws, the Constitution and Bylaws shall control.
+This Policy document ("League Policy") is adopted pursuant to the League’s Constitution and Bylaws and governs the operational rules, procedures, and competitive structure of the League. In the event of a conflict between this document and the Constitution and Bylaws, the Constitution and Bylaws shall control.
 
 ## League Governance
-The Commissioner is responsible for the day-to-day administration of League operations in accordance with the Constitution and Bylaws and this Rules and Policy document. The Board provides oversight of League operations and may review or direct actions of the Commissioner.
+The Commissioner is responsible for the day-to-day administration of League operations in accordance with the Constitution and Bylaws and League Policy. The Board provides oversight of League operations and may review or direct actions of the Commissioner.
 
 ### Operational Rights of Member Franchises
 1. Member Franchises in good standing shall have the right to participate in League governance on matters of League operation as provided herein.
@@ -55,20 +55,20 @@ The Committee shall issue findings and recommendations to the Commissioner or Bo
 ## Amendments and Rule Changes
 
 ### Constitution and Bylaws
-Amendments to the Constitution and Bylaws are governed exclusively by the procedures set forth therein. Nothing in this Rules and Policy document shall modify or supersede those requirements.
+Amendments to the Constitution and Bylaws are governed exclusively by the procedures set forth therein. Nothing in League Policy shall modify or supersede those requirements.
 
-### Rules and Policy Amendments
-1. This Rules and Policy document may be amended to address League operations, administration, discipline, or procedures.
+### League Policy Amendments
+1. League Policy may be amended to address League operations, administration, discipline, or procedures.
 1. Amendments may be proposed by the Commissioner or the Board.
-1. Adoption of a Rules and Policy amendment shall require approval by the Board.
+1. Adoption of a League Policy amendment shall require approval by the Board.
 1. Member Franchises may be afforded an opportunity to provide advisory vote on proposed amendments.
 1. Approved amendments shall take effect as specified at the time of adoption.
 
 ### Playing Rules Amendments
-1. Playing rules governing on-field competition may be amended separately from this Rules and Policy document.
-1. Playing rules amendments shall be adopted by a vote of Member Franchises in good standing.
-1. Unless otherwise specified, a simple majority vote shall be sufficient to adopt a playing rules amendment.
-1. Playing rules amendments shall not apply retroactively and shall take effect at the start of a season.
+1. Playing Rules governing on-field competition may be amended separately from this League Policy.
+1. Playing Rules amendments shall be adopted by a vote of Member Franchises in good standing.
+1. Unless otherwise specified, a simple majority vote shall be sufficient to adopt a Playing Rules amendment.
+1. Playing Rules amendments shall not apply retroactively and shall take effect at the start of a season.
 
 ## League Participants
 
@@ -105,7 +105,7 @@ The Commissioner shall review applications for new Member Franchises for complia
    1. Communication with the league;
    1. Submission of rosters and player information;
    1. Payment or coordination of all required fees;
-   1. Ensuring compliance with league rules by players and associated individuals.
+   1. Ensuring compliance with League Policy by players and associated individuals.
 1. All actions taken by the Manager shall be deemed actions of the Member Franchise.
 1. The Member Franchise shall remain responsible for all obligations and penalties regardless of internal team disputes or player actions.
 
@@ -120,7 +120,7 @@ Player status is contingent upon:
 
 1. Compliance with roster and eligibility requirements;
 1. Payment of any applicable fees to their Manager or the League;
-1. Adherence to all League rules, policies, and codes of conduct.
+1. Adherence to all League Policy, rules, and codes of conduct.
 
 A Player participates in League activities solely through association with a Member Franchise and possesses no independent membership rights.
 
@@ -128,7 +128,7 @@ A Player participates in League activities solely through association with a Mem
 ### Standing and Membership Status
 
 1. **In Good Standing**
-      1. A Member Franchise shall be considered *in good standing* when it has satisfied all financial obligations, complied with League rules and policies, and is not subject to suspension.
+      1. A Member Franchise shall be considered *in good standing* when it has satisfied all financial obligations, complied with League Policy, and is not subject to suspension.
       1. Only Member Franchises in good standing may exercise membership rights, including voting, participation in postseason play, and eligibility for League awards.
 
 1. **Temporary Suspension**
@@ -136,7 +136,7 @@ A Player participates in League activities solely through association with a Mem
       1. A temporarily suspended Member Franchise shall have its membership rights suspended for the duration of the suspension.
 
 1. **Indefinite Suspension**
-      1. A Member Franchise may be placed on indefinite suspension by the Commissioner for serious or repeated violations of League rules or policies.
+      1. A Member Franchise may be placed on indefinite suspension by the Commissioner for serious or repeated violations of League Policy.
       1. An indefinitely suspended Member Franchise shall forfeit all membership rights until reinstated.
       1. Grounds for indefinite suspension may include, but are not limited to:
          1. Conduct detrimental to the objectives of the League;
@@ -155,7 +155,7 @@ A Player participates in League activities solely through association with a Mem
 A Member Franchise subject to suspension may be granted a change of status by the Commissioner upon resolution of the conditions giving rise to the suspension. A change of status may include restoration to good standing or modification of the existing suspension, subject to any conditions imposed by the Commissioner or otherwise required by this document.
 
 ### Discipline and Enforcement
-To be successful, the League depends on self-regulation and shared accountability. All League participants are expected to encourage one another to comply with League rules and expectations. Participants may report potential infractions to the Commissioner, any League Officer, or any member of the Board by text message, email, phone call, or other means. A report, by itself, does not constitute a request for forfeit or any other specific sanction. League officials may retain such reports to identify patterns or repeated issues and to support further action when appropriate.
+To be successful, the League depends on self-regulation and shared accountability. All League participants are expected to encourage one another to comply with League Policy and expectations. Participants may report potential infractions to the Commissioner, any League Officer, or any member of the Board by text message, email, phone call, or other means. A report, by itself, does not constitute a request for forfeit or any other specific sanction. League officials may retain such reports to identify patterns or repeated issues and to support further action when appropriate.
 
 #### Authority 
 The Commissioner shall have authority to impose discipline consistent with this document, including warnings, fines, suspensions, and referrals for further review. Disciplinary actions may apply to Players, Managers, or Member Franchises, as appropriate.
@@ -174,7 +174,7 @@ All franchise members are expected to attend all league meetings. Failure of a f
 ### Financial Obligations
 1. Each Member Franchise is responsible for payment of all League dues, fees, and fines assessed to it pursuant to the approved League Budget or this document.
 1. Each Player in the League is expected to pay their team fees as designated by that team. Players may not switch teams within the League unless or until any and all debts are paid in full.
-1. Players may be assessed individual fees or fines as permitted by League rules; however, the Member Franchise shall remain ultimately responsible for ensuring such obligations are satisfied.
+1. Players may be assessed individual fees or fines as permitted by League Policy; however, the Member Franchise shall remain ultimately responsible for ensuring such obligations are satisfied.
 1. Failure to satisfy financial obligations in accordance with established deadlines may result in penalties, suspension, or loss of good standing as provided elsewhere in this document.
 
 ### Restrictions
@@ -209,7 +209,7 @@ All League members, including officers, Managers, umpires, players, coaches, and
 
 1. Act honestly and in good faith in all League matters.
 1. Compete with sportsmanship and respect for opponents, teammates, umpires, and League officials.
-1. Comply with all League rules, facility rules, and applicable laws.
+1. Comply with all League Policy, facility rules, and applicable laws.
 1. Refrain from conduct detrimental to the League’s competitive standards, reputation, or operations.
 1. Follow directives issued by umpires and League officials during games and League activities.
 
@@ -223,7 +223,7 @@ Prohibited conduct includes, but is not limited to:
 1. Flagrant or intentional dangerous play, including prohibited collisions.
 1. Harassment, discriminatory conduct, or abusive language inconsistent with League standards.
 1. Knowingly providing false information in protests, field status reports, roster submissions, or other League processes.
-1. Repeated or willful refusal to comply with League rules, disciplinary directives, or financial obligations.
+1. Repeated or willful refusal to comply with League Policy, disciplinary directives, or financial obligations.
 
 ### Penalties and Enforcement
 1. The Commissioner has primary authority to investigate matters and impose discipline, subject to Board oversight as otherwise provided in this document. 
@@ -267,7 +267,7 @@ For the safety of all participants and the preservation of serious and competiti
 ## Season Administration
 
 ### Official League Communications
-The Commissioner shall maintain official League communication channels to publish schedules, scores, standings, rosters, rules, notices, and other pertinent League information. 
+The Commissioner shall maintain official League communication channels to publish the League Bylaws, League Policy, Playing Rules, schedules, scores, standings, rosters, notices, and other pertinent League information. 
 
 ### Team Rosters; Players and Eligibility
 
@@ -338,7 +338,7 @@ Players must appear in at least five (5) regular-season games to be eligible for
 #### Postseason Games
 All postseason games shall use the Retricted Lineup Format, as defined in the Playing Rules.
 
-All playoff games must be played to completion. If a postseason game is duly called by the umpire for any reason, the game is considered suspended. The game will be continued from the point in the game when it was suspended at a later date provided by the Commissioner. Lineup changes shall be subject to the rules governing substitution, as specified in the Incoprorated Rules.
+All playoff games must be played to completion. If a postseason game is duly called by the umpire for any reason, the game is considered suspended. The game will be continued from the point in the game when it was suspended at a later date provided by the Commissioner. Lineup changes shall be subject to the Playing Rules governing substitution.
 
 The run-rule, or“Slaughter Rule”, is applicable in postseason play.
 
