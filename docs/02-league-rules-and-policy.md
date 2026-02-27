@@ -286,15 +286,12 @@ A team may drop players at any time as long as the team’s roster does not fall
 
 Any and all roster changes shall be submitted to the Commissioner and satisfy the information requirements in [Roster Information Requirements](#roster-information-requirements).  Roster changes shall be effective as of the first pitch of the team’s first regularly scheduled game after the updated roster is submitted.
 
-#### Alumni
-If a team would otherwise be required to forfeit or technically forfeit a game after June 1 due to a lack of eligible players in attendance, the team can use one (but not more than one) of its former players (“alumni”) in that game. The team’s Manager shall inform the opposing team’s Manager and the Commissioner as soon as possible (and in no event later than the first pitch) the intention to use an alumni player and will provide to the opposing team’s Manager and the Commissioner with the alumni player’s name, age, bats/throws, position and uniform number. Alumni players are not eligible to play in the playoffs.
+#### Alumni Players
+If a team would otherwise be required to forfeit or technically forfeit a game after June 1 due to a lack of eligible players in attendance, the team can use one (but not more than one) of its former players (“Alumni Player”) in that game. The team’s Manager shall inform the opposing team’s Manager and the Commissioner as soon as possible (and in no event later than the first pitch) the intention to use an Alumni Player and will provide to the opposing team’s Manager and the Commissioner with the Alumni Player’s name, age, bats/throws, position and uniform number. 
 
 #### Eligible Players
 Eligible players must be of at least eighteen (18) years of age by the date of the teams first game. No player may play for more than one team in a season (either before or after June 1).
 A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
-
-#### Postseason Player Eligibility
-Players must appear in at least five (5) regular-season games to be eligible for postseason play. Upon request to the Commissioner, an exception may be granted for a player with a long-term injury.
 
 #### Free Agents
 A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season if of an intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
@@ -322,17 +319,28 @@ In the event two teams finish the regular season in a tie for a position, the fo
 
 Win-loss record shall be computed using the point system as defined in [League Standings](#league-standings).
 
-### Postseason Format
-The postseason format shall be determined by annual vote. 
+### Awards
+Awards, if any, shall be determined by annual vote before the start of the regular season.
 
-### Prizes and Awards
-Playoff prizes and awards, if any, shall be determined by the membership of the league.
+### Postseason
+#### Postseason Format
+The postseason format shall be determined by annual vote before the start of the regular season.
 
-### Playoff Umpire Selection
-For the playoffs, each team will be granted the ability to exclude one (1) particular umpire from participating in said teams series. The name of this umpire shall be submitted to the chief umpire as soon as possible prior to the series. This umpire “veto” will be binding UNLESS the chief umpire cannot find any other umpire who can work any game in this series.
+#### Prizes
+Prizes, if any, shall be determined by annual vote before the start of the regular season.
 
-### Completion of Playoff Games
-All playoff games must be played to completion. If a playoff game is suspended for any reason, the game must be finished at a later date declared by the Commissioner. This game is declared suspended, and regardless of what inning or circumstance, the game will be continued from the point in the game when it was suspended. The “Slaughter Rule” is applicable for the playoffs (see [Regulation Games](#regulation-games)).
+#### Postseason Umpire Selection
+For the postseason, each team may request the exlusion of one (1) particular umpire from participating in said team's series. The individual responsible for assigning umpires will make a reasonable effort to respect the team's request.
+
+#### Postseason Player Eligibility
+Players must appear in at least five (5) regular-season games to be eligible for postseason play. Upon request to the Commissioner, an exception may be granted for a player with a long-term injury. Alumni Players are not eligible to play in the postseason.
+
+#### Postseason Games
+All postseason games shall use the Retricted Lineup Format, as defined in the Playing Rules.
+
+All playoff games must be played to completion. If a postseason game is duly called by the umpire for any reason, the game is considered suspended. The game will be continued from the point in the game when it was suspended at a later date provided by the Commissioner. Lineup changes shall be subject to the rules governing substitution, as specified in the Incoprorated Rules.
+
+The run-rule, or“Slaughter Rule”, is applicable in postseason play.
 
 ## Game Administration
 ### Subjectivity
