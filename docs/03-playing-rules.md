@@ -147,4 +147,8 @@ Collisions are prohibited, except for contact that results from a legal slide. T
 Unless the umpire rules that the contact was incidental or caused by fielder obstruction, the runner shall be called out, the ball declared dead, and the runner automatically ejected. If the umpire determines the collision was flagrant, additional penalties may be imposed as applicable in League policy.
 
 ## Umpire Disputes
-Any umpire’s decision which involves judgment, as specified in the Incorporated Rules, are final. No player or manager shall object to any such judgment decisions. The appeal of umpire decisions shall be governed as set forth in the Incorporated Rules. No player, manager, coach or substitute shall object to judgment decisions. If there is reasonable doubt that any umpire’s decision may be in conflict with the rules, the manager may appeal the decision and ask that a correct ruling be made. 
+ The appeal of umpire decisions shall be governed as set forth in the Incorporated Rules. Any protests must be made in accordance with League policy.
+
+!!! Note "Generally"
+      - Any umpire’s decision which involves judgment are final. No player or manager shall object to any such judgment decisions. 
+      - If there is reasonable doubt that any umpire’s decision may be in conflict with the rules, the Manager, and the Manger alone, may appeal the decision and ask that a correct ruling be made. 
