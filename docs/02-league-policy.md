@@ -21,7 +21,9 @@ The proposed budget shall include, at a minimum:
 
 1. Annual Member Franchise dues and payment schedule;
 1. Other anticipated sources of income;
-1. Expected expenditures for the operating year.
+1. Expected expenditures for the operating year;
+1. Any reserve or buffer funds;
+1. Any applicable plans for refund, rebate, or credit of funds to Member Franchises
 
 The proposed budget shall be presented to the Board for review and approval. Upon approval by the Board, the budget shall constitute the official League Budget for the applicable fiscal year. The approved League Budget shall be shared with all Member Franchises on an annual basis for informational purposes.
 
