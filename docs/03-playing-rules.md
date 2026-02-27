@@ -8,12 +8,13 @@ Except where specified in this document, games shall incorporate the Official Ba
 
 These rules shall *not* incorporate the following rules of Major League Baseball:
 
-- Rule 4.03(c)(4) specifying limitations on when a position player can pitch.
-- Rule 5.02(c) specifying limitations on infielder placement.
-- Rule 7.01(b) incorporating the parameters of the Extra Innings Rule, which includes starting each half-inning following the last regulation inning with a runner on second base.
-- Rule 5.10(m)(1) limiting the number of mound visits per game. Limitations on visits per inning still apply.
-- Rule 5.10(g) requiring that pitchers must face at least three batters.
-- Rules 5.07(c) specifying time limits on pitchers and batters. Limitations on pitcher disengagements (i.e. pick-offs) shall also not be incorporated.
+- Rule(s) specifying limitations on when a position player can pitch.
+- Rule(s) specifying limitations on infielder placement.
+- Rule(s) incorporating the parameters of the Extra Innings Rule, which includes starting each half-inning following the last regulation inning with a runner on second base.
+- Rule(s) limiting the number of mound visits per game. Limitations on visits per inning still apply.
+- Rule(s) requiring that pitchers must face at least three batters.
+- Rules(s) specifying time limits on pitchers and batters. 
+- Rules(s) limitating pitcher disengagements (i.e. pick-offs).
 - Any rule requiring specialized equipment or trained personnel, such as replay review.
 
 ## Regulation Games
