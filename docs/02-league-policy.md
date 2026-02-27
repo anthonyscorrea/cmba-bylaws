@@ -171,7 +171,7 @@ In exercising enforcement authority, the Commissioner may utilize one or more of
 1.	Referral of matters for advisory review or appeal pursuant to this document.
 
 ### Meetings
-All franchise members are expected to attend all league meetings. Failure of a franchise to send a representative to a meeting may result in a  fine. Those members present at any meeting shall constitute a quorum.
+All franchise members are expected to have representation at all league meetings.
 
 ### Financial Obligations
 1. Each Member Franchise is responsible for payment of all League dues, fees, and fines assessed to it pursuant to the approved League Budget or this document.
@@ -200,6 +200,35 @@ The Commissioner may levy fines to any League Member franchise or player subject
 1. A Manager or Player may appeal a disciplinary or eligibility decision by submitting a written appeal within the timeframe established by the Commissioner, unless a different deadline is expressly stated elsewhere in this document.
 1. The Commissioner may decide appeals directly or refer them for advisory review as appropriate.
 1. A Manager aggrieved by a discretionary or judgment decision of the Commissioner may request Board review within seventy-two (72) hours of the decision; the Board may, in its sole discretion, accept or decline review, and if it accepts review, it may affirm, modify, or reverse the Commissioner's decision by majority vote. The Board is not required to hold a hearing or provide a written explanation when declining review, and unless the Board grants a stay, the Commissioner's decision remains in effect pending Board review.  Decisions on appeal or Board review are final.
+
+## Annual League Meeting
+The League shall hold an annual meeting in according with the Constitution and Bylaws. Quorum and voting thresholds are governed by the Constitution and Bylaws. The annual meeting process shall consist of the following stages:
+
+### Pre-Meeting of the Current Board
+Prior to the annual meeting, the current Board shall convene to prepare and approve the proposed agenda, voting items, and supporting materials for member review.
+
+### Annual Meeting of the Member Franchises
+The annual meeting shall include the Board and Member Franchises in Good Standing and shall include, at minimum, the following business:
+
+1. Election of Directors to serve on the Board for the upcoming term.
+1. Advisory vote on the regular-season schedule framework.
+1. Advisory vote on postseason format.
+1. Advisory vote on League prizes and awards categories.
+1. Advisory vote on the admission of prospective Member Franchises.
+1. Confidence votes on League Officers (including Commissioner, Treasurer, and Secretary).
+1. Discussion of any Policy or Rules amendments.
+
+Unless otherwise provided in the Constitution and Bylaws, advisory and confidence votes are non-binding and are intended to guide Board action.
+
+### Post-Meeting of the Newly Constituted Board
+Following the annual meeting, the newly constituted Board shall convene to:
+
+1. Confirm or appoint League Officers as required by the Constitution and Bylaws;
+1. Consider advisory vote results and adopt final operating decisions;
+1. Approve or reject new Member Franchises;
+1. Assign committees, roles, and implementation responsibilities for the upcoming season.
+
+This shall constitute the Board's annual meeting requirements as required by the Constitution and Bylaws
 
 ## Conduct and Discipline
 

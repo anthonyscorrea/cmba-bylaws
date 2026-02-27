@@ -78,7 +78,7 @@ A Member Franchise admitted by the Board shall become a member of the League upo
 ## Meetings of the Board
 
 ### Annual Meeting
-The Board of Directors shall hold its annual meeting after January 1 at a time and place set by the Commissioner. This meeting must be held in person, except in extenuating circumstances. Each Member Franchise in good standing may send one representative to participate in Director elections and other matters submitted to Member Franchises for vote.
+The Board of Directors shall hold its annual meeting after January 1 at a time and place set by the Commissioner.
 
 ### Additional Meetings
 Additional meetings of the Board of Directors may be called by the Commissioner or any Director.
@@ -88,6 +88,31 @@ A majority of the Board of Directors shall constitute a quorum for the transacti
 
 ### Informal Action by Directors 
 Unless specifically prohibited by the Articles of Incorporation or these Bylaws, any action required to be taken or which may be taken at a meeting of the Board of Directors may be taken without a meeting if a consent in writing or by electronic mail setting forth the action so taken shall be signed or submitted by all of the directors entitled to vote with respect to the subject matter thereof.
+
+## Meetings of the Member Franchise
+
+### Annual Meeting
+The League shall hold an annual meeting of the Member Franchises after January 1 on a date, time, and place set by the Commissioner. This meeting shall include the Board of Directors and must be held in person, except in extenuating circumstances. It may take place immediately before or after the annual meeting of the board, but it is not required to do so.
+
+### Special Meetings
+Special meetings of the Member Franchises may be called by the Commissioner, by a majority of the Board of Directors, or upon written request of Member Franchises entitled to cast at least one-third of the votes.
+
+### Notice
+Reasonable notice of any meeting of the Member Franchises shall be provided to each Member Franchise entitled to vote and shall include the date, time, place, and principal business to be considered.
+
+### Quorum
+Four-fifths of Member Franchises in good standing shall constitute a quorum for the transaction of member business.
+
+### Voting and Member Actions
+Each Member Franchise in good standing shall be entitled to one vote on matters submitted to the membership.
+
+Member actions shall include:
+1. Election of Directors;
+2. Advisory votes on League operational matters submitted for membership input;
+3. Confidence votes on League Officers.
+4. Approval of amendents to the Playing Rules.
+
+Unless otherwise required by these Bylaws, member actions shall be decided by a simple majority of votes cast at a meeting at which a quorum is present.
 
 ## Miscellaneous
 
