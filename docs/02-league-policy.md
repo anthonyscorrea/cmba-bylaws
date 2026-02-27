@@ -273,8 +273,8 @@ Prohibited conduct includes, but is not limited to:
 ### Specific Minimum Penalties
 Unless stronger discipline is warranted by the circumstances:
 
-1. Any player who instigates a phyiscal fight shall be suspended for not less than one (1) full season and may be fined.
-1. Any player or coach who participates in a phyiscal fight shall be suspended for three (3) games and fined fifty dollars ($50.00).
+1. Any player who instigates a physical fight shall be suspended for not less than one (1) full season and may be fined.
+1. Any player or coach who participates in a physical fight shall be suspended for three (3) games and fined fifty dollars ($50.00).
 1. Any player or coach who physically assaults an umpire shall be permanently expelled from the League and may be reported to law enforcement as required.
 1. A player ejected for a flagrant collision shall be suspended for three (3) games and fined thirty dollars ($30.00).  
    1. A second offense shall result in suspension for the remainder of the season, including postseason.  
@@ -361,13 +361,13 @@ The postseason format shall be determined by annual vote before the start of the
 Prizes, if any, shall be determined by annual vote before the start of the regular season.
 
 #### Postseason Umpire Selection
-For the postseason, each team may request the exlusion of one (1) particular umpire from participating in said team's series. The individual responsible for assigning umpires will make a reasonable effort to respect the team's request.
+For the postseason, each team may request the exclusion of one (1) particular umpire from participating in said team's series. The individual responsible for assigning umpires will make a reasonable effort to respect the team's request.
 
 #### Postseason Player Eligibility
 Players must appear in at least five (5) regular-season games to be eligible for postseason play. Upon request to the Commissioner, an exception may be granted for a player with a long-term injury. Alumni Players are not eligible to play in the postseason.
 
 #### Postseason Games
-All postseason games shall use the Retricted Lineup Format, as defined in the Playing Rules.
+All postseason games shall use the Restricted Lineup Format, as defined in the Playing Rules.
 
 All playoff games must be played to completion. If a postseason game is duly called by the umpire for any reason, the game is considered suspended. The game will be continued from the point in the game when it was suspended at a later date provided by the Commissioner. Lineup changes shall be subject to the Playing Rules governing substitution.
 
@@ -405,7 +405,7 @@ In regular season play, teams shall use the Expanded Lineup Format, as defined i
 #### Baseballs 
 Professional-, college-, or high school-grade baseballs will be allowed for game play. Accepted brands and ball types include, but are not limited to, the Rawlings RO series, Wilson A1000 series, and Diamond D-1 series. 
 
-Unless otherwise supplied, the home team must supply two (2) and the visitors one (1) baseball at the start of each game. Supplied baseballs should be new, however in rare extenuating circumstances, previously used baseballs may be used if they are in good playable condition and approved by the umpire. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls may face displine up to and including forfeit of the game.
+Unless otherwise supplied, the home team must supply two (2) and the visitors one (1) baseball at the start of each game. Supplied baseballs should be new, however in rare extenuating circumstances, previously used baseballs may be used if they are in good playable condition and approved by the umpire. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls may face discipline up to and including forfeit of the game.
 
 #### Bats
 All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject to the Major League rules that govern this area.
@@ -413,7 +413,7 @@ All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject
 #### Bases, home plate, and pitching rubber  
 All teams are expected to have a set of bases, a home plate, and a pitching rubber. These items shall conform to Major League Baseball specifications. Items conforming to 2022 specifications shall also be considered legal.
 
-The host team for the field shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. In the event neither team is host of the field, the home team shall have this responsibilty. Should the responsible team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team may lend the equipment, although they are not required to do so.
+The host team for the field shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. In the event neither team is host of the field, the home team shall have this responsibility. Should the responsible team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team may lend the equipment, although they are not required to do so.
 
 #### Uniforms
 Uniform compliance is required in order to protect League competitive integrity, roster transparency, and game administration. 

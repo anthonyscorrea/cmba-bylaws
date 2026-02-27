@@ -14,7 +14,7 @@ These rules shall *not* incorporate the following rules of Major League Baseball
 - Rule(s) limiting the number of mound visits per game. Limitations on visits per inning still apply.
 - Rule(s) requiring that pitchers must face at least three batters.
 - Rule(s) specifying time limits on pitchers and batters. 
-- Rule(s) limitating pitcher disengagements (i.e. pick-offs).
+- Rule(s) limiting pitcher disengagements (i.e. pick-offs).
 - Any rule requiring specialized equipment or trained personnel, such as replay review.
 
 ## Pre-Game Meeting
@@ -102,7 +102,7 @@ Any unoccupied patting positions are shall be recorded as an out each time it ap
 A team may finish the game (1) player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) person line-up, nine (9) players for a ten (10) person lineup). Should a team fall below (8) players, the game is terminated and this team loses by forfeit.
 
 !!! Note "Example" 
-      For a game subject to the Expanded Lineup, the required batting positions are nine (9), so as soon as each team has eight (8) players, the game must start. 
+      For a game subject to the Expanded Lineup, the required number of batting positions is nine (9), so as soon as each team has eight (8) players, the game must start. 
 
       If a team starts with (8) the vacant ninth spot is an automatic out each time it comes up. If the ninth player arrives after first pitch, that player may be inserted into the vacant spot.
 
@@ -132,7 +132,7 @@ Substitutions are governed by the applicable Lineup Format with the following ex
 
 Should a player suffer a debilitating injury during the game and cannot continue, and a team has no more eligible players on its bench, a team can use a player that was removed from the game to replace him. This replacement player must be the first player removed from the game, and if this player is unavailable the next player is used (and so on). If no reserve is present, the vacated spot in the lineup is skipped and all batters move up accordingly, with no penalty to the affected team.
 
-If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, the pending team may be subject to penalty, up to and including forfeit following a succesful protest in accordance with League Policy.
+If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, the pending team may be subject to penalty, up to and including forfeit following a successful protest in accordance with League Policy.
 
 ## Collisions
 Collisions are prohibited, except for contact that results from a legal slide. The runner is responsible for sliding or otherwise avoiding contact. Fielders and runners must comply with Incorporated Rules governing interference, obstruction, and collisions at home plate.
