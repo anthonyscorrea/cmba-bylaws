@@ -1,5 +1,8 @@
 # Playing Rules
 
+## Authority and Rule Hierarchy
+Umpires have full authority to administer and enforce game rules on the field. In applying written rules, the controlling order is: (1) League Policy, (2) these Playing Rules, and (3) Incorporated Rules. If provisions conflict, the higher-priority source controls to the extent of the conflict.
+
 ## Incorporated Rules
 Except where specified in this document, games shall incorporate the Official Baseball Rules of Major League Baseball (the "Incorporated Rules").
 
