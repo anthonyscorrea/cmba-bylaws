@@ -338,6 +338,11 @@ All playoff games must be played to completion. If a playoff game is suspended f
 ### Subjectivity
 No official playing rule or League policy may be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
 
+### Interleague Play
+Unless otherwise specified through official League communications, play shall be in accordance with the hosting team's league ruleset. A ruleset includes such rules as equipment, lineups, substitutions, and length of games.
+
+All League policies, including but not limited to, League standings, forfeit, and discipline shall remain in effect.
+
 ### Pre-Game
 #### Field Status
 The host team of the field shall be responsible for checking the status of the field in the event of rain. In the event neither team is the host of the field, the home team shall be the responsible team. The responsible team must report the status of the field to the Commissioner and the assigned umpire no later than 2:00 pm for a weeknight game, and at least 2 hrs. before a weekend game. As a courtesy, the responsible team should also notify the visiting Manager, but the visiting Manager may also contact the Commissioner for information regarding the status of the field. 
