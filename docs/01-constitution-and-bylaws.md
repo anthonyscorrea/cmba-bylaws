@@ -32,7 +32,7 @@ Except as otherwise expressly herein provided or as otherwise provided by law, t
 The League's Board of Directors shall be composed of at least three (3) Directors ("Director") or such other greater number of Directors established by the Board of Directors from time to time. An individual need not be a manager of a Member Franchise in order to be a Director.
 
 ### Election and Term of Office
-Directors shall be elected at the annual meeting of the League by the affirmative vote of a majority of Member Franchises in Good Standing. Each Member Franchise in Good Standing shall have one (1) vote, cast by its Manager or designated representative. The term of office of each Director shall be until the next annual meeting. Directors shall hold office until the expiration of the term for which such Director is elected and until such Director's successor has been elected or until the Director's death, resignation, or removal. Directors may serve successive terms.
+Directors shall be elected at the annual meeting of the Members of the League by the affirmative vote of a majority of Member Franchises in Good Standing. Each Member Franchise in Good Standing shall have one (1) vote, cast by its Manager or designated representative. The term of office of each Director shall be until the next annual meeting. Directors shall hold office until the expiration of the term for which such Director is elected and until such Director's successor has been elected or until the Director's death, resignation, or removal. Directors may serve successive terms.
 
 ### Resignation and Removal
 Any Director may resign by written notice delivered to the Board of Directors or to the Commissioner or Secretary of the League. Any Director may be removed, with or without cause, by the affirmative vote of a majority of the Directors then in office. Any vacancy may be filled by the Board of Directors until the next annual meeting, at which time the seat shall be submitted for election by Member Franchises in Good Standing.
@@ -67,6 +67,13 @@ The Secretary shall have the custody and care of the corporate records of the Le
 
 ### Compensation
 The Officers shall serve without compensation.
+
+## Member Franchises
+The League’s members shall consist of those Member Franchises (teams) admitted in accordance with these Bylaws and League Rules and Policy.
+
+The Board of Directors shall have authority to admit, suspend, remove, or otherwise determine the membership status of Member Franchises, subject to these Bylaws. The Board may establish, or delegate through League Policy, reasonable procedures, eligibility standards, conditions of admission, requirements for good standing, and grounds and procedures for suspension or removal.
+
+A Member Franchise admitted by the Board shall become a member of the League upon satisfaction of any initial conditions of admission established under League Rules and Policy.
 
 ## Meetings of the Board
 
