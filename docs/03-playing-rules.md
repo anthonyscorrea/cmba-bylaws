@@ -19,35 +19,24 @@ These rules shall *not* incorporate the following rules of Major League Baseball
 ## Regulation Games
 Games played under the auspices of both recognized Managers of the participating teams shall count as official. A regulation game is defined as follows
 
-1. A regulation game consists of seven (7) innings, unless extended because of a tie score, or shortened because the home team needs none of its half of the seventh inning or only a fraction of it, or because the umpire calls the game in accordance with [Reasons for a Game to be Called](#reasons-for-a-game-to-be-called).
-1. If the score is tied after seven completed innings play shall continue until (1) the visiting team has scored more total runs than the home team at the end of a completed inning, or (2) the home team scores the winning run in an uncompleted inning. If a regulation game is called with the score tied, it shall remain a tie game.
-1. If a game is called by the umpire, per [Reasons for a Game to be Called](#reasons-for-a-game-to-be-called), it is a regulation (official) game:
-   1. If four innings have been completed;
-   1. If the home team has scored more runs in four or three and a fraction half-innings than the visiting team has scored in four completed half-innings;
-   1. If the home team scores one or more runs in its half of the fourth inning to tie the score.
-   
-   Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
-1. Slaughter Rule: The game shall be ended and the leading team declared the winner:
-   1. If after 4 complete innings the visiting team is ahead in the score by 15 or more runs, or if after 3½ innings the home team is ahead by the same, the game will be ended and the leading team declared the winner. 
-   1. If after 5 or more complete innings the visiting team is ahead in the score by 12 or more runs, or if after 4½ innings or more the home team is ahead by the same, the game will be ended and the leading team declared the winner.
+1. A regulation game is scheduled for seven (7) innings.
+2. A game becomes a regulation game after four (4) completed innings, or after 3 1/2 innings if the home team is ahead.
+3. If the score is tied after seven (7) completed innings, play shall continue until a winner is determined, unless the game is called and recorded as a tie under applicable called-game provisions.
+4. The run-rule, or "Slaughter Rule", thresholds are:
+      1. Fifteen (15) runs after four (4) complete innings, or after 3 1/2 innings if the home team is ahead;
+      2. Twelve (12) runs after five (5) complete innings, or after 4 1/2 innings if the home team is ahead.
+      3. Ten (10) runs after three (3) complete innings in a game that is called under applicable called-game provisions.
+5. If a game is called before it becomes a regulation game, it is a “No Game” and shall be replayed from the start, unless otherwise required by provisions in League Policy.
+6. Exceptions, including completion requirements for suspended games, are governed by League Policy (e.g., in the case of playoff or championship games).
 
-   The Slaughter Rule is applicable for the playoffs as specified in [Completion of Playoff Games](#completion-of-playoff-games).
-1. If a game is called after 3 complete innings and one team is ahead by 10 or more runs, the game will be ended and the leading team declared the winner. 
-
-   Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
-
-1. If a game is postponed or otherwise called before it has become a regulation game, the umpire-in-chief shall declare it “No Game,” meaning the game must be restarted (not resumed) at a later date.
-
-   Postseason games are exempt from this definition as specified in [Completion of Playoff Games](#completion-of-playoff-games).
-
-## Reasons for a Game to be Called
+### Reasons for a Game to be Called
 An umpire, in their discretion, may declare a game called if
 
 1. Darkness prevents further safe play.
 1. Rain, lightning, or other inclement weather precludes safe conditions.
 1. A new inning would start after 8:15 p.m at a field without lights.
 1. Local laws or field rules (e.g. lightning detector) prevent continuation of the game.
-1. Other circumstances prevent further safe play. The Rules and Competition Committee may rule on any forfeit or loss of points as applicable.
+1. Other circumstances prevent further safe play. League policy may dictate any forfeit or penalty as applicable.
 
 ## Game Equipment and Uniforms
 Games shall be played with legal baseball equipment and player uniforms as required by League Rules and Policy.
