@@ -17,6 +17,9 @@ These rules shall *not* incorporate the following rules of Major League Baseball
 - Rules(s) limitating pitcher disengagements (i.e. pick-offs).
 - Any rule requiring specialized equipment or trained personnel, such as replay review.
 
+## Pre-Game Meeting
+Before first pitch, the Managers and the umpire-in-chief shall conduct a pre-game meeting. A Manager may designate a team delegate to attend on the Manager’s behalf. At this meeting, the teams shall exchange lineups and review any applicable field or ground rules with the umpire.
+
 ## Regulation Games
 Games played under the auspices of both recognized Managers of the participating teams shall count as official. A regulation game is defined as follows
 
