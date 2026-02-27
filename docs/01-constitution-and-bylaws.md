@@ -43,7 +43,7 @@ The Directors shall serve without compensation.
 ## Officers
 
 ### Designation
-The officers of the League shall be a Commissioner, a Treasurer, and a Secretary. All offices shall be filled by an affirmative vote of the Board on an annual basis. Other Officers may be created by the Directors at their discretion. Officers may serve successive terms.
+The officers of the League shall be a Commissioner, a Treasurer, and a Secretary. All offices shall be filled by an affirmative vote of the Board on an annual basis. Other Officers may be created by the Directors at their discretion. Officers may be, but are not required to be, a Director of the Board. Officers may serve successive terms.
 
 ### Resignation and Removal
 
@@ -52,12 +52,12 @@ Any Officer may resign by written notice delivered to the Board of Directors or 
 ## Officer Duties
 
 ### Commissioner
-The Commissioner shall 
+The Commissioner shall
 
 1. Preside at meetings of the Membership and of the Board of Directors.
 1. Execute contracts in the name of and on behalf of the League, with approval of the board or in accordance with the budget approved by the Board.
 1. Prepare and propose the League’s budget for approval by the Board.
-1. Shall perform such other duties as may be determined by the board of directors, and shall perform and discharge such other duties as generally devolve upon a chief executive officer.
+1. Shall perform such other duties as may be determined by the Board of Directors, and shall perform and discharge such other duties as generally devolve upon a chief executive officer.
 
 ### Treasurer
 The Treasurer shall keep or, at the discretion of the Board cause to be kept, correct and complete records showing accurately at all times the financial condition of League; shall be legal custodian of all monies and other valuables which may from time to time come into the possession of the League; shall maintain a bank account in the name of League; shall prepare and file or, at the discretion of the board, cause to be prepared and filed, all required corporation tax forms and reports; shall furnish at meetings of the Board of Directors and Membership or whenever requested by the Board of Directors, a statement of the financial condition of the League; shall maintain or, at the discretion of the Board, cause to be maintained a roster of active Members in Good Standing; and shall perform such other duties as the Board of Directors may prescribe.
