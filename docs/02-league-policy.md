@@ -7,12 +7,12 @@ This Policy document ("League Policy") is adopted pursuant to the League’s Con
 The Commissioner is responsible for the day-to-day administration of League operations in accordance with the Constitution and Bylaws and League Policy. The Board provides oversight of League operations and may review or direct actions of the Commissioner.
 
 ### Operational Rights of Member Franchises
-1. Member Franchises in good standing shall have the right to participate in League governance on matters of League operation as provided herein.
+1. Member Franchises in Good Standing shall have the right to participate in League governance on matters of League operation as provided herein.
 1. Member Franchises shall have the right to appeal disciplinary or eligibility decisions affecting them in accordance with procedures set forth in this document.
 1. Each Member Franchise is entitled to one vote in voting matters.
       1. Member Franchises may provide input and vote in an advisory capacity on matters of League policy, administration, and operation. 
       1. Member Franchises may vote with binding effect on playing rules, competition rules, and on-field regulations, except where authority is otherwise reserved by this document or the Constitution and Bylaws.
-1. Exercise of these rights is contingent upon the Member Franchise being in good standing.
+1. Exercise of these rights is contingent upon the Member Franchise being in Good Standing.
 
 ### Budget
 The Commissioner shall prepare a proposed budget for each fiscal year.
@@ -66,7 +66,7 @@ Amendments to the Constitution and Bylaws are governed exclusively by the proced
 
 ### Playing Rules Amendments
 1. Playing Rules governing on-field competition may be amended separately from this League Policy.
-1. Playing Rules amendments shall be adopted by a vote of Member Franchises in good standing.
+1. Playing Rules amendments shall be adopted by a vote of Member Franchises in Good Standing.
 1. Unless otherwise specified, a simple majority vote shall be sufficient to adopt a Playing Rules amendment.
 1. Playing Rules amendments shall not apply retroactively and shall take effect at the start of a season.
 
@@ -128,8 +128,8 @@ A Player participates in League activities solely through association with a Mem
 ### Standing and Membership Status
 
 1. **In Good Standing**
-      1. A Member Franchise shall be considered *in good standing* when it has satisfied all financial obligations, complied with League Policy, and is not subject to suspension.
-      1. Only Member Franchises in good standing may exercise membership rights, including voting, participation in postseason play, and eligibility for League awards.
+      1. A Member Franchise shall be considered *in Good Standing* when it has satisfied all financial obligations, complied with League Policy, and is not subject to suspension.
+      1. Only Member Franchises in Good Standing may exercise membership rights, including voting, participation in postseason play, and eligibility for League awards.
 
 1. **Temporary Suspension**
       1. A Member Franchise may be placed on temporary suspension by the Commissioner for failure to comply with financial obligations or other League requirements.
@@ -147,12 +147,12 @@ A Player participates in League activities solely through association with a Mem
          1. Failure to comply with codes of conduct set forth in this document.
 
 1. **Leave of Absence**
-      1. A Member Franchise in good standing may be granted a leave of absence by the Commissioner.
+      1. A Member Franchise in Good Standing may be granted a leave of absence by the Commissioner.
       1. A Member Franchise on an approved leave of absence shall retain such membership rights as determined by the Commissioner.
       1. A Member Franchise on leave of absence for more than two (2) years must reapply for membership.
 
 #### Change of Status
-A Member Franchise subject to suspension may be granted a change of status by the Commissioner upon resolution of the conditions giving rise to the suspension. A change of status may include restoration to good standing or modification of the existing suspension, subject to any conditions imposed by the Commissioner or otherwise required by this document.
+A Member Franchise subject to suspension may be granted a change of status by the Commissioner upon resolution of the conditions giving rise to the suspension. A change of status may include restoration to Good Standing or modification of the existing suspension, subject to any conditions imposed by the Commissioner or otherwise required by this document.
 
 ### Discipline and Enforcement
 To be successful, the League depends on self-regulation and shared accountability. All League participants are expected to encourage one another to comply with League Policy and expectations. Participants may report potential infractions to the Commissioner, any League Officer, or any member of the Board by text message, email, phone call, or other means. A report, by itself, does not constitute a request for forfeit or any other specific sanction. League officials may retain such reports to identify patterns or repeated issues and to support further action when appropriate.
@@ -175,7 +175,7 @@ All franchise members are expected to attend all league meetings. Failure of a f
 1. Each Member Franchise is responsible for payment of all League dues, fees, and fines assessed to it pursuant to the approved League Budget or this document.
 1. Each Player in the League is expected to pay their team fees as designated by that team. Players may not switch teams within the League unless or until any and all debts are paid in full.
 1. Players may be assessed individual fees or fines as permitted by League Policy; however, the Member Franchise shall remain ultimately responsible for ensuring such obligations are satisfied.
-1. Failure to satisfy financial obligations in accordance with established deadlines may result in penalties, suspension, or loss of good standing as provided elsewhere in this document.
+1. Failure to satisfy financial obligations in accordance with established deadlines may result in penalties, suspension, or loss of Good Standing as provided elsewhere in this document.
 
 ### Restrictions
 
@@ -234,7 +234,7 @@ Prohibited conduct includes, but is not limited to:
    1. Game ejection;
    1. Suspension for a specified number of games or period of time;
    1. Forfeit or technical forfeit consequences where applicable;
-   1. Loss of good standing;
+   1. Loss of Good Standing;
    1. Indefinite suspension or expulsion from the League for severe or repeated violations.
 1. In determining discipline, the Commissioner may consider severity, intent, prior conduct, risk to safety, and whether the conduct harmed League operations or competitive integrity.
 1. Managers are responsible for the conduct of their players, coaches, and team personnel and may be disciplined for team-related violations.
@@ -272,7 +272,7 @@ The Commissioner shall maintain official League communication channels to publis
 ### Team Rosters; Players and Eligibility
 
 #### Roster Deadline; Roster Size
-Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the Commissioner no later than June 1 of each year. Any team that does not submit its roster to the Commissioner by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in good standing. Consequences of not being in good standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-Managers).  
+Prior to June 1, each team has an “open roster.”  League teams must submit a roster of their players to the Commissioner no later than June 1 of each year. Any team that does not submit its roster to the Commissioner by June 1 as required by this [Roster Deadline; Roster Size](#roster-deadline-roster-size) and in accordance with the information requirements in [Roster Information Requirements](#roster-information-requirements) shall be deemed not in Good Standing. Consequences of not being in Good Standing are defined in [Classification; Standing](#classification-standing) of the Constitution. This submitted roster plus any and all legal roster transactions per [Roster Transactions](#roster-transactions), shall be considered official. Players not on a team’s official roster are ineligible for play, except where specifically noted in this [Teams And Managers](#teams-and-Managers).  
 Each team’s roster must contain a minimum of sixteen (16) players and shall not exceed twenty-six (26) players, in each case, excluding non-playing Managers and coaches. 
 
 #### Roster Information Requirements
@@ -445,7 +445,7 @@ The opponent of a team in technical forfeit is entitled to a full (2) standings 
 #### Forfeit
 If a game is forfeited, the following applies:
 
-1. The forfeiting team must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in good standing as defined in [Classification; Standing](#classification-standing). Teams will be considered not in good standing until payment is made.
+1. The forfeiting team must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in Good Standing as defined in [Classification; Standing](#classification-standing). Teams will be considered not in Good Standing until payment is made.
 1. The forfeiting team shall receive a loss and a minus two (-2) point standings penalty.
 1. The non-forfeiting team shall receive a 7 runs to 0 runs win in the standings and is entitled to a full (2) standings points.
 1. The forfeiting team must pay the full cost of umpire fees for the forfeited game.
