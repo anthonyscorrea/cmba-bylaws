@@ -346,8 +346,11 @@ The run-rule, or“Slaughter Rule”, is applicable in postseason play.
 ### Subjectivity
 No official playing rule or League policy may be suspended, set aside, or added to under any circumstances, regardless of the will of the Managers. This provision nullifies the “If both managers agree” concept.
 
+### Playing Rules
+Play shall be governed by the League's playing rules document (the "Playing Rules").
+
 ### Interleague Play
-Unless otherwise specified through official League communications, play shall be in accordance with the hosting team's league ruleset. A ruleset includes such rules as equipment, lineups, substitutions, and length of games.
+Unless otherwise specified through official League communications, play shall be in accordance with the hosting team's league playing ruleset, thus becoming the Playing Rules. A playing ruleset includes such rules as equipment, lineups, substitutions, and length of games.
 
 All League policies, including but not limited to, League standings, forfeit, and discipline shall remain in effect.
 
@@ -365,11 +368,13 @@ In the discretion of the Commissioner, a game may be postponed due to extraordin
 Any postponed or suspended games must be rescheduled in a timely fashion by the Managers of that game for the next possible date. If Managers cannot come to an agreement in a timely fashion, the Commissioner may reschedule the game.
 
 ### In-Game
+#### Lineup format
+In regular season play, teams shall use the Expanded Lineup Format, as defined in the Playing Rules.
 
 #### Baseballs 
 Professional-, college-, or high school-grade baseballs will be allowed for game play. Accepted brands and ball types include, but are not limited to, the Rawlings RO series, Wilson A1000 series, and Diamond D-1 series. 
 
-The home team must supply two (2) and the visitors one (1) baseball at the start of each game. Supplied baseballs should be new, however in rare extenuating circumstances, previously used baseballs may be used if they are in good playable condition and approved by the umpire. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls may face displine up to and including forfeit of the game.
+Unless otherwise supplied, the home team must supply two (2) and the visitors one (1) baseball at the start of each game. Supplied baseballs should be new, however in rare extenuating circumstances, previously used baseballs may be used if they are in good playable condition and approved by the umpire. Additional balls shall be supplied alternately by each team beginning with the visiting team. Teams that supply non-approved balls may face displine up to and including forfeit of the game.
 
 #### Bats
 All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject to the Major League rules that govern this area.
@@ -393,7 +398,7 @@ Uniform compliance is required in order to protect League competitive integrity,
 1. The Commissioner may impose discipline for uniform non-compliance, including warnings, corrective deadlines, fines, temporary player ineligibility, and other remedies authorized by League rules. In determining the appropriate discipline, the Commissioner may consider factors including bad faith, repeated non-compliance, and refusal to comply with a League directive. Penalties may be imposed up to and including game forfeits.
 
 #### Umpires
-Umpires shall have the sole responsibility for the enforcement of all sections in [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility) of the Bylaws, except where specified.
+Umpires shall have the sole responsibility for the enforcement of the Playing Rules.
 
 Umpires are to be paid on the field promptly upon request.
 
