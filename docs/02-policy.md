@@ -476,7 +476,7 @@ The opponent of a team in technical forfeit is entitled to a full (2) standings 
 #### Forfeit
 If a game is forfeited, the following applies:
 
-1. The forfeiting shall be considered not in Good Standing. Teams will be considered not in Good Standing until payment is made.
+1. The forfeiting team shall be considered not in Good Standing. Teams will be considered not in Good Standing until payment is made.
 1. The forfeiting team shall receive a loss and a minus two (-2) point standings penalty.
 1. The non-forfeiting team shall receive a 7 runs to 0 runs win in the standings and is entitled to a full (2) standings points.
 1. The forfeiting team must pay the full cost of umpire fees for the forfeited game.
