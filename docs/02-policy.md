@@ -343,7 +343,7 @@ The League shall use a point system to determine the standings. A team is awarde
 In the event two teams finish the regular season in a tie for a position, the following tie-breaking procedure will take effect:
 
 1. Win-Loss Record in head-to-head competition.
-1. Win-Loss Record within the league.
+1. Win-Loss Record within the League.
 1. Win-Loss Record within the division (if applicable).
 1. Least runs allowed for the season.
 1. Coin toss, performed by the Commissioner with a witness.
@@ -476,7 +476,7 @@ The opponent of a team in technical forfeit is entitled to a full (2) standings 
 #### Forfeit
 If a game is forfeited, the following applies:
 
-1. The forfeiting team must pay, at the time of the forfeit, the full cost of the umpire(s), and shall be considered not in Good Standing. Teams will be considered not in Good Standing until payment is made.
+1. The forfeiting shall be considered not in Good Standing. Teams will be considered not in Good Standing until payment is made.
 1. The forfeiting team shall receive a loss and a minus two (-2) point standings penalty.
 1. The non-forfeiting team shall receive a 7 runs to 0 runs win in the standings and is entitled to a full (2) standings points.
 1. The forfeiting team must pay the full cost of umpire fees for the forfeited game.

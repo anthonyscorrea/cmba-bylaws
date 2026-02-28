@@ -56,7 +56,7 @@ In the Expanded Lineup Format, a team’s batting lineup shall constitute not fe
 
 A player substituted from the batting order may not re-enter the batting order unless otherwise permitted herein. Defensive substitutions may be made freely at any time and do not affect the batting order. Players may enter, exit, and re-enter defensively without limitation.
 
-The following lineup designations are permitted, but not required, in Expanded Lineup Format:
+The following lineup designations are permitted, but not required, in the Expanded Lineup Format:
 
 - Any number of Extra Hitters
 - (1) Designated Runner
@@ -65,7 +65,7 @@ The following lineup designations are permitted, but not required, in Expanded L
 !!! Note
       A player occupying the Extra Hitter position may assume any defensive position at any time without affecting the batting order. Likewise, a player currently in the defensive alignment may be reassigned to the Extra Hitter position without affecting the batting order. In the Expanded Lineup Format, changes in defensive alignment do not alter the order or occupancy of batting positions.
       
-      Because defensive alignment does not govern the batting order in the Expanded Lineup Format, the Designated Hitter designation does apply in Expanded Lineup Format. Any player marked as a DH will be considered an error and assumed to be an EH.
+      Because defensive alignment does not govern the batting order in the Expanded Lineup Format, the Designated Hitter designation does apply in Expanded Lineup Format. Any player marked as a DH will be considered a mistake and assumed to be an EH.
 
 #### Shared Batting Positions
 In the Expanded Lineup Format, any batting position may be designated at lineup exchange as shared by two players (“A” and “B”). The two players shall bat in alternating sequence each time that position appears in the order, beginning with the player designated “A.”
@@ -97,7 +97,7 @@ Teams may play with (1) fewer player and if each team has at least this many pla
 
 League Policy may apply standings penalty for teams that start with fewer than the minimum.  League Policy may also designate a "forfeit time," the period after which a team with less than the minimum is subject to penalty. A team may not wait until this forfeit time for players to arrive. A team may insert a player into the vacant spot after the start of play.
 
-Any unoccupied patting positions are shall be recorded as an out each time it appears in the batting order unless otherwise provided in these Rules, or League Policy. 
+Any unoccupied batting positions are shall be recorded as an out each time it appears in the batting order unless otherwise provided in these Rules, or League Policy. 
 
 A team may finish the game (1) player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) person line-up, nine (9) players for a ten (10) person lineup). Should a team fall below (8) players, the game is terminated and this team loses by forfeit.
 
@@ -144,4 +144,4 @@ Unless the umpire rules that the contact was incidental or caused by fielder obs
 
 !!! Note "Generally"
       - Any umpire’s decision which involves judgment are final. No player or manager shall object to any such judgment decisions. 
-      - If there is reasonable doubt that any umpire’s decision may be in conflict with the rules, the Manager, and the Manger alone, may appeal the decision and ask that a correct ruling be made. 
+      - If there is reasonable doubt that any umpire’s decision may be in conflict with the rules, the Manager, and the Manager alone, may appeal the decision and ask that a correct ruling be made. 
