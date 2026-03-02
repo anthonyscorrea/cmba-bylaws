@@ -117,7 +117,7 @@ A Designated Hitter may bat for any defensive player. If the defensive player fo
 An Extra Hitter is a batting-only lineup position and may not be used in the field as an extra defensive fielder. For substitution and lineup-administration purposes, an EH position shall be treated the same as a defensive position and may be substituted, re-entered, or reassigned in as governed by the applicable Lineup Format.
 
 #### Designated Runner (DR)
-A Designated Runner may run for a specified batting position whenever the player occupying that batting position safely reaches base. If the defensive player for whom the DR bats enters the batting order, the DR is terminated. Substitution of either player is governed by the applicable Lineup Format.
+A Designated Runner may run for a specified batting position whenever the player occupying that batting position safely reaches base. The DR may be subsituted into the batting order at any batting position. Once the player designated as DR enters the batting lineup, the player is no longer considered a designated runner and may no longer run for the previously assigned batting position. Substitution of either player is governed by the applicable Lineup Format.
 
 Teams with no eligible players remaining on the bench (i.e. all players are in the batting lineup) may elect to use the player that made the last out as the designated runner.
 
