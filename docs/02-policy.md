@@ -419,7 +419,7 @@ The host team for the field shall be responsible for accurately setting up the b
 Uniform compliance is required in order to protect League competitive integrity, roster transparency, and game administration. 
 
 1. Required uniform elements are:
-      1. Team jersey bearing the team identity;
+      1. Team jersey and cap bearing the team identity;
       1. A unique uniform number assigned to that Player;
       1. Baseball pants.
 1. A Player may not wear or borrow another rostered Player’s jersey or number to satisfy this rule.
