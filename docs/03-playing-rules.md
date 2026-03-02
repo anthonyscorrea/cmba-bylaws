@@ -66,7 +66,7 @@ The following lineup designations are permitted, but not required, in the Expand
 !!! Note
       A player occupying the Extra Hitter position may assume any defensive position at any time without affecting the batting order. Likewise, a player currently in the defensive alignment may be reassigned to the Extra Hitter position without affecting the batting order. In the Expanded Lineup Format, changes in defensive alignment do not alter the order or occupancy of batting positions.
       
-      Because defensive alignment does not govern the batting order in the Expanded Lineup Format, the Designated Hitter designation does apply in Expanded Lineup Format. Any player marked as a DH will be considered a mistake and assumed to be an EH.
+      Because defensive alignment does not govern the batting order in the Expanded Lineup Format, the Designated Hitter designation does not apply in Expanded Lineup Format. Any player marked as a DH will be considered a mistake and assumed to be an EH.
 
 #### Shared Batting Positions
 In the Expanded Lineup Format, any batting position may be designated at lineup exchange as shared by two players (“A” and “B”). The two players shall bat in alternating sequence each time that position appears in the order, beginning with the player designated “A.”
