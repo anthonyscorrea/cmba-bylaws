@@ -15,6 +15,7 @@ These rules shall *not* incorporate the following rules of Major League Baseball
 - Rule(s) requiring that pitchers must face at least three batters.
 - Rule(s) specifying time limits on pitchers and batters. 
 - Rule(s) limiting pitcher disengagements (i.e. pick-offs).
+- Rule(s) enlarging bases from 15 inches square to 18 inches square. Either base size is acceptable as long as each base used in the game are the same size.
 - Any rule requiring specialized equipment or trained personnel, such as replay review.
 
 ## Pre-Game Meeting

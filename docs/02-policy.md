@@ -411,7 +411,7 @@ Unless otherwise supplied, the home team must supply two (2) and the visitors on
 All bats must be wood or BBCOR certified. Use of an illegal bat shall be subject to the Major League rules that govern this area.
 
 #### Bases, home plate, and pitching rubber  
-All teams are expected to have a set of bases, a home plate, and a pitching rubber. These items shall conform to Major League Baseball specifications. Items conforming to 2022 specifications shall also be considered legal.
+All teams are expected to have a set of bases, a home plate, and a pitching rubber. These items shall conform to applicable Playing Rules.
 
 The host team for the field shall be responsible for accurately setting up the bases, and if necessary, home plate and the pitching rubber. In the event neither team is host of the field, the home team shall have this responsibility. Should the responsible team fail to have these necessities by the start of the game, they will lose by forfeit. The visiting team may lend the equipment, although they are not required to do so.
 
