@@ -16,3 +16,7 @@
 # Tempfiles created by git-spell-check
 docs-dictionary-*
 temp_file-*
+
+# Local AI working files live here. Keep ignored on non-ai branches.
+.ai/
+AGENTS.md
