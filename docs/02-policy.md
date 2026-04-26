@@ -307,7 +307,7 @@ Prior to June 1, each team has an “open roster.”  League teams must submit a
 Each team’s roster must contain a minimum of sixteen (16) players and shall not exceed twenty-six (26) players, in each case, excluding non-playing Managers and coaches. 
 
 #### Roster Information Requirements
-A team’s rosters as submitted to the Commissioner on or before June 1 shall contain the following information for each rostered player: name, age, bats/throws, position(s),uniform number, and face photo. Rosters shall be submitted in Excel or via Google sheets (or similar editable spreadsheet.)
+A team’s rosters as submitted to the Commissioner on or before June 1 shall contain the following information for each rostered player: name, age, bats/throws, position(s), and uniform number. Rosters shall be submitted in Excel or via Google sheets (or similar).
 
 #### Roster Transactions
 Teams may add a total of five (5) players to the roster after the June 1 roster submission deadline. The total number of players on a team still may not exceed twenty-six (26). In order to add players between June 1 and July 1 but not exceed the 26 player limit, a team may drop players who were rostered on June 1.  No players may be added after July 1, except as set forth below.
