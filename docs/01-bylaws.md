@@ -1,7 +1,7 @@
 # League Bylaws
 
 ## Name
-The name of the corporation as incorporated and existing under and by virtue of the Illinois General Not for Profit Corporation Act of 1986, as amended ("the Act") shall be the Chicago Metropolitan Baseball League (the "League"). The League shall have powers as are now or as may hereafter be granted by the Act.
+The name of the corporation as incorporated and existing under and by virtue of the Illinois General Not for Profit Corporation Act of 1986, as amended ("the Act") shall be the Chicago Metropolitan Baseball Association (the "League"). The League shall have powers as are now or as may hereafter be granted by the Act.
 
 ## Purpose
 This League is organized exclusively for such social and athletic purposes as will qualify under Illinois statute for a non-profit corporation. It has been formed for the purpose of serving its member franchises ("Member Franchises") by organizing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the League and its community.
@@ -57,7 +57,7 @@ The Commissioner shall
 1. Preside at meetings of the Membership and of the Board of Directors.
 1. Execute contracts in the name of and on behalf of the League, with approval of the board or in accordance with the budget approved by the Board.
 1. Prepare and propose the League’s budget for approval by the Board.
-1. Shall perform such other duties as may be determined by the Board of Directors, and shall perform and discharge such other duties as generally devolve upon a chief executive officer.
+1. Perform such other duties as may be determined by the Board of Directors, and shall perform and discharge such other duties as generally devolve upon a chief executive officer.
 
 ### Treasurer
 The Treasurer shall keep or, at the discretion of the Board cause to be kept, correct and complete records showing accurately at all times the financial condition of League; shall be legal custodian of all monies and other valuables which may from time to time come into the possession of the League; shall maintain a bank account in the name of League; shall prepare and file or, at the discretion of the board, cause to be prepared and filed, all required corporation tax forms and reports; shall furnish at meetings of the Board of Directors and Membership or whenever requested by the Board of Directors, a statement of the financial condition of the League; shall maintain or, at the discretion of the Board, cause to be maintained a roster of active Members in Good Standing; and shall perform such other duties as the Board of Directors may prescribe.

@@ -93,10 +93,10 @@ All references to “Teams” within this document shall be deemed synonymous wi
 1. The league reserves the right to reject, revoke, or require modification of any team name for any reason, including but not limited to offensiveness, duplication, or reputational concerns.
 
 ####  Admission of New Member Franchises
-The Commissioner shall review applications for new Member Franchises for compliance with Franchise Standards.
+The Commissioner shall review applications for new Member Franchises for compliance with Franchise standards.
 
 1. Upon acceptable review, the Commissioner shall present the proposed Member Franchise to the League membership for consideration.
-1. Proposed Member Franchises may present a positive case for inclusion.
+1. Candidate Member Franchises may present a positive case for inclusion.
 1. Acceptance shall require a simple majority vote of the Board.
 
 #### Manager Designation and Authority
@@ -187,7 +187,7 @@ Tampering, or poaching, is defined as the deliberate solicitation, without conse
 Member Franchises are expected to prioritize their commitments to the League. Participation in outside leagues is permitted by agreement with the League. Participation in outside leagues does not relieve a Member Franchise or its Players of League obligations, including playing games on their League-scheduled dates and times. Violations of this provision may result in disciplinary action.
 
 ### Penalties and Fees
-The Commissioner may levy fines to any League Member franchise or player subject to Board oversight. Fines may be levied for violation of Bylaws or Policies or conduct unbecoming of a representative of the League. The penalties and amounts set forth in this section are operational in nature and may be adjusted by the Commissioner with Board oversight, unless otherwise specified. 
+The Commissioner may levy fines to any Member Franchise or player subject to Board oversight. Fines may be levied for violation of Bylaws or Policies or conduct unbecoming of a representative of the League. The penalties and amounts set forth in this section are operational in nature and may be adjusted by the Commissioner with Board oversight, unless otherwise specified. 
 
 1. Late payment of annual dues shall incur a penalty of ten dollars ($10.00) per week, not to exceed five (5) weeks.
 1. Members in violation of the above shall be placed on temporary suspension for a period of two (2) weeks.
@@ -201,7 +201,7 @@ The Commissioner may levy fines to any League Member franchise or player subject
 1. A Manager aggrieved by a discretionary or judgment decision of the Commissioner may request Board review within seventy-two (72) hours of the decision; the Board may, in its sole discretion, accept or decline review, and if it accepts review, it may affirm, modify, or reverse the Commissioner's decision by majority vote. The Board is not required to hold a hearing or provide a written explanation when declining review, and unless the Board grants a stay, the Commissioner's decision remains in effect pending Board review.  Decisions on appeal or Board review are final.
 
 ## Annual League Meeting
-The League shall hold an annual meeting in according with the Bylaws. Quorum and voting thresholds are governed by the Bylaws. The annual meeting process shall consist of the following stages:
+The League shall hold an annual meeting in accordance with the Bylaws. Quorum and voting thresholds are governed by the Bylaws. The annual meeting process shall consist of the following stages:
 
 ### Pre-Meeting of the Current Board
 Prior to the annual meeting, the current Board shall convene to prepare and approve the proposed agenda, voting items, and supporting materials for member review.
@@ -227,7 +227,7 @@ Following the annual meeting, the newly constituted Board shall convene to:
 1. Approve or reject new Member Franchises;
 1. Assign committees, roles, and implementation responsibilities for the upcoming season.
 
-This shall constitute the Board's annual meeting requirements as required by the Bylaws
+This shall constitute the Board's annual meeting requirements as required by the Bylaws.
 
 ## Conduct and Discipline
 
@@ -324,7 +324,7 @@ Eligible players must be of at least eighteen (18) years of age by the date of t
 A team that uses an ineligible player, per the rules in this [Team Rosters Players And Eligibility](#team-rosters-players-and-eligibility), will be deemed to have forfeited any and all games in which the illegal player(s) participated.
 
 #### Free Agents
-A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season if of an intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
+A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season of their intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
 
 ### Uncompleted Games
 All games not completed by the end of the regular season shall count as losses for both teams unless a team deliberately attempts to avoid playing a sanctioned game. The team that was willing to play the game will be judged the forfeit winner if so ruled by the Commissioner.
@@ -370,7 +370,7 @@ All postseason games shall use the Restricted Lineup Format, as defined in the P
 
 All playoff games must be played to completion. If a postseason game is duly called by the umpire for any reason, the game is considered suspended. The game will be continued from the point in the game when it was suspended at a later date provided by the Commissioner. Lineup changes shall be subject to the Playing Rules governing substitution.
 
-The run-rule, or“Slaughter Rule”, is applicable in postseason play.
+The run-rule, or “Slaughter Rule”, is applicable in postseason play.
 
 ## Game Administration
 ### Subjectivity
@@ -450,7 +450,7 @@ Protests may only be made on the grounds of a violation of a rule stated in Leag
 All teams are responsible for the maintenance and cleanup of the field and dugout areas after a game. Both teams must fill in all infield, batter’s box, and pitching mound holes. Additionally, both teams must have adequate equipment on hand for field maintenance. Teams who repeatedly fail to do proper post-game maintenance may be subject to discipline.
 
 #### Notification of Results
-The winning team shall be responsible for notifying the Commissioner of the score of the game no later than 10:00 AM the day after the game was played via text message, email, or telephone call. In the result of a forfeit, notification shall be immediately at the conclusion of the game.
+The winning team shall be responsible for notifying the Commissioner of the score of the game no later than 10:00 AM the day after the game was played via text message, email, or telephone call. In the event of a forfeit, notification shall be immediately at the conclusion of the game.
 
 #### Notification of Protest
 Managers shall notify the league Commissioner of any formal [Protest](#protests) at the earliest possible time after the game and provide umpire signature as proof of notification.

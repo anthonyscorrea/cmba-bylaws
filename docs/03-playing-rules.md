@@ -94,18 +94,21 @@ The following lineup designations are permitted, but not required, in Restricted
 ### Minimum Number of Players
 The minimum number of players per team shall be established as the number of required batting positions as governed by the applicable Lineup Format.
 
-Teams may play with (1) fewer player and if each team has at least this many players present, they must start the game. 
-
-League Policy may apply standings penalty for teams that start with fewer than the minimum.  League Policy may also designate a "forfeit time," the period after which a team with less than the minimum is subject to penalty. A team may not wait until this forfeit time for players to arrive. A team may insert a player into the vacant spot after the start of play.
-
-Any unoccupied batting positions are shall be recorded as an out each time it appears in the batting order unless otherwise provided in these Rules, or League Policy. 
-
-A team may finish the game (1) player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) person line-up, nine (9) players for a ten (10) person lineup). Should a team fall below (8) players, the game is terminated and this team loses by forfeit.
+Teams may play with one (1) fewer player, and if each team has at least this many players present, they must start the game.
 
 !!! Note "Example" 
       For a game subject to the Expanded Lineup, the required number of batting positions is nine (9), so as soon as each team has eight (8) players, the game must start. 
 
-      If a team starts with (8) the vacant ninth spot is an automatic out each time it comes up. If the ninth player arrives after first pitch, that player may be inserted into the vacant spot.
+League Policy may apply standings penalty for teams that start with fewer than the minimum.  League Policy may also designate a "forfeit time," the period after which a team with less than the minimum is subject to penalty. A team may not wait until this forfeit time for players to arrive. A team may insert a player into the vacant spot after the start of play.
+
+Any unoccupied batting positions shall be recorded as an out each time it appears in the batting order unless otherwise provided in these Rules, or League Policy. 
+
+A team may finish the game (1) player short, that is one (1) player less than they started the game with (eight (8) players for a nine (9) person line-up, nine (9) players for a ten (10) person lineup). Should a team fall below eight (8) players, the game is terminated and this team loses by forfeit.
+
+!!! Note "Example" 
+      For a game subject to the Expanded Lineup, the required number of batting positions is nine (9). If a team starts with eight (8) the vacant ninth spot is an automatic out each time it comes up. If the ninth player arrives after first pitch, that player may be inserted into the vacant spot. 
+      
+      If a team drops below 8 players, that team will lose by forfeit.
 
 
 ### Lineup Designations
@@ -114,10 +117,10 @@ A Designated Hitter may bat for any defensive player. If the defensive player fo
 
 #### Extra Hitter (EH)
 
-An Extra Hitter is a batting-only lineup position and may not be used in the field as an extra defensive fielder. For substitution and lineup-administration purposes, an EH position shall be treated the same as a defensive position and may be substituted, re-entered, or reassigned in as governed by the applicable Lineup Format.
+An Extra Hitter is a batting-only lineup position and may not be used in the field as an extra defensive fielder. For substitution and lineup-administration purposes, an EH position shall be treated the same as a defensive position and may be substituted, re-entered, or reassigned as governed by the applicable Lineup Format.
 
 #### Designated Runner (DR)
-A Designated Runner may run for a specified batting position whenever the player occupying that batting position safely reaches base. The DR may be subsituted into the batting order at any batting position. Once the player designated as DR enters the batting lineup, the player is no longer considered a designated runner and may no longer run for the previously assigned batting position. Substitution of either player is governed by the applicable Lineup Format.
+A Designated Runner may run for a specified batting position whenever the player occupying that batting position safely reaches base. The DR may be substituted into the batting order at any batting position. Once the player designated as DR enters the batting lineup, the player is no longer considered a designated runner and may no longer run for the previously assigned batting position. Substitution of either player is governed by the applicable Lineup Format.
 
 Teams with no eligible players remaining on the bench (i.e. all players are in the batting lineup) may elect to use the player that made the last out as the designated runner.
 
@@ -133,7 +136,7 @@ Substitutions are governed by the applicable Lineup Format with the following ex
 
 Should a player suffer a debilitating injury during the game and cannot continue, and a team has no more eligible players on its bench, a team can use a player that was removed from the game to replace him. This replacement player must be the first player removed from the game, and if this player is unavailable the next player is used (and so on). If no reserve is present, the vacated spot in the lineup is skipped and all batters move up accordingly, with no penalty to the affected team.
 
-If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, the pending team may be subject to penalty, up to and including forfeit following a successful protest in accordance with League Policy.
+If a substantial case can be made that a team skipped a spot with the intent to gain a competitive advantage, the offending team may be subject to penalty, up to and including forfeit following a successful protest in accordance with League Policy.
 
 ## Collisions
 Collisions are prohibited, except for contact that results from a legal slide. The runner is responsible for sliding or otherwise avoiding contact. Fielders and runners must comply with Incorporated Rules governing interference, obstruction, and collisions at home plate.
@@ -141,8 +144,8 @@ Collisions are prohibited, except for contact that results from a legal slide. T
 Unless the umpire rules that the contact was incidental or caused by fielder obstruction, the runner shall be called out, the ball declared dead, and the runner automatically ejected. If the umpire determines the collision was flagrant, additional penalties may be imposed as applicable in League Policy.
 
 ## Umpire Disputes
- The appeal of umpire decisions shall be governed as set forth in the Incorporated Rules. Any protests must be made in accordance with League Policy.
+The appeal of umpire decisions shall be governed as set forth in the Incorporated Rules. Any protests must be made in accordance with League Policy.
 
 !!! Note "Generally"
-      - Any umpire’s decision which involves judgment are final. No player or manager shall object to any such judgment decisions. 
+      - Any umpire’s decision which involves judgment is final. No player or manager shall object to any such judgment decisions. 
       - If there is reasonable doubt that any umpire’s decision may be in conflict with the rules, the Manager, and the Manager alone, may appeal the decision and ask that a correct ruling be made. 
