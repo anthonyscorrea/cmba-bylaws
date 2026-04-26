@@ -35,4 +35,4 @@ The Chicago Metropolitan Baseball Association exists to provide strong amateur b
 
 ## Additional Resources
 
-- [Summary of High Level Changes for 2026](summary-of-changes.md)
+- [Summary of Changes](summary-of-changes.md)
