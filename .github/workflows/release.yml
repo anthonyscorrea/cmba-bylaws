@@ -48,6 +48,21 @@ jobs:
         run: |
           set -euo pipefail
 
+          REPO_SLUG="${GITHUB_REPOSITORY#*/}"
+          BASE_SITE_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO_SLUG}/"
+          MKDOCS_REPO_URL="https://github.com/${GITHUB_REPOSITORY}/tree/${GITHUB_REF_NAME}"
+          MKDOCS_REPO_NAME="${GITHUB_REPOSITORY}"
+
+          if [[ "${GITHUB_REF_NAME}" == draft* ]]; then
+            MKDOCS_SITE_URL="${BASE_SITE_URL}draft/"
+          elif [[ "${GITHUB_REF_NAME}" == rc* ]]; then
+            MKDOCS_SITE_URL="${BASE_SITE_URL}rc/"
+          else
+            MKDOCS_SITE_URL="${BASE_SITE_URL}"
+          fi
+
+          export MKDOCS_SITE_URL MKDOCS_REPO_URL MKDOCS_REPO_NAME
+
           FLAGS=()
           if [ "${MKDOCS_STRICT}" = "true" ]; then
             FLAGS+=(--strict)

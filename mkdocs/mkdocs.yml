@@ -1,4 +1,7 @@
 site_name: CMBA Bylaws, Policy, and Playing Rules
+site_url: !ENV [MKDOCS_SITE_URL, ""]
+repo_url: !ENV [MKDOCS_REPO_URL, ""]
+repo_name: !ENV [MKDOCS_REPO_NAME, ""]
 docs_dir: ../docs
 
 # Prevent accidental publishing of repo/CI/dev clutter

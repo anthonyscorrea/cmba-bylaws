@@ -47,6 +47,12 @@ jobs:
         run: |
           set -euo pipefail
           echo "Strict is set to ${MKDOCS_STRICT}"
+          REPO_SLUG="${GITHUB_REPOSITORY#*/}"
+          MKDOCS_SITE_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO_SLUG}/"
+          MKDOCS_REPO_URL="https://github.com/${GITHUB_REPOSITORY}/tree/${GITHUB_REF_NAME}"
+          MKDOCS_REPO_NAME="${GITHUB_REPOSITORY}"
+          export MKDOCS_SITE_URL MKDOCS_REPO_URL MKDOCS_REPO_NAME
+
           FLAGS=()
 
           if [ "${MKDOCS_STRICT}" = "true" ]; then
