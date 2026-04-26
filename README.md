@@ -45,6 +45,23 @@ MkDocs serves the site locally and watches the Markdown files under `docs/` for 
 - Use the local preview server when editing headings, internal links, or cross-references.
 - Update `tools/spellcheck/baseball-words.txt` when league-specific terminology is flagged by CSpell.
 
+## Amendment Flow
+
+Amendments move through three review stages before publication:
+
+1. Draft amendments are prepared on the `draft` branch. Use this branch for active editing, internal review, and early validation.
+2. Drafts may be prereleased for review by pushing a `draft*` tag. The draft prerelease provides a reviewable GitHub release and deploys the draft preview site at `/draft/`.
+3. When the draft is ready for formal consideration, merge it into `release-candidate` with a merge commit. The merge commit preserves the point at which the draft moved into release-candidate review.
+4. Release candidates may be prereleased for review by pushing an `rc*` tag. The release-candidate prerelease provides the version to be voted on and deploys the release-candidate preview site at `/rc/`.
+5. After the amendment is voted on and approved according to the required CMBA process, merge the release candidate into `main`.
+6. Publish the approved amendment from `main` by pushing a `v*` tag and creating the final GitHub release.
+
+The final GitHub release is the published record for an approved amendment. It should include:
+
+- an offline HTML version of the documents
+- a `.docx` version of the combined bylaws, policy, and playing rules
+- a `.docx` version of the playing rules only
+
 ## Publishing
 
 Publishing is driven by GitHub Actions.
@@ -67,7 +84,7 @@ It builds both the normal site and an offline site package, then publishes based
 
 - `draft*`: creates a GitHub prerelease, attaches the offline zip and generated `.docx`, and deploys the preview site to the `gh-pages` branch under `/draft/`
 - `rc*`: creates a GitHub prerelease, attaches the offline zip and generated `.docx`, and deploys the preview site to the `gh-pages` branch under `/rc/`
-- `v*`: creates a GitHub release, attaches the offline zip, and deploys the release site to the root of the `gh-pages` branch
+- `v*`: creates a GitHub release, attaches the release artifacts, and deploys the release site to the root of the `gh-pages` branch
 
 The GitHub release description is generated from `docs/summary-of-changes.md`. Draft and release-candidate prereleases prepend a short prerelease note before that summary.
 
