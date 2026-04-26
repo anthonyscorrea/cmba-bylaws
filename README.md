@@ -69,6 +69,8 @@ It builds both the normal site and an offline site package, then publishes based
 - `rc*`: creates a GitHub prerelease, attaches the offline zip and generated `.docx`, and deploys the preview site to the `gh-pages` branch under `/rc/`
 - `v*`: creates a GitHub release, attaches the offline zip, and deploys the release site to the root of the `gh-pages` branch
 
+The GitHub release description is generated from `docs/summary-of-changes.md`. Draft and release-candidate prereleases prepend a short prerelease note before that summary.
+
 In all cases, the release workflow uses the same MkDocs configuration in `mkdocs/mkdocs.yml`, with strict mode controlled by the `MKDOCS_STRICT` GitHub Actions variable.
 
 ## Project History

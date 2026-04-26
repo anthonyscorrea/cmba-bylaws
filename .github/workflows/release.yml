@@ -115,6 +115,20 @@ jobs:
           cd "${RUNNER_TEMP}/mkdocs_out/site_offline/"
           zip -r "${GITHUB_REF_NAME}.zip" ./${GITHUB_REF_NAME}
 
+      - name: Prepare release notes
+        run: |
+          set -euo pipefail
+
+          RELEASE_NOTES="${RUNNER_TEMP}/release-notes.md"
+
+          if [[ "${GITHUB_REF_NAME}" == draft* || "${GITHUB_REF_NAME}" == rc* ]]; then
+            printf 'Prerelease.\n\n' > "${RELEASE_NOTES}"
+          else
+            : > "${RELEASE_NOTES}"
+          fi
+
+          cat docs/summary-of-changes.md >> "${RELEASE_NOTES}"
+
       - name: Publish prerelease
         if: startsWith(github.ref_name, 'rc') || startsWith(github.ref_name, 'draft')
         uses: softprops/action-gh-release@v2
@@ -122,8 +136,7 @@ jobs:
           prerelease: true
           name: ${{ github.ref_name }}
           tag_name: ${{ github.ref_name }}
-          body: |
-            Prerelease.
+          body_path: ${{ runner.temp }}/release-notes.md
           files: |
             ${{ runner.temp }}/mkdocs_out/site_offline/${{ github.ref_name }}.zip
             ${{ runner.temp }}/pandoc/${{ github.ref_name }}-${{ env.SHORT_SHA }}.docx
@@ -134,6 +147,7 @@ jobs:
         with:
           name: ${{ github.ref_name }}
           tag_name: ${{ github.ref_name }}
+          body_path: ${{ runner.temp }}/release-notes.md
           files: |
             ${{ runner.temp }}/mkdocs_out/site_offline/${{ github.ref_name }}.zip
 
