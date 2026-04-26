@@ -109,8 +109,10 @@ Each Member Franchise in good standing shall be entitled to one vote on matters 
 Member actions shall include:
 1. Election of Directors;
 2. Advisory votes on League operational matters submitted for membership input;
-3. Confidence votes on League Officers.
-4. Approval of amendents to the Playing Rules.
+3. Confidence votes on League Officers;
+4. Approval of amendments to the Playing Rules. 
+
+Typographical corrections, formatting changes, cross-reference updates, and other non-substantive changes that do not alter the meaning or effect of a Playing Rule shall not constitute amendments requiring approval by Member Franchises.
 
 Unless otherwise required by these Bylaws, member actions shall be decided by a simple majority of votes cast at a meeting at which a quorum is present.
 

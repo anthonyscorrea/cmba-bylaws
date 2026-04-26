@@ -68,8 +68,7 @@ Amendments to the Bylaws are governed exclusively by the procedures set forth th
 
 ### Playing Rules Amendments
 1. Playing Rules governing on-field competition may be amended separately from this League Policy.
-1. Playing Rules amendments shall be adopted by a vote of Member Franchises in Good Standing.
-1. Unless otherwise specified, a simple majority vote shall be sufficient to adopt a Playing Rules amendment.
+1. Playing Rules amendments may be proposed by the Commissioner or Board and shall be approved by a vote of Member Franchises in Good Standing in accordance with the Bylaws. Member Franchises may submit amendments to the Commissioner or Board for proposal at the Commissioner's or Board's discretion.
 1. Playing Rules amendments shall not apply retroactively and shall take effect at the start of a season.
 
 ## League Participants
