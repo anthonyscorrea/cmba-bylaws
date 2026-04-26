@@ -2,6 +2,10 @@ name: CI - Docs build check
 
 on:
   push: 
+    tags:
+      - "draft*"
+      - "rc*"
+      - "v*"
     branches:
       - main
       - draft

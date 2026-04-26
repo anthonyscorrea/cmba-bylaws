@@ -1,4 +1,4 @@
-name: Build & publish docs (rc + release)
+name: Build & publish
 
 on:
   push:
