@@ -32,3 +32,7 @@ For on-field administration, the Playing Rules also incorporate the Official Bas
 ## About the CMBA
 
 The Chicago Metropolitan Baseball Association exists to provide strong amateur baseball competition in Illinois and the Midwest, with an emphasis on competitive play, sportsmanship, and league continuity.
+
+## Additional Resources
+
+- [Summary of High Level Changes for 2026](summary-of-changes.md)
