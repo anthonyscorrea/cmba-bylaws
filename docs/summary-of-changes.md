@@ -24,6 +24,7 @@
 ### Playing Rules
 
 - Playing Rules now focus on on-field competition only, with administrative topics moved into League Policy.
+- Pre-game warmup guidance has been added for  field sharing, batting cage use, and a suggested 20-to-30-minute overall warmup window counted from when the first team starts.
 - The Playing Rules expressly incorporate the Official Baseball Rules unless a League exception applies.
 - The draft clarifies which modern MLB rules are not adopted by description, including limits on position-player pitching, shift restrictions, extra-inning automatic runners, pitch clocks, disengagement limits, the three-batter minimum, per-game mound visit limits, mandatory 18-inch bases, and replay/specialized-equipment rules.
 - The League now has a clear rule hierarchy: League Policy controls first, then Playing Rules, then incorporated MLB rules.

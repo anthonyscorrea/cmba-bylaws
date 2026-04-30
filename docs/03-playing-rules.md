@@ -21,6 +21,16 @@ These rules shall *not* incorporate the following rules of Major League Baseball
 ## Pre-Game Meeting
 Before first pitch, the Managers and the umpire-in-chief shall conduct a pre-game meeting. A Manager may designate a team delegate to attend on the Manager’s behalf. At this meeting, the teams shall exchange lineups and review any applicable ground rules with the umpire.
 
+## Pre-Game Warmups
+As a general pre-game guideline, teams should plan for about 20 to 30 minutes of total defensive warmup time (i.e. an infield/outfield routine), counted from when the first team starts, and distributed evenly as practically as possible. The visiting team will usually go first, and the home team will usually take the final turn before the pre-game meeting and first pitch. For fields where a batting cage is available, the team not using the field should make use of the batting cage while the other team finishes its defensive warmups.
+
+Managers may agree to reverse the order or adjust the timing if that works better for both teams.
+
+!!! Examples
+      For a game starting at 9:30 am at a field with a batting cage, the visiting team might perform their infield/outfield routine from about 9:00 to 9:15 while the home team uses the batting cage. The teams would then switch, with the home team taking the field from about 9:15 to 9:30 and the visiting team using the cage or bullpen until first pitch.
+
+      For a game starting at 6:15 pm at a field with a batting cage, the home team might start offensive warmups in the batting cage at 6:00 pm. Because there are 15 minutes before first pitch, they take approximately 7.5 minutes for offensive warmups while the visiting team uses the field for their defensive infield/outfield routine. The teams would then switch, with the home team taking the field from about 6:07 to 6:14 and the visiting team using the cage until first pitch.
+
 ## Regulation Games
 Games played under the auspices of both recognized Managers of the participating teams shall count as official. A regulation game is defined as follows
 
