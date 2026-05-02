@@ -1,95 +1,100 @@
 <p align="center">
-<img src="https://github.com/anthonyscorrea/silver-memory/blob/a712bca2516c3e860f2c61ea383a3132ead0614b/cmba-logo.svg" width="200">
+  <img src="docs/assets/cmba-logo.svg" width="200" alt="CMBA logo">
 </p>
 
-# CMBA Constitution and Bylaws
+# CMBA Bylaws, Policy, and Playing Rules
 
-The Constitution and Bylaws for the baseball league known as the [Chicago Metropolitan Baseball Association (CMBA)](#about-the-cmba).
+This repository contains the governing documents for the Chicago Metropolitan Baseball Association (CMBA) in Markdown form, along with the MkDocs configuration used to publish them as a static documentation site.
 
-The compiled, published text can be found in the following formats:
-- [PDF](build/cmba-bylaws.pdf)
-- [HTML](build/cmba-bylaws.html)
-- [ePUB](build/cmba-bylaws.epub)
+## Repository Layout
 
-The source text for this document can be found in Markdown format in [src/cmba-bylaws.md](src/cmba-bylaws.md).
+- `docs/index.md`: site home page
+- `docs/01-bylaws.md`: league bylaws
+- `docs/02-policy.md`: league policy
+- `docs/03-playing-rules.md`: playing rules
+- `mkdocs/mkdocs.yml`: MkDocs site configuration
+- `mkdocs/requirements.txt`: Python packages required to build the site
+- `tools/spellcheck/`: CSpell configuration and custom baseball dictionary
 
-## Building from source
+## Local Development
 
 ### Requirements
 
-Building from source requires:
-- [Pandoc](https://pandoc.org)
-- [GNU Make](https://www.gnu.org/software/make/)
+- Python 3
+- `pip`
 
-### Steps
-1. Download the latest release or clone the repo: 
-```
-git clone https://github.com/anthonyscorrea/cmba-bylaws.git
-```
-2. Navigate to the root directory:
-```
-cd cmba-bylaws-master
-```
-3. Publish into desired format:
-```
-make {format}
-```
-were `{format}` is one of the below:
-   - All [default]: `make all` or `make`
-   - PDF: `make pdf`
-   - html: `make html`
-   - epub: `make epub`
-5. Built files will be in the `build/` directory
+### Install Dependencies
 
-## Markdown formatting
-
-- `#` or `h1` is used for either "Constitution" or "Bylaws". They are not numbered, necessitating an `{.unnumbered}` class. 
-   - Note: to get the numbering to match existing convention, a [Lua filter](https://github.com/jgm/pandoc/issues/5071#issuecomment-856918980) was required, see [jgm/pandoc#5701](https://github.com/jgm/pandoc/issues/5071)
-- `##` or `h2` is used for sections
-- `###` or `h3` is used for subsections
-
-## Metadata
-
-Metadata is stored in the `metadata.yml` file.
-
-## Project history
-
-The constitution and bylaws were modernized in 2021, using Google Docs. This project brings that effort into Git and Github. Previous commits show a generated plain-text history of the changes prior to this project (thanks to [gitdriver](https://github.com/larsks/gitdriver)), with the first being the version from 2016.
-
-## Spell-checking
-Spell-checking is performed on the pre-commit via [.spell-check/git-spell-check](.spell-check/git-spell-check) (courtesy of [mprpic/git-spell-check](https://github.com/mprpic/git-spell-check))
-
-You can manually run spell-checking of all markdown files by running the script (requires [aspell](http://aspell.net)):
-
-```console
-./.spell-check/spell-check
+```bash
+python3 -m pip install -r mkdocs/requirements.txt
 ```
 
-Should you want to bypass the pre-commit hook (though not recommended), you can commit with 
-```console
-git commit --no-verify".
+### Preview the Site Locally
+
+```bash
+mkdocs serve -f mkdocs/mkdocs.yml
 ```
 
-## GitHub Pages
+MkDocs serves the site locally and watches the Markdown files under `docs/` for changes.
 
-The html output can be hosted on GitHub Pages. Currently the site is hosted at the branch [gh-pages](https://github.com/anthonyscorrea/cmba-bylaws/tree/gh-pages). To update this page, you should:
+## Editing Guidance
 
-1. First build from the main branch and build html
-```console
-git clone https://github.com/anthonyscorrea/cmba-bylaws.git
-make html
-```
-2. Then clone the gh-pages branch and replace `index.html` with the updated page.
-```console
-git clone https://github.com/anthonyscorrea/cmba-bylaws.git --branch gh-pages cmba-bylaws-gh-pages
-cp ../cmba-bylaws/build/cmba-bylaws.html ./cmba-bylaws-gh-pages/index.html
-git push origin
-```
+- Keep the canonical text in the Markdown files under `docs/`.
+- Preserve the separation between bylaws, policy, and playing rules.
+- Use the local preview server when editing headings, internal links, or cross-references.
+- Update `tools/spellcheck/baseball-words.txt` when league-specific terminology is flagged by CSpell.
 
-## To-Do
-- [X] Spell Checking 
-- [ ] Remove dependence on make, verify Windows support
+## Amendment Flow
+
+Amendments move through three review stages before publication:
+
+1. Draft amendments are prepared on the `draft` branch. Use this branch for active editing, internal review, and early validation.
+2. Drafts may be prereleased for review by pushing a `draft*` tag. The draft prerelease provides a reviewable GitHub release and deploys the draft preview site at `/draft/`.
+3. When the draft is ready for formal consideration, merge it into `release-candidate` with a merge commit. The merge commit preserves the point at which the draft moved into release-candidate review.
+4. Release candidates may be prereleased for review by pushing an `rc*` tag. The release-candidate prerelease provides the version to be voted on and deploys the release-candidate preview site at `/rc/`.
+5. After the amendment is voted on and approved according to the required CMBA process, merge the release candidate into `main`.
+6. Publish the approved amendment from `main` by pushing a `v*` tag and creating the final GitHub release.
+
+The final GitHub release is the published record for an approved amendment. It should include:
+
+- an offline HTML version of the documents
+- a `.docx` version of the combined bylaws, policy, and playing rules
+- a `.docx` version of the playing rules only
+
+## Publishing
+
+Publishing is driven by GitHub Actions.
+
+### `ci-docs`
+
+The `.github/workflows/ci-docs.yml` workflow runs on pushes to `main`, `draft`, and `release-candidate`, and can also be started manually.
+
+It performs the non-publishing validation steps:
+
+- spellchecks `docs/**/*.md` and `README.md` with CSpell
+- installs the MkDocs dependencies from `mkdocs/requirements.txt`
+- runs a MkDocs build using `mkdocs/mkdocs.yml`
+
+### `release`
+
+The `.github/workflows/release.yml` workflow runs on pushed tags matching `draft*`, `rc*`, and `v*`, and can also be started manually.
+
+It builds both the normal site and an offline site package, then publishes based on the tag prefix:
+
+- `draft*`: creates a GitHub prerelease, attaches the offline zip and generated `.docx`, and deploys the preview site to the `gh-pages` branch under `/draft/`
+- `rc*`: creates a GitHub prerelease, attaches the offline zip and generated `.docx`, and deploys the preview site to the `gh-pages` branch under `/rc/`
+- `v*`: creates a GitHub release, attaches the release artifacts, and deploys the release site to the root of the `gh-pages` branch
+
+The GitHub release description is generated from `docs/summary-of-changes.md`. Draft and release-candidate prereleases prepend a short prerelease note before that summary.
+
+In all cases, the release workflow uses the same MkDocs configuration in `mkdocs/mkdocs.yml`, with strict mode controlled by the `MKDOCS_STRICT` GitHub Actions variable.
+
+## Project History
+
+The constitution and bylaws were re-architected in 2026 into the CMBA Bylaws, Policy, and Playing Rules.
+
+The constitution and bylaws were modernized in 2021 using Google Docs. This project brings that work into Git and GitHub. Earlier commits preserve generated plain-text history of prior revisions, with the earliest tracked version dating to 2016.
 
 ## About the CMBA
-This baseball league known as the [Chicago Metropolitan Baseball Association (CMBA)](http://cmbabaseball.com) has been formed for the purpose of providing the finest amateur baseball league in the State of Illinois and Midwest; a league where an up and coming young prospect for professional baseball may play and develop; where the talented veteran player can enjoy playing among the best competition; and bring friendship and sportsmanship to the Association.
 
+The [Chicago Metropolitan Baseball Association](http://cmbabaseball.com) exists to provide a high-level amateur baseball league in Illinois and the Midwest, where developing players and veteran players can compete in a strong environment centered on baseball, sportsmanship, and community.

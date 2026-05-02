@@ -1,0 +1,67 @@
+name: CI - Docs build check
+
+on:
+  push: 
+    tags:
+      - "draft*"
+      - "rc*"
+      - "v*"
+    branches:
+      - main
+      - draft
+      - release-candidate
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+env:
+  MKDOCS_STRICT: ${{ vars.MKDOCS_STRICT || 'true' }}
+  MKDOCS_CONFIG: mkdocs/mkdocs.yml 
+  MKDOCS_OFFLINE: false
+  CSPELL_CONFIG: tools/spellcheck/cspell.yml
+  CSPELL_TARGETS: docs/**/*.md README.md
+
+jobs:
+  build-check:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Spellcheck
+        run: |
+          set -euo pipefail
+          npx --yes cspell \
+            --config ${CSPELL_CONFIG} \
+            ${CSPELL_TARGETS}
+
+      - name: Install build dependencies
+        run: |
+          set -euo pipefail
+          pip install -r mkdocs/requirements.txt
+
+      - name: MkDocs build (strict default)
+
+        run: |
+          set -euo pipefail
+          echo "Strict is set to ${MKDOCS_STRICT}"
+          REPO_SLUG="${GITHUB_REPOSITORY#*/}"
+          MKDOCS_SITE_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO_SLUG}/"
+          MKDOCS_REPO_URL="https://github.com/${GITHUB_REPOSITORY}/tree/${GITHUB_REF_NAME}"
+          MKDOCS_REPO_NAME="${GITHUB_REPOSITORY}"
+          export MKDOCS_SITE_URL MKDOCS_REPO_URL MKDOCS_REPO_NAME
+
+          FLAGS=()
+
+          if [ "${MKDOCS_STRICT}" = "true" ]; then
+            FLAGS+=(--strict)
+          fi
+          MKDOCS_OUTPUT_DIR="${RUNNER_TEMP:-${TMPDIR:-/tmp}}/dist"
+           
+          mkdocs build "${FLAGS[@]}" -f "${MKDOCS_CONFIG}" -d "${MKDOCS_OUTPUT_DIR}"

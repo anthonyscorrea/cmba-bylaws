@@ -1,0 +1,214 @@
+name: Build & publish
+
+on:
+  push:
+    tags:
+      - "draft*"
+      - "rc*"
+      - "v*"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  MKDOCS_CONFIG: mkdocs/mkdocs.yml
+  MKDOCS_STRICT: ${{ vars.MKDOCS_STRICT || 'true' }}
+  SKIP_DOCX: f${{ vars.SKIP_DOCX || 'false' }}e
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout (tag)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: |
+          set -euo pipefail
+          pip install -r mkdocs/requirements.txt
+
+          # Install pandoc if not present
+          if [ "${SKIP_DOCX}" != "true" ]; then
+            if ! command -v pandoc >/dev/null 2>&1; then
+              sudo apt-get update
+              sudo apt-get install -y pandoc
+            fi
+          fi
+
+      - name: Build docs (normal + offline, strict gate)
+        run: |
+          set -euo pipefail
+
+          REPO_SLUG="${GITHUB_REPOSITORY#*/}"
+          BASE_SITE_URL="https://${GITHUB_REPOSITORY_OWNER}.github.io/${REPO_SLUG}/"
+          MKDOCS_REPO_URL="https://github.com/${GITHUB_REPOSITORY}/tree/${GITHUB_REF_NAME}"
+          MKDOCS_REPO_NAME="${GITHUB_REPOSITORY}"
+
+          if [[ "${GITHUB_REF_NAME}" == draft* ]]; then
+            MKDOCS_SITE_URL="${BASE_SITE_URL}draft/"
+          elif [[ "${GITHUB_REF_NAME}" == rc* ]]; then
+            MKDOCS_SITE_URL="${BASE_SITE_URL}rc/"
+          else
+            MKDOCS_SITE_URL="${BASE_SITE_URL}"
+          fi
+
+          export MKDOCS_SITE_URL MKDOCS_REPO_URL MKDOCS_REPO_NAME
+
+          FLAGS=()
+          if [ "${MKDOCS_STRICT}" = "true" ]; then
+            FLAGS+=(--strict)
+          fi
+
+          OUT_BASE="${RUNNER_TEMP}/mkdocs_out"
+          SITE="${OUT_BASE}/site"
+          SITE_OFFLINE="${OUT_BASE}/site_offline/${GITHUB_REF_NAME}"
+
+          rm -rf "${OUT_BASE}"
+          mkdir -p "${SITE}" "${SITE_OFFLINE}"
+
+          mkdocs build "${FLAGS[@]}" -f "${MKDOCS_CONFIG}" -d "${SITE}"
+          OFFLINE=true mkdocs build "${FLAGS[@]}" -f "${MKDOCS_CONFIG}" -d "${SITE_OFFLINE}"
+      
+      - name: Export docx
+        if: env.SKIP_DOCX != 'true'
+        run: |
+          set -euo pipefail
+
+          SHORT_SHA="${GITHUB_SHA::7}"
+
+          OUT_DIR="${RUNNER_TEMP}/pandoc"
+          OUT_FILE="${GITHUB_REF_NAME}-${SHORT_SHA}.docx"
+          PLAYING_RULES_OUT_FILE="${GITHUB_REF_NAME}-${SHORT_SHA}-playing-rules.docx"
+          echo "SHORT_SHA=`echo ${SHORT_SHA}`" >> $GITHUB_ENV
+
+          mkdir -p "${OUT_DIR}"
+
+          # Collect markdown files, excluding README.md and docs/index.md
+          mapfile -t MD_FILES < <(
+            find docs -name '*.md' \
+              ! -name 'index.md' \
+              ! -name 'README.md' \
+              | sort
+          )
+
+          echo "Generating ${OUT_FILE}"
+
+          # Adjust input paths as needed
+          pandoc \
+            "${MD_FILES[@]}" \
+            --number-sections  \
+            -o "${OUT_DIR}/${OUT_FILE}"
+          
+          echo "Pandoc output written to ${OUT_DIR}/${OUT_FILE}"
+
+          echo "Generating ${PLAYING_RULES_OUT_FILE}"
+
+          pandoc \
+            docs/03-playing-rules.md \
+            --shift-heading-level-by=-1 \
+            --number-sections \
+            -o "${OUT_DIR}/${PLAYING_RULES_OUT_FILE}"
+
+          echo "Pandoc output written to ${OUT_DIR}/${PLAYING_RULES_OUT_FILE}"
+
+      - name: Zip offline site
+        run: |
+          set -euo pipefail
+          cd "${RUNNER_TEMP}/mkdocs_out/site_offline/"
+          zip -r "${GITHUB_REF_NAME}.zip" ./${GITHUB_REF_NAME}
+
+      - name: Prepare release notes
+        run: |
+          set -euo pipefail
+
+          RELEASE_NOTES="${RUNNER_TEMP}/release-notes.md"
+
+          if [[ "${GITHUB_REF_NAME}" == draft* || "${GITHUB_REF_NAME}" == rc* ]]; then
+            printf 'Prerelease.\n\n' > "${RELEASE_NOTES}"
+          else
+            : > "${RELEASE_NOTES}"
+          fi
+
+          cat docs/summary-of-changes.md >> "${RELEASE_NOTES}"
+
+      - name: Publish prerelease
+        if: startsWith(github.ref_name, 'rc') || startsWith(github.ref_name, 'draft')
+        uses: softprops/action-gh-release@v2
+        with:
+          prerelease: true
+          name: ${{ github.ref_name }}
+          tag_name: ${{ github.ref_name }}
+          body_path: ${{ runner.temp }}/release-notes.md
+          files: |
+            ${{ runner.temp }}/mkdocs_out/site_offline/${{ github.ref_name }}.zip
+            ${{ runner.temp }}/pandoc/${{ github.ref_name }}-${{ env.SHORT_SHA }}.docx
+            ${{ runner.temp }}/pandoc/${{ github.ref_name }}-${{ env.SHORT_SHA }}-playing-rules.docx
+
+      - name: Publish release
+        if: startsWith(github.ref_name, 'v')
+        uses: softprops/action-gh-release@v2
+        with:
+          name: ${{ github.ref_name }}
+          tag_name: ${{ github.ref_name }}
+          body_path: ${{ runner.temp }}/release-notes.md
+          files: |
+            ${{ runner.temp }}/mkdocs_out/site_offline/${{ github.ref_name }}.zip
+            ${{ runner.temp }}/pandoc/${{ github.ref_name }}-${{ env.SHORT_SHA }}.docx
+            ${{ runner.temp }}/pandoc/${{ github.ref_name }}-${{ env.SHORT_SHA }}-playing-rules.docx
+
+      - name: Checkout gh-pages branch
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          fetch-depth: 0
+
+      - name: Deploy release to gh-pages root
+        if: startsWith(github.ref_name, 'v')
+        run: |
+          set -euo pipefail
+          rm -rf ./*
+          cp -a ${RUNNER_TEMP}/mkdocs_out/site/. .
+          git add -A
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Deploy release ${GITHUB_REF_NAME}" || echo "No changes to commit"
+          git push origin gh-pages
+
+      - name: Deploy RC preview to /rc/
+        if: startsWith(github.ref_name, 'rc')
+        run: |
+          set -euo pipefail
+          rm -rf rc draft
+          mkdir -p rc
+          cp -a ${RUNNER_TEMP}/mkdocs_out/site/. rc/
+          printf '{"tag":"%s"}\n' "${GITHUB_REF_NAME}" > rc/rc.json
+
+          git add -A
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Deploy RC preview ${GITHUB_REF_NAME}" || echo "No changes to commit"
+          git push origin gh-pages
+      
+      - name: Deploy draft preview to /draft/
+        if: startsWith(github.ref_name, 'draft')
+        run: |
+          set -euo pipefail
+          rm -rf rc draft
+          mkdir -p draft
+          cp -a ${RUNNER_TEMP}/mkdocs_out/site/. draft/
+          printf '{"tag":"%s"}\n' "${GITHUB_REF_NAME}" > draft/draft.json
+
+          git add -A
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git commit -m "Deploy draft preview ${GITHUB_REF_NAME}" || echo "No changes to commit"
+          git push origin gh-pages

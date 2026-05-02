@@ -1,0 +1,46 @@
+site_name: CMBA Bylaws, Policy, and Playing Rules
+site_url: !ENV [MKDOCS_SITE_URL, ""]
+repo_url: !ENV [MKDOCS_REPO_URL, ""]
+repo_name: !ENV [MKDOCS_REPO_NAME, ""]
+docs_dir: ../docs
+
+# Prevent accidental publishing of repo/CI/dev clutter
+theme:
+  name: material
+  palette:
+    scheme: default
+    primary: blue
+    accent: red
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.top
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+  logo: assets/cmba-logo.svg
+  favicon: assets/cmba-favicon.png
+extra_css:
+  - styles/extra.css
+markdown_extensions:
+  - toc:
+      permalink: true
+  - admonition:
+  # - tables
+nav:
+  - Home: index.md
+  - 01-bylaws.md
+  - 02-policy.md
+  - 03-playing-rules.md
+
+plugins:
+  - search
+  - offline
+  - enumerate-headings:
+      toc_depth: 2
+      exclude:
+        - index.md
+
+validation:
+  links:
+    anchors: warn #this defaults to info, but it will cause broken links in anchor headers
