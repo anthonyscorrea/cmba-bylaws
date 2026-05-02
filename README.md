@@ -14,7 +14,6 @@ This repository contains the governing documents for the Chicago Metropolitan Ba
 - `docs/03-playing-rules.md`: playing rules
 - `mkdocs/mkdocs.yml`: MkDocs site configuration
 - `mkdocs/requirements.txt`: Python packages required to build the site
-- `tools/build.sh`: production build script
 - `tools/spellcheck/`: CSpell configuration and custom baseball dictionary
 
 ## Local Development
