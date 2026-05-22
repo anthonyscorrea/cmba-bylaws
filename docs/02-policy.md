@@ -462,6 +462,13 @@ Upon the filing of a protest, the Commissioner may request advisory review or co
 
 ### Game Outcomes
 
+#### Called Games
+For regular-season games, the following called-game outcome rules apply:
+
+1. If a game is called before it becomes a regulation game, it is a "No Game" and shall be replayed from the start.
+1. If a regulation game is called at the end of a completed inning, the score at the end of that inning shall be the official score.
+1. If a regulation game is called during the home team's half of an inning before that inning is completed, the official score shall be the score at the time the game is called if the home team has tied the score or taken the lead in that inning; otherwise, the score shall revert to the score at the end of the last fully completed inning.
+
 #### Technical Forfeit
 If a team is in technical forfeit status, the game may proceed as permitted by Playing Rules, but the following applies:
 
