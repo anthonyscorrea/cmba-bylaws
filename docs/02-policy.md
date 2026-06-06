@@ -326,6 +326,22 @@ A team that uses an ineligible player, per the rules in this [Team Rosters Playe
 #### Free Agents
 A player must inform the League Commissioner and such player's Manager no later than February 15 of the upcoming season of their intention to leave the team and become a free agent. After this the player is free to play for another team in the League. A Manager may waive this deadline for an individual player at the Manager’s discretion. If the player fails to notify as specified, that player shall be disqualified from playing on another League team for that season.
 
+### Addendum for the 2026 Season
+This temporary addendum is intended to encourage league expansion in 2027 and beyond by giving people who might not otherwise have a place to play the opportunity to participate in the League.
+
+#### Regular Season
+1. For the 2026 season, the maximum regular season roster size is thirty (30) players.
+1. The roster submission deadline remains June 1, and teams may add players up to the 30-player limit through August 1. Roster additions between June 1 and August 1 must be submitted to the Commissioner.
+1. Players may play for only one team at a time. Players may be transferred between teams, and teams are encouraged to transfer players to teams that can provide more playing time. All transfers must be submitted to the Commissioner for approval.
+1. The League may maintain a waitlist. Waitlist players may be used in the event of a player shortfall for a particular game.
+1. All players appearing in a game must wear baseball pants and a jersey. The jersey, at minimum, must match the team’s colors. During the regular season, the jersey may be blank on the front and back.
+
+#### Playoffs
+1. Each team’s playoff roster must be set by August 1, 2026.
+1. No playoff roster may exceed twenty-six (26) players.
+1. Players on the playoff roster must be eligible under the League’s playoff eligibility rules.
+1. Playoff roster players must wear numbered jerseys and comply with the regular (non-addendum) uniform requirements.
+
 ### Uncompleted Games
 All games not completed by the end of the regular season shall count as losses for both teams unless a team deliberately attempts to avoid playing a sanctioned game. The team that was willing to play the game will be judged the forfeit winner if so ruled by the Commissioner.
 
